@@ -1,0 +1,9 @@
+---
+title: 'SpaceTALK'
+date: Thu, 20 Aug 2009 01:29:51 +0000
+draft: false
+tags: [Linux, spacewalk]
+type: post
+---
+
+Are you a [Spacewalk](http://www.redhat.com/spacewalk/) user? Have you wished you could easily get in contact with the [Spacewalk development team](https://fedorahosted.org/spacewalk/wiki/ContributorList) or other Spacewalk user? Then you want to use SpaceTALK :) I spent the last two nights coding up the chat feature in Spacewalk. When you click the banner or the _Chat_ menu in the Help section, a new window is opened with a web-based [IRC](http://en.wikipedia.org/wiki/IRC) client on [freenode](http://freenode.net/). You will be presented a dialog asking for your freenode nick and preselected #spacewalk [IRC](http://en.wikipedia.org/wiki/IRC) channel. There you can interact with the Spacewalk community to get help, share your knowledge, or just come hangout. You can get access to the feature in the [git repository (master)](http://git.fedorahosted.org/git/spacewalk.git/). It should appear in the [nightly repos](https://fedorahosted.org/spacewalk/wiki/HowToInstall#Nightlybuilds) sometime tomorrow. Now here are the obligatory screenshots: \[caption id="attachment\_1144" align="aligncenter" width="484" caption="chat menu and chat banner"\]![spacewalk-chat-about](http://zeusville.files.wordpress.com/2009/08/spacewalk-chat-about.png "spacewalk-chat-about")\[/caption\] \[caption id="attachment\_1145" align="alignleft" width="510" caption="Connect screen"\]![spacewalk-chat-ircwindow](http://zeusville.files.wordpress.com/2009/08/spacewalk-chat-ircwindow.png "spacewalk-chat-ircwindow")\[/caption\] \[caption id="attachment\_1148" align="alignleft" width="510" caption="IRC window showing #spacewalk"\]![spacewalk-chat-ircwindow2](http://zeusville.files.wordpress.com/2009/08/spacewalk-chat-ircwindow21.png "spacewalk-chat-ircwindow2")\[/caption\]
