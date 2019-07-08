@@ -21,7 +21,7 @@ disableLanguages        = [""]
   highlightjsTheme      = "github"
   highlightjsLang       = ["html", "css", "js", "toml"]
   # Sets where "View More Posts" links to
-  viewMorePostsLink     = "/blog/"
+  viewMorePostsLink     = "/posts/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = true
   # Sets which Social Share links appear in posts.
@@ -31,9 +31,9 @@ disableLanguages        = [""]
 
   [params.meta]
     # Sets the meta tag description
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "Random thoughts about work and life."
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "jesus m. rodriguez"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -46,7 +46,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "zeusville"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -122,7 +122,7 @@ disableLanguages        = [""]
 
   [[menu.main]]
     name              = "Blog"
-    url               = "/blog/"
+    url               = "/posts/"
     identifier        = "far fa-newspaper"
     weight            = 3
 
@@ -166,7 +166,7 @@ disableLanguages        = [""]
 
     [[Languages.fr.menu.main]]
       name              = "Blog"
-      url               = "/blog/"
+      url               = "/posts/"
       identifier        = "far fa-newspaper"
       weight            = 3
 
@@ -203,7 +203,7 @@ disableLanguages        = [""]
 
     [[Languages.pl.menu.main]]
       name              = "Blog"
-      url               = "/blog/"
+      url               = "/posts/"
       identifier        = "far fa-newspaper"
       weight            = 3
 
@@ -240,7 +240,7 @@ disableLanguages        = [""]
 
     [[Languages.br.menu.main]]
       name              = "Blog"
-      url               = "/blog/"
+      url               = "/posts/"
       identifier        = "far fa-newspaper"
       weight            = 3
 
@@ -261,7 +261,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "jmrodri/"
   gitlab                = ""
   stackoverflow         = "" # User Number
   bitbucket             = ""
@@ -269,22 +269,22 @@ disableLanguages        = [""]
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = "jmrodri"
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "jmrodri"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = "jmrodri"
   googleplus            = ""
-  reddit                = "example"
+  reddit                = "zeusman3"
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -292,18 +292,18 @@ disableLanguages        = [""]
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = "jmrodri69"
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "jmrodri"
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = "jmrodri69"
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = "jmrodri"
+  mastodon              = ""
   # Email
-  email                 = "example"
+  email                 = "jmrodri@gmail.com"
