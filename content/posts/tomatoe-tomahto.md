@@ -3,6 +3,7 @@ title: 'Tomatoe-Tomahto'
 date: Wed, 28 Apr 2010 02:00:24 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

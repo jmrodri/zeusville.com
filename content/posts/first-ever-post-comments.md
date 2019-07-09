@@ -3,6 +3,8 @@ title: 'First Ever Post'
 date: Wed, 01 Oct 2003 13:55:14 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

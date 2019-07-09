@@ -3,6 +3,7 @@ title: 'Happy Birthday to me :)'
 date: Tue, 09 Jun 2009 13:35:21 +0000
 draft: false
 tags: [Family, Personal, Technology]
+categories: [Family, Personal, Technology]
 type: post
 ---
 

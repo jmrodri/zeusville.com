@@ -3,6 +3,7 @@ title: 'From an Angry Soldier'
 date: Mon, 23 Apr 2007 17:25:45 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

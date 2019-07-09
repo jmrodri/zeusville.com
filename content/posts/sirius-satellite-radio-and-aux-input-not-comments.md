@@ -3,6 +3,8 @@ title: 'Sirius satellite radio and AUX input? NOT!'
 date: Tue, 15 Apr 2008 15:33:04 +0000
 draft: false
 tags: [Cars, Technology]
+categories: [Cars, Technology]
+type: post
 ---
 
 

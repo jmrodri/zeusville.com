@@ -3,6 +3,7 @@ title: 'Iliana becomes a Fedora user'
 date: Fri, 30 May 2008 11:48:49 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

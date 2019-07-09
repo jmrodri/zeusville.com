@@ -3,6 +3,7 @@ title: 'Kevin Smith  @ JSConf'
 date: Wed, 17 Feb 2010 13:55:18 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

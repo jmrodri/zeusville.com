@@ -3,6 +3,7 @@ title: 'Happy 12th Birthday Marco!'
 date: Mon, 12 Oct 2015 14:51:29 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

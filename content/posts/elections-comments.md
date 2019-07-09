@@ -3,6 +3,8 @@ title: 'Elections!'
 date: Tue, 02 Nov 2004 15:26:18 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

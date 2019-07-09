@@ -3,6 +3,7 @@ title: 'zmugfs work'
 date: Wed, 22 Aug 2007 04:34:43 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Resetting terminal'
 date: Mon, 03 Apr 2006 20:51:51 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

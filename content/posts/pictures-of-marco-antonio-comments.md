@@ -3,6 +3,8 @@ title: 'Pictures of Marco Antonio'
 date: Wed, 15 Oct 2003 14:04:28 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

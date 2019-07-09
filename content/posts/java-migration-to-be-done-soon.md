@@ -3,6 +3,7 @@ title: 'Java migration to be done soon'
 date: Mon, 08 Aug 2005 23:51:47 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

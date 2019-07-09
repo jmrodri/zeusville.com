@@ -3,6 +3,7 @@ title: 'frustrations...'
 date: Sat, 02 Dec 2006 03:44:02 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Link'
 date: Mon, 22 Jan 2007 04:34:51 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

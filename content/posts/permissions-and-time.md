@@ -3,6 +3,7 @@ title: 'permissions and time'
 date: Thu, 11 Oct 2007 03:33:28 +0000
 draft: false
 tags: [python, Technology, zmugfs]
+categories: [python, Technology, zmugfs]
 type: post
 ---
 

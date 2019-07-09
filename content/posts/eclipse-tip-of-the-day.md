@@ -3,6 +3,7 @@ title: 'Eclipse Tip of the Day'
 date: Tue, 07 Oct 2003 13:23:50 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

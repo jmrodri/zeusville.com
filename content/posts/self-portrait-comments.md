@@ -3,6 +3,8 @@ title: 'Self Portrait'
 date: Sun, 18 Apr 2004 21:49:25 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

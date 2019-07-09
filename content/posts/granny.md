@@ -3,6 +3,7 @@ title: '"Granny"'
 date: Fri, 02 Dec 2005 22:40:06 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

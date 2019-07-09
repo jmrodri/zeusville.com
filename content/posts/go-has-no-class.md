@@ -3,6 +3,7 @@ title: 'Go has no class'
 date: Sat, 04 Jun 2016 03:53:23 +0000
 draft: false
 tags: [Go, Golang, Java, Technology]
+categories: [Go, Golang, Java, Technology]
 type: post
 ---
 

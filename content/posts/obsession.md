@@ -3,6 +3,7 @@ title: 'Obsession'
 date: Sun, 25 Mar 2007 13:00:55 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'mkdir works in zmugfs'
 date: Fri, 24 Aug 2007 03:19:04 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

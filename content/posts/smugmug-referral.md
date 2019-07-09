@@ -3,6 +3,7 @@ title: 'smugmug referral'
 date: Sun, 09 Oct 2005 19:26:19 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

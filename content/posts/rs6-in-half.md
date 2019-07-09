@@ -3,6 +3,7 @@ title: 'RS6 in half'
 date: Tue, 20 Mar 2007 15:38:36 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

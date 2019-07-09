@@ -3,6 +3,8 @@ title: 'Speed Racer'
 date: Mon, 27 Aug 2007 12:28:31 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
+type: post
 ---
 
 

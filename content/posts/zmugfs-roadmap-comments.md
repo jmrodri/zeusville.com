@@ -3,6 +3,8 @@ title: 'zmugfs roadmap'
 date: Wed, 09 Jan 2008 14:51:59 +0000
 draft: false
 tags: [Linux, python, zmugfs]
+categories: [Linux, python, zmugfs]
+type: post
 ---
 
 

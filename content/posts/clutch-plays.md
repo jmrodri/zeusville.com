@@ -3,6 +3,7 @@ title: 'Clutch plays'
 date: Fri, 13 May 2011 02:53:45 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

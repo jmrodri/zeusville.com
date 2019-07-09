@@ -3,6 +3,8 @@ title: 'python'
 date: Wed, 06 Dec 2006 18:41:39 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

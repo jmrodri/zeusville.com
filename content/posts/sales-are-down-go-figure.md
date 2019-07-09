@@ -3,6 +3,7 @@ title: 'Sales are down? go figure'
 date: Fri, 07 Sep 2007 18:04:36 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'FUSE based smugmug FS'
 date: Mon, 20 Aug 2007 01:31:27 +0000
 draft: false
 tags: [sm-photo-tool, Technology, zmugfs]
+categories: [sm-photo-tool, Technology, zmugfs]
 type: post
 ---
 

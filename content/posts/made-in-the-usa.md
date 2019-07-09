@@ -3,6 +3,7 @@ title: 'Made in the USA'
 date: Sun, 28 Jul 2013 00:18:38 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

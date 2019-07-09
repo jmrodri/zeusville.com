@@ -3,6 +3,7 @@ title: 'View component'
 date: Tue, 16 Dec 2003 23:38:42 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

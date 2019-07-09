@@ -3,6 +3,7 @@ title: 'My dad on "El Nuevo Dia" Puerto Rican newspaper'
 date: Mon, 11 Feb 2008 00:21:21 +0000
 draft: false
 tags: [Personal, Politics, Technology]
+categories: [Personal, Politics, Technology]
 type: post
 ---
 

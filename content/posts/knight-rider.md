@@ -3,6 +3,7 @@ title: 'Knight Rider'
 date: Sun, 02 Mar 2008 02:24:49 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

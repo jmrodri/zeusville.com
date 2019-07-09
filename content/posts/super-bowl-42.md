@@ -3,6 +3,7 @@ title: 'Super Bowl 42'
 date: Mon, 04 Feb 2008 13:16:42 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

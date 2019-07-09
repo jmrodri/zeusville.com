@@ -3,6 +3,8 @@ title: 'Trolling for themes'
 date: Sat, 06 Nov 2004 19:59:43 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

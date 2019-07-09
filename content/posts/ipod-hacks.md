@@ -3,6 +3,7 @@ title: 'iPod hacks'
 date: Tue, 30 Aug 2005 22:44:09 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

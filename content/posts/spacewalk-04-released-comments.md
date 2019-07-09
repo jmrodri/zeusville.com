@@ -3,6 +3,8 @@ title: 'Spacewalk 0.4 RELEASED!'
 date: Fri, 16 Jan 2009 00:54:46 +0000
 draft: false
 tags: [Java, Linux, spacewalk]
+categories: [Java, Linux, spacewalk]
+type: post
 ---
 
 

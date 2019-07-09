@@ -3,6 +3,7 @@ title: 'New house (2012)'
 date: Sun, 06 Jan 2013 01:38:06 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

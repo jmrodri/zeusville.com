@@ -3,6 +3,7 @@ title: 'Happy Birthday'
 date: Sun, 15 Feb 2009 02:09:11 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'BloGTK (publish entry)'
 date: Wed, 26 Jan 2005 21:04:49 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

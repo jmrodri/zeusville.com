@@ -3,6 +3,7 @@ title: 'Red Hat on Indy car'
 date: Mon, 02 Jul 2007 15:39:16 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

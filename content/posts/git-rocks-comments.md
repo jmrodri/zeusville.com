@@ -3,6 +3,8 @@ title: 'git rocks'
 date: Fri, 19 Sep 2008 02:17:03 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Clone War Veteran'
 date: Tue, 13 Mar 2007 00:39:46 +0000
 draft: false
 tags: [Family, Technology]
+categories: [Family, Technology]
 type: post
 ---
 

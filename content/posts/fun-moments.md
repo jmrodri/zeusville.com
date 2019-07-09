@@ -3,6 +3,7 @@ title: 'Fun moments'
 date: Thu, 15 May 2008 14:47:17 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

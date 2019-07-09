@@ -3,6 +3,8 @@ title: 'FIVE YEARS!'
 date: Mon, 20 Apr 2009 00:45:48 +0000
 draft: false
 tags: [Linux, Personal, spacewalk]
+categories: [Linux, Personal, spacewalk]
+type: post
 ---
 
 

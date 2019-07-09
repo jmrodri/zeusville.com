@@ -3,6 +3,7 @@ title: 'Happy 14th Birthday Adan!'
 date: Tue, 29 Sep 2015 17:21:15 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

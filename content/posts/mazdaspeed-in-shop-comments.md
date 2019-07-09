@@ -3,6 +3,8 @@ title: 'Mazdaspeed in shop'
 date: Thu, 27 Aug 2009 23:07:34 +0000
 draft: false
 tags: [Cars, Technology]
+categories: [Cars, Technology]
+type: post
 ---
 
 

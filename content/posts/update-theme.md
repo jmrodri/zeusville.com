@@ -3,6 +3,7 @@ title: 'Update theme'
 date: Sun, 09 Jan 2005 23:36:18 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

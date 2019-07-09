@@ -3,6 +3,7 @@ title: 'Fedora 7 RELEASED!'
 date: Thu, 31 May 2007 14:24:03 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

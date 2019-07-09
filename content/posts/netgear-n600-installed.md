@@ -3,6 +3,7 @@ title: 'Netgear N600 installed'
 date: Sun, 29 May 2011 02:35:49 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'WYSIWYG HTML Editor'
 date: Wed, 14 Apr 2004 14:10:01 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

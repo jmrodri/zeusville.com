@@ -3,6 +3,7 @@ title: '"synergize" with cobbler'
 date: Thu, 17 Dec 2009 03:32:33 +0000
 draft: false
 tags: [Linux, spacewalk]
+categories: [Linux, spacewalk]
 type: post
 ---
 

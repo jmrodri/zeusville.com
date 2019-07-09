@@ -3,6 +3,8 @@ title: 'Cleaning up failed system delete in Katello'
 date: Wed, 18 Jul 2012 18:00:35 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

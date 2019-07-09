@@ -3,6 +3,8 @@ title: 'Java getters/setters'
 date: Wed, 25 Jul 2007 13:18:31 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

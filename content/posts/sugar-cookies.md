@@ -3,6 +3,7 @@ title: 'Sugar Cookies!'
 date: Tue, 14 Dec 2010 01:22:49 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Pretty Print directory of .json files'
 date: Thu, 30 Jun 2016 18:11:58 +0000
 draft: false
 tags: [Linux, Personal, Technology]
+categories: [Linux, Personal, Technology]
 type: post
 ---
 

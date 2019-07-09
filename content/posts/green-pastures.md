@@ -3,6 +3,7 @@ title: 'Green pastures'
 date: Thu, 23 Aug 2007 15:52:23 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

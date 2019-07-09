@@ -3,6 +3,7 @@ title: 'Wishlist'
 date: Sat, 08 Sep 2007 17:20:03 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Happy Birthday, Spacewalk!'
 date: Wed, 17 Jun 2009 12:15:26 +0000
 draft: false
 tags: [Java, Linux, spacewalk, Technology]
+categories: [Java, Linux, spacewalk, Technology]
+type: post
 ---
 
 

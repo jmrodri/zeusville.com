@@ -3,6 +3,7 @@ title: 'Closed on old house'
 date: Fri, 09 Nov 2012 16:51:36 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

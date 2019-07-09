@@ -3,6 +3,7 @@ title: 'I''ve been published'
 date: Sat, 14 Feb 2004 22:45:07 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

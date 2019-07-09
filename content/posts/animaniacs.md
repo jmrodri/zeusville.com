@@ -3,6 +3,7 @@ title: 'Animaniacs'
 date: Wed, 24 Nov 2004 10:34:16 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

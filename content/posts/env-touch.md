@@ -3,6 +3,7 @@ title: 'enV Touch!'
 date: Wed, 24 Jun 2009 02:24:31 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

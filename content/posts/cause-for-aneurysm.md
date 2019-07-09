@@ -3,6 +3,7 @@ title: 'Cause for aneurysm'
 date: Mon, 04 Oct 2010 16:39:38 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

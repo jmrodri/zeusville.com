@@ -3,6 +3,7 @@ title: 'Curious George'
 date: Thu, 16 Feb 2006 21:31:28 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Hidden Palms'
 date: Thu, 31 May 2007 03:22:12 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

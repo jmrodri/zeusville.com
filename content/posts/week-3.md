@@ -3,6 +3,7 @@ title: 'Week 3?'
 date: Wed, 10 Oct 2007 02:54:01 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

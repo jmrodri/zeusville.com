@@ -3,6 +3,7 @@ title: 'All about Longhorn'
 date: Mon, 03 Nov 2003 14:39:27 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

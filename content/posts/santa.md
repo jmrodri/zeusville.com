@@ -3,6 +3,7 @@ title: 'Santa'
 date: Sun, 02 Jan 2005 21:40:34 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

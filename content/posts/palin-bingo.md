@@ -3,6 +3,7 @@ title: 'Palin Bingo'
 date: Fri, 03 Oct 2008 21:11:58 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

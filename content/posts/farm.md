@@ -3,6 +3,7 @@ title: 'farm'
 date: Wed, 29 Aug 2007 14:45:26 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

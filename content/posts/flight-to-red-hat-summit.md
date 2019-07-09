@@ -3,6 +3,7 @@ title: 'Flight to Red Hat Summit'
 date: Wed, 02 Sep 2009 02:43:27 +0000
 draft: false
 tags: [Linux, spacewalk]
+categories: [Linux, spacewalk]
 type: post
 ---
 

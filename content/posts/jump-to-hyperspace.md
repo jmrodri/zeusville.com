@@ -3,6 +3,7 @@ title: 'jump to hyperspace'
 date: Tue, 31 Jul 2007 14:05:34 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

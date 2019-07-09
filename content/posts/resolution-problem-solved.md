@@ -3,6 +3,7 @@ title: 'Resolution problem solved'
 date: Mon, 27 Jul 2009 01:23:25 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

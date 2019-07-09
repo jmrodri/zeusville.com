@@ -3,6 +3,7 @@ title: 'deb query commands for rpm users'
 date: Sun, 08 Apr 2007 17:15:01 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

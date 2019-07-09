@@ -2,7 +2,8 @@
 title: 'Adventures with the Go programming language'
 date: Sat, 04 Jun 2016 01:29:41 +0000
 draft: false
-tags: [Go, Golang, Java, programming, python, python, Ruby, ruby, Technology]
+tags: [programming, python, ruby]
+categories: [Go, Golang, Java, python, Ruby, Technology]
 type: post
 ---
 

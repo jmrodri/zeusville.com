@@ -3,6 +3,7 @@ title: 'Cold but fun day'
 date: Sun, 10 Apr 2016 04:13:12 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

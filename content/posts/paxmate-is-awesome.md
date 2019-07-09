@@ -3,6 +3,7 @@ title: 'PAX.mate is awesome'
 date: Sat, 03 Apr 2004 22:12:42 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

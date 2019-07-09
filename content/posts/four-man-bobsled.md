@@ -3,6 +3,7 @@ title: 'four man bobsled'
 date: Sat, 20 Jan 2007 04:24:01 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Recent webex site using Firefox & Linux'
 date: Thu, 10 Feb 2005 23:05:18 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

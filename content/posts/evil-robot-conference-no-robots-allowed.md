@@ -3,6 +3,7 @@ title: 'Evil Robot Conference (no robots allowed)'
 date: Sun, 13 Sep 2009 00:52:12 +0000
 draft: false
 tags: [Java, Linux, python, Technology]
+categories: [Java, Linux, python, Technology]
 type: post
 ---
 

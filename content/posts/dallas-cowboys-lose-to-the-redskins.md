@@ -3,6 +3,7 @@ title: 'Dallas Cowboys lose to the Redskins :('
 date: Mon, 29 Sep 2008 00:30:34 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

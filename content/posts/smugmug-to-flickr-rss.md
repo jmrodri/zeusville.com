@@ -3,6 +3,7 @@ title: 'smugmug to flickr rss'
 date: Thu, 08 Mar 2007 15:16:28 +0000
 draft: false
 tags: [sm-photo-tool, Technology]
+categories: [sm-photo-tool, Technology]
 type: post
 ---
 

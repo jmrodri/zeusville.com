@@ -3,6 +3,7 @@ title: 'text flipper'
 date: Mon, 02 Jul 2007 14:53:45 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

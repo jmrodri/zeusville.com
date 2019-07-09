@@ -3,6 +3,7 @@ title: 'BayStar & RBC bank invest in SCO Group'
 date: Mon, 07 Jun 2004 09:35:12 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

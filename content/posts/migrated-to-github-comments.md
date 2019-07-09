@@ -3,6 +3,8 @@ title: 'migrated to github'
 date: Fri, 24 Jul 2009 01:11:14 +0000
 draft: false
 tags: [Linux, sm-photo-tool, zmugfs]
+categories: [Linux, sm-photo-tool, zmugfs]
+type: post
 ---
 
 

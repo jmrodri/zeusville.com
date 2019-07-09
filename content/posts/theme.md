@@ -3,6 +3,7 @@ title: 'theme'
 date: Fri, 30 May 2008 18:35:20 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

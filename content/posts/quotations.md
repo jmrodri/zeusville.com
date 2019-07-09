@@ -3,6 +3,7 @@ title: 'Quotations'
 date: Sun, 10 Oct 2004 22:27:51 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

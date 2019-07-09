@@ -3,6 +3,7 @@ title: 'Adan did potty'
 date: Tue, 17 Aug 2004 13:44:26 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

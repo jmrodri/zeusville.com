@@ -3,6 +3,7 @@ title: 'new do'
 date: Sat, 24 Feb 2007 02:30:55 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

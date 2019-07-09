@@ -3,6 +3,7 @@ title: 'F-body strikes another owner :)'
 date: Sun, 23 Dec 2007 03:00:48 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

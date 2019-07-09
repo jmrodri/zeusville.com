@@ -3,6 +3,7 @@ title: 'OUCH!'
 date: Wed, 08 Aug 2007 20:35:17 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

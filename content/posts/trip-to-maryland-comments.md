@@ -3,6 +3,8 @@ title: 'Trip to Maryland'
 date: Tue, 26 Jun 2007 15:15:05 +0000
 draft: false
 tags: [Family, Politics]
+categories: [Family, Politics]
+type: post
 ---
 
 

@@ -3,6 +3,8 @@ title: 'Mozilla Thunderbird vs. Ximian Evolution'
 date: Thu, 04 Mar 2004 00:03:37 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

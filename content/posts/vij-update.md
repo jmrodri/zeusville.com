@@ -3,6 +3,7 @@ title: 'vij update'
 date: Mon, 06 Feb 2017 15:44:41 +0000
 draft: false
 tags: [Go, Golang, Java, Linux, Personal, Technology]
+categories: [Go, Golang, Java, Linux, Personal, Technology]
 type: post
 ---
 

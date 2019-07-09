@@ -3,6 +3,7 @@ title: 'Happy Birthday Adan! You''re a TEENAGER!'
 date: Mon, 29 Sep 2014 12:49:18 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

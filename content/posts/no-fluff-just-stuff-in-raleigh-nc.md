@@ -3,6 +3,7 @@ title: 'No Fluff Just Stuff in Raleigh, NC'
 date: Mon, 14 Jun 2004 12:18:13 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

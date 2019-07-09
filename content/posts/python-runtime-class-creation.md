@@ -3,6 +3,7 @@ title: 'python runtime class creation'
 date: Sun, 18 Mar 2007 01:54:59 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

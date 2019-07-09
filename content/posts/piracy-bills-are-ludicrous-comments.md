@@ -3,6 +3,8 @@ title: 'Piracy bills are ludicrous'
 date: Thu, 19 Jan 2012 15:17:23 +0000
 draft: false
 tags: [Politics, Technology]
+categories: [Politics, Technology]
+type: post
 ---
 
 

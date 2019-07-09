@@ -3,6 +3,7 @@ title: 'Happy Birthday, Liz'
 date: Fri, 23 May 2008 00:26:22 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

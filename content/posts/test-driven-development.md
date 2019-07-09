@@ -3,6 +3,7 @@ title: 'Test driven development'
 date: Wed, 16 Jun 2004 13:01:30 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

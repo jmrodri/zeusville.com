@@ -3,6 +3,7 @@ title: 'I know! I know!'
 date: Sat, 26 Jul 2008 18:40:23 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

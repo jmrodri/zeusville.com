@@ -3,6 +3,7 @@ title: 'More Go links'
 date: Mon, 05 Sep 2016 14:31:09 +0000
 draft: false
 tags: [Go, Golang]
+categories: [Go, Golang]
 type: post
 ---
 

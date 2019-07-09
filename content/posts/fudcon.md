@@ -3,6 +3,7 @@ title: 'FUDCon'
 date: Sat, 12 Jan 2008 20:04:24 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

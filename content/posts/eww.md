@@ -3,6 +3,7 @@ title: 'EWW'
 date: Tue, 13 Mar 2007 20:34:05 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

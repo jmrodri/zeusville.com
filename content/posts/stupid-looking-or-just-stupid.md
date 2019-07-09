@@ -3,6 +3,7 @@ title: 'Stupid looking or just stupid?'
 date: Sun, 10 Oct 2004 21:55:23 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

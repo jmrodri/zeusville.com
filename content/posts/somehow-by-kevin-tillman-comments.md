@@ -3,6 +3,8 @@ title: 'Somehow by Kevin Tillman'
 date: Tue, 24 Oct 2006 14:38:08 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

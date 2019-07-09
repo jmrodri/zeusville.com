@@ -2,7 +2,9 @@
 title: 'Replaced brake pads & rotors on the Speed3'
 date: Mon, 01 Feb 2010 04:26:24 +0000
 draft: false
-tags: [Cars, mazdaspeed3 brakes, Technology]
+tags: [mazdaspeed3 brakes]
+categories: [Cars, Technology]
+type: post
 ---
 
 

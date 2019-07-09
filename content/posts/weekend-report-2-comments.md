@@ -2,7 +2,9 @@
 title: 'Weekend report'
 date: Tue, 02 Oct 2007 02:44:08 +0000
 draft: false
-tags: [Family, starwars, Technology]
+tags: [starwars]
+categories: [Family, Technology]
+type: post
 ---
 
 

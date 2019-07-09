@@ -3,6 +3,7 @@ title: 'Charisma'
 date: Thu, 10 Nov 2016 15:40:40 +0000
 draft: false
 tags: [Personal, Politics]
+categories: [Personal, Politics]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'CDRW dies'
 date: Sun, 30 May 2004 22:10:36 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'zmugfs fixed on Fedora 7'
 date: Tue, 16 Oct 2007 15:24:48 +0000
 draft: false
 tags: [Linux, python]
+categories: [Linux, python]
 type: post
 ---
 

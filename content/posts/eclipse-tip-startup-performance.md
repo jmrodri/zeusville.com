@@ -3,6 +3,7 @@ title: 'Eclipse Tip: Startup Performance'
 date: Wed, 26 May 2004 16:16:03 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

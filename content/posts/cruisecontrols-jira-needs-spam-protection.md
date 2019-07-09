@@ -3,6 +3,7 @@ title: 'cruisecontrol''s jira needs spam protection'
 date: Fri, 20 Apr 2007 13:48:52 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

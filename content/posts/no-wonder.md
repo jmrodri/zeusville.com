@@ -3,6 +3,7 @@ title: 'No wonder'
 date: Sun, 27 Jul 2008 16:49:48 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

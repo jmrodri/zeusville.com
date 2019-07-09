@@ -3,6 +3,7 @@ title: 'C # 2.0 Language Specifications'
 date: Fri, 24 Oct 2003 15:47:26 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'napoleon''s complex'
 date: Sun, 26 Aug 2007 12:31:25 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

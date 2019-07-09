@@ -3,6 +3,7 @@ title: 'Testing lekhonee'
 date: Thu, 18 Jun 2009 13:29:17 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

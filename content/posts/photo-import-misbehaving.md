@@ -3,6 +3,7 @@ title: 'photo import misbehaving'
 date: Tue, 18 Mar 2008 03:50:35 +0000
 draft: false
 tags: [Linux, Personal]
+categories: [Linux, Personal]
 type: post
 ---
 

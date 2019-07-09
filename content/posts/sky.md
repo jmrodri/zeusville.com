@@ -3,6 +3,7 @@ title: 'sky'
 date: Wed, 10 Oct 2007 03:08:40 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

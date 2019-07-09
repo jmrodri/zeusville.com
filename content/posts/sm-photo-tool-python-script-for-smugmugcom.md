@@ -3,6 +3,7 @@ title: 'sm-photo-tool - python script for smugmug.com'
 date: Sat, 07 Oct 2006 20:01:59 +0000
 draft: false
 tags: [sm-photo-tool]
+categories: [sm-photo-tool]
 type: post
 ---
 

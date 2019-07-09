@@ -3,6 +3,8 @@ title: 'zmugfs shows image data'
 date: Mon, 08 Oct 2007 04:22:58 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
+type: post
 ---
 
 

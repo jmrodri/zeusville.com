@@ -3,6 +3,7 @@ title: 'Replacing Tiles with Sitemesh'
 date: Thu, 12 Aug 2004 23:01:14 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

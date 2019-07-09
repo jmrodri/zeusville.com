@@ -3,6 +3,8 @@ title: 'Ryan Bloom makes cover of JDJ'
 date: Tue, 18 Apr 2006 10:06:12 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

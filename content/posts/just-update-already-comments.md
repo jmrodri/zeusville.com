@@ -3,6 +3,8 @@ title: 'just update already'
 date: Tue, 02 Jun 2009 12:05:22 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

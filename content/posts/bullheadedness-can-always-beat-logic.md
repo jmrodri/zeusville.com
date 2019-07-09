@@ -3,6 +3,7 @@ title: 'bullheadedness can always beat logic'
 date: Thu, 14 Jun 2007 02:36:21 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: '"toasted" oatmeal'
 date: Mon, 29 Oct 2007 17:00:48 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Attending No Fluff Just Stuff tomorrow'
 date: Thu, 10 Jun 2004 23:31:03 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

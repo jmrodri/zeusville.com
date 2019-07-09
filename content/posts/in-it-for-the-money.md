@@ -3,6 +3,7 @@ title: 'In it for the money?'
 date: Fri, 19 Dec 2003 23:17:43 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

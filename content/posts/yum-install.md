@@ -3,6 +3,7 @@ title: 'yum install ...'
 date: Tue, 10 Apr 2007 16:31:02 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

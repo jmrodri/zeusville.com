@@ -3,6 +3,7 @@ title: 'Java Interfaces'
 date: Wed, 01 Oct 2003 15:17:20 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

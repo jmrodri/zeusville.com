@@ -3,6 +3,8 @@ title: 'Hibernate not suited for normalized databases'
 date: Sat, 22 May 2004 22:11:57 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

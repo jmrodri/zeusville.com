@@ -3,6 +3,7 @@ title: 'Gnome 3 why do you hate me?'
 date: Mon, 04 Mar 2013 14:58:14 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

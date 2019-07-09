@@ -2,7 +2,9 @@
 title: 'Download Amazon MP3s with clamz'
 date: Thu, 13 Jan 2011 15:56:07 +0000
 draft: false
-tags: [clamz amazon mp3 linux, Linux]
+tags: [clamz amazon mp3 linux]
+categories: [Linux]
+type: post
 ---
 
 

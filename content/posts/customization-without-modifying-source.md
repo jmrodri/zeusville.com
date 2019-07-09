@@ -3,6 +3,7 @@ title: 'Customization without modifying source'
 date: Wed, 29 Oct 2003 00:11:09 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

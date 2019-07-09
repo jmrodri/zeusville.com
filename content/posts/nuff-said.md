@@ -3,6 +3,7 @@ title: 'Nuff said'
 date: Sat, 20 Mar 2004 13:00:08 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

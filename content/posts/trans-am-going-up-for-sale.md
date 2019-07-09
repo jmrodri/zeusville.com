@@ -3,6 +3,7 @@ title: 'Trans Am going up for sale'
 date: Sun, 23 Mar 2008 02:10:13 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'tmux window name'
 date: Thu, 30 Jan 2014 21:52:58 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

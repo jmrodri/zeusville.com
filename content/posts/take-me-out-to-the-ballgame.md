@@ -3,6 +3,7 @@ title: 'Take me out to the ballgame'
 date: Sun, 18 Apr 2004 21:50:36 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Adan turns 3'
 date: Wed, 29 Sep 2004 13:59:58 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

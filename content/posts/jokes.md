@@ -3,6 +3,7 @@ title: 'Jokes'
 date: Wed, 24 Mar 2004 14:34:31 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

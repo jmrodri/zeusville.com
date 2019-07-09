@@ -3,6 +3,7 @@ title: 'Christmas'
 date: Sun, 02 Jan 2005 21:38:20 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

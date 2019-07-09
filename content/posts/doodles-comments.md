@@ -3,6 +3,8 @@ title: 'doodles'
 date: Wed, 09 Apr 2008 16:25:28 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

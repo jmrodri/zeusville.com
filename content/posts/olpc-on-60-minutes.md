@@ -3,6 +3,7 @@ title: 'OLPC on 60 Minutes'
 date: Fri, 18 May 2007 17:33:10 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Science trip to Iceland'
 date: Thu, 16 Nov 2017 05:14:40 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

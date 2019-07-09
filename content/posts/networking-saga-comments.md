@@ -3,6 +3,8 @@ title: 'networking saga'
 date: Mon, 13 Nov 2006 00:53:45 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

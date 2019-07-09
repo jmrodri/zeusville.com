@@ -3,6 +3,8 @@ title: 'National Debt'
 date: Wed, 15 Oct 2008 14:49:21 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

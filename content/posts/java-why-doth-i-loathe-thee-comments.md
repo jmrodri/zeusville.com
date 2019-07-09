@@ -3,6 +3,8 @@ title: 'Java why doth I loathe thee'
 date: Wed, 24 Jun 2009 15:07:57 +0000
 draft: false
 tags: [Java, Linux]
+categories: [Java, Linux]
+type: post
 ---
 
 

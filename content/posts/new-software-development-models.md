@@ -3,6 +3,7 @@ title: 'NEW software development models'
 date: Thu, 21 Jun 2007 15:23:04 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Not sure why.'
 date: Fri, 08 Jul 2005 13:01:55 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

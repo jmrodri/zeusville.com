@@ -3,6 +3,7 @@ title: 'Palin debate flow chart'
 date: Sun, 05 Oct 2008 03:36:46 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Father''s Day'
 date: Sun, 20 Jun 2004 22:45:16 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

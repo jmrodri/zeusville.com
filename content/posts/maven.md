@@ -3,6 +3,7 @@ title: 'maven :('
 date: Fri, 09 Nov 2007 04:00:06 +0000
 draft: false
 tags: [Java, Linux, Personal]
+categories: [Java, Linux, Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Netgear N600 WNDR3700v2'
 date: Wed, 25 May 2011 01:57:34 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

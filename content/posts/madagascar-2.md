@@ -3,6 +3,7 @@ title: 'Madagascar 2'
 date: Sat, 08 Nov 2008 22:10:27 +0000
 draft: false
 tags: [Family, Technology]
+categories: [Family, Technology]
 type: post
 ---
 

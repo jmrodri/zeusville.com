@@ -3,6 +3,7 @@ title: 'getting close ...'
 date: Fri, 12 Oct 2007 04:32:00 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

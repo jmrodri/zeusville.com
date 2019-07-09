@@ -3,6 +3,7 @@ title: 'Private Golang, reporting for duty'
 date: Sun, 14 Aug 2016 23:59:37 +0000
 draft: false
 tags: [Go, Golang, Java, python, Technology]
+categories: [Go, Golang, Java, python, Technology]
 type: post
 ---
 

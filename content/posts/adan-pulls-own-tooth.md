@@ -3,6 +3,7 @@ title: 'Adan pulls own tooth'
 date: Sun, 22 Jun 2008 01:29:12 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

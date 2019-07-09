@@ -3,6 +3,7 @@ title: 'HP ScanJet 4670'
 date: Thu, 19 Feb 2004 21:07:06 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

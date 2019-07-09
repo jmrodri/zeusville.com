@@ -3,6 +3,7 @@ title: 'SWT'
 date: Sun, 26 Oct 2003 22:29:21 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

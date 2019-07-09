@@ -3,6 +3,7 @@ title: 'Sending plain text emails using Thunderbird'
 date: Mon, 03 May 2004 09:53:12 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

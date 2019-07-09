@@ -3,6 +3,7 @@ title: 'Varsity Blues'
 date: Thu, 03 Feb 2005 10:01:41 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'buzzwords (part 3)'
 date: Sun, 20 Sep 2009 02:26:49 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

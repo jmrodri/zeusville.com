@@ -3,6 +3,7 @@ title: 'Iliana gets her earrings'
 date: Wed, 22 Aug 2007 02:05:44 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

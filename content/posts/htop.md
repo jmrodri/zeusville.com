@@ -3,6 +3,7 @@ title: 'htop'
 date: Sun, 11 Feb 2007 02:12:22 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

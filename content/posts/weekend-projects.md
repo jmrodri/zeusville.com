@@ -3,6 +3,7 @@ title: 'Weekend projects'
 date: Mon, 24 Aug 2009 02:28:18 +0000
 draft: false
 tags: [Cars, Personal]
+categories: [Cars, Personal]
 type: post
 ---
 

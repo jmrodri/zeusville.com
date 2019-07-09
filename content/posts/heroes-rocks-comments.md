@@ -3,6 +3,8 @@ title: 'Heroes ROCKS!'
 date: Tue, 21 Nov 2006 05:29:44 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

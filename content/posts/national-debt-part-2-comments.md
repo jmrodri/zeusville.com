@@ -3,6 +3,8 @@ title: 'National Debt part 2'
 date: Wed, 15 Oct 2008 18:18:53 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

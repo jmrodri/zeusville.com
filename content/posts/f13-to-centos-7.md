@@ -2,7 +2,8 @@
 title: 'Fedora 13 to Centos 7'
 date: Sun, 01 Mar 2015 07:41:04 +0000
 draft: false
-tags: [centos, fedora, Linux, linux, python, server, Technology]
+tags: [centos, fedora, linux, server]
+categories: [Linux, python, Technology]
 type: post
 ---
 

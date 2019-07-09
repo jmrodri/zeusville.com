@@ -3,6 +3,8 @@ title: 'first trade on goozex'
 date: Fri, 02 Mar 2007 03:18:58 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

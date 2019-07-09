@@ -3,6 +3,8 @@ title: 'Fedora Core 1 INSTALLED!'
 date: Thu, 06 Nov 2003 23:32:11 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

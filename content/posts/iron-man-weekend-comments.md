@@ -3,6 +3,8 @@ title: 'Iron Man weekend'
 date: Sun, 04 May 2008 01:55:55 +0000
 draft: false
 tags: [Cars, Family, Technology]
+categories: [Cars, Family, Technology]
+type: post
 ---
 
 

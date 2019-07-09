@@ -3,6 +3,8 @@ title: 'OS/2 magazine collection'
 date: Sat, 20 Jan 2007 03:29:17 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

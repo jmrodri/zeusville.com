@@ -3,6 +3,7 @@ title: 'I''m being mocked'
 date: Fri, 09 Jul 2004 16:44:29 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Last day of paternity leave'
 date: Sun, 02 Nov 2003 20:25:31 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

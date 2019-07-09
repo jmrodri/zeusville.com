@@ -3,6 +3,8 @@ title: 'Object Desktop'
 date: Mon, 08 Dec 2003 11:39:05 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

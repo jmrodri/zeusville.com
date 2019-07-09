@@ -3,6 +3,7 @@ title: 'Reader'
 date: Mon, 14 Sep 2009 01:47:13 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

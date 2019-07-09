@@ -3,6 +3,7 @@ title: 'iTunes ARGH'
 date: Wed, 07 Apr 2004 21:52:23 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

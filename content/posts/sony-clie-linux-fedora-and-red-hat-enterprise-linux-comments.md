@@ -3,6 +3,8 @@ title: 'Sony Clie & Linux (Fedora and Red Hat Enterprise Linux)'
 date: Wed, 26 May 2004 10:32:32 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'networking saga (parte dos)'
 date: Wed, 15 Nov 2006 04:26:00 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

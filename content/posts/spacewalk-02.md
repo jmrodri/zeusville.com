@@ -3,6 +3,7 @@ title: 'Spacewalk 0.2!'
 date: Tue, 16 Sep 2008 20:33:18 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Adan goes to work'
 date: Tue, 18 Mar 2008 04:30:54 +0000
 draft: false
 tags: [Family, Technology]
+categories: [Family, Technology]
 type: post
 ---
 

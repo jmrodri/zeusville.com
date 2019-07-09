@@ -3,6 +3,7 @@ title: 'iTunes Plus - DRM-free songs'
 date: Thu, 31 May 2007 01:29:23 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

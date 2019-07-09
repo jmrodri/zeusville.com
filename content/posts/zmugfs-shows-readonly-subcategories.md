@@ -2,7 +2,8 @@
 title: 'zmugfs shows readonly (sub)categories'
 date: Tue, 25 Sep 2007 04:03:09 +0000
 draft: false
-tags: [zmugfs, zmugfs python]
+tags: [zmugfs python]
+categories: [zmugfs]
 type: post
 ---
 

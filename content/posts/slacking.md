@@ -3,6 +3,7 @@ title: 'Slacking'
 date: Sat, 19 Mar 2005 22:27:28 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

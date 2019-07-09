@@ -3,6 +3,7 @@ title: 'Best part of 2004 election'
 date: Fri, 05 Nov 2004 10:21:26 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

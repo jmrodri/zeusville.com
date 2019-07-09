@@ -3,6 +3,8 @@ title: 'Visit to Adan''s technology class'
 date: Wed, 03 Dec 2008 21:06:47 +0000
 draft: false
 tags: [Family, Linux]
+categories: [Family, Linux]
+type: post
 ---
 
 

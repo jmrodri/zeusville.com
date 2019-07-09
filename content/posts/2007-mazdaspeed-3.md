@@ -3,6 +3,7 @@ title: '2007 Mazdaspeed 3'
 date: Sun, 01 Jun 2008 00:15:45 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'wild goose chase'
 date: Thu, 15 Mar 2007 14:59:53 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

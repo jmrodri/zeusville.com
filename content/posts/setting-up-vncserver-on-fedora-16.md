@@ -3,6 +3,7 @@ title: 'setting up vncserver on Fedora 16'
 date: Fri, 27 Jan 2012 16:42:25 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

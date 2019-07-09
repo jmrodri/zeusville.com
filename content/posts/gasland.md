@@ -3,6 +3,7 @@ title: 'Gasland'
 date: Sun, 24 Feb 2013 05:37:01 +0000
 draft: false
 tags: [Personal, Politics]
+categories: [Personal, Politics]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'mod_jk 1.2.6 and tomcat 5.0.28 don''t like each other'
 date: Tue, 18 Jan 2005 18:10:35 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

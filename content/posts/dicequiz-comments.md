@@ -3,6 +3,8 @@ title: 'dicequiz'
 date: Sat, 28 Apr 2007 00:24:59 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Last day of kindergarten'
 date: Wed, 06 Jun 2007 14:41:41 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

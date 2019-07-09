@@ -3,6 +3,8 @@ title: 'DHL are freakin'' IDIOTS!'
 date: Sat, 08 Dec 2007 01:33:23 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

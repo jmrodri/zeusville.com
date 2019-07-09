@@ -3,6 +3,7 @@ title: 'random firefox crashes'
 date: Mon, 10 Mar 2008 23:57:24 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

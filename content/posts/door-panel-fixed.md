@@ -3,6 +3,7 @@ title: 'Door panel fixed'
 date: Fri, 04 Apr 2008 03:14:15 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

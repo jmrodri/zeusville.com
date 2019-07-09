@@ -3,6 +3,8 @@ title: 'self.'
 date: Fri, 14 Sep 2007 03:14:52 +0000
 draft: false
 tags: [Technology, zmugfs]
+categories: [Technology, zmugfs]
+type: post
 ---
 
 

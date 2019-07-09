@@ -3,6 +3,7 @@ title: 'Transformer quiz'
 date: Thu, 16 Aug 2007 02:32:10 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'corvette'
 date: Fri, 04 Jun 2010 17:42:41 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

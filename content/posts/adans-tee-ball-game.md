@@ -3,6 +3,7 @@ title: 'Adan''s tee-ball game'
 date: Fri, 23 May 2008 00:27:52 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

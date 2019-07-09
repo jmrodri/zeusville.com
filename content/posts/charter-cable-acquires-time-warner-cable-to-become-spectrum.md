@@ -3,6 +3,7 @@ title: 'Charter Cable acquires Time Warner Cable to become Spectrum'
 date: Sun, 07 Jul 2019 21:08:28 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

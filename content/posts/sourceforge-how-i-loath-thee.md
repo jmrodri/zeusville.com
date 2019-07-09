@@ -3,6 +3,7 @@ title: 'sourceforge how I loath thee'
 date: Fri, 09 Mar 2007 04:42:47 +0000
 draft: false
 tags: [sm-photo-tool, Technology]
+categories: [sm-photo-tool, Technology]
 type: post
 ---
 

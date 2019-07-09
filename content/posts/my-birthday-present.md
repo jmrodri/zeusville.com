@@ -3,6 +3,7 @@ title: 'My Birthday present'
 date: Wed, 09 Jun 2004 09:29:36 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

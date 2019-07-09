@@ -3,6 +3,7 @@ title: 'Circus'
 date: Sat, 12 Feb 2005 18:43:09 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

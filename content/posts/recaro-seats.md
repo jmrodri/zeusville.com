@@ -3,6 +3,7 @@ title: 'Recaro Seats'
 date: Sun, 20 Mar 2005 18:12:20 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

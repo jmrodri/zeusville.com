@@ -3,6 +3,7 @@ title: 'Eclipse'
 date: Tue, 07 Oct 2003 13:22:54 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

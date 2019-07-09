@@ -3,6 +3,7 @@ title: 'Web Proxies suck'
 date: Thu, 19 Feb 2004 21:07:38 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

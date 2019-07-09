@@ -3,6 +3,8 @@ title: 'Against war, must be anti-troops'
 date: Mon, 04 Oct 2004 21:16:28 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

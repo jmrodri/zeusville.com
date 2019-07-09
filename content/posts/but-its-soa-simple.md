@@ -3,6 +3,7 @@ title: 'But it''s SOA simple.'
 date: Wed, 15 Aug 2007 13:32:59 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

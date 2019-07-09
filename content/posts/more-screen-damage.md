@@ -3,6 +3,7 @@ title: 'more screen damage'
 date: Tue, 16 Mar 2010 17:33:18 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

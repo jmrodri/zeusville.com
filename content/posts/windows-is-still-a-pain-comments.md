@@ -3,6 +3,8 @@ title: 'Windows is still a pain'
 date: Wed, 17 Mar 2010 15:24:21 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

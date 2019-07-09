@@ -3,6 +3,7 @@ title: 'Finally we dressed the Christmas tree'
 date: Sun, 14 Dec 2003 20:30:56 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

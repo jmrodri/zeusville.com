@@ -3,6 +3,7 @@ title: 'Control your caps'
 date: Tue, 16 Aug 2016 18:36:09 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

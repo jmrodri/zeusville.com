@@ -3,6 +3,7 @@ title: '"Average Joe 2: Hawaii" ARGH'
 date: Tue, 02 Mar 2004 13:31:19 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Fedora 13 battery icon is wrong'
 date: Thu, 20 May 2010 01:30:55 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

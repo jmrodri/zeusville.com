@@ -3,6 +3,7 @@ title: 'Linux printing :('
 date: Tue, 03 Apr 2007 01:51:33 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

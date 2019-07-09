@@ -3,6 +3,7 @@ title: 'Lil'' Bush'
 date: Wed, 04 Jul 2007 17:14:13 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

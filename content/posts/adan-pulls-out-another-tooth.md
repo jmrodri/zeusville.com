@@ -3,6 +3,7 @@ title: 'Adan pulls out another tooth'
 date: Sun, 22 Jun 2008 01:32:52 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

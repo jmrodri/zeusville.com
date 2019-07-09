@@ -3,6 +3,7 @@ title: 'building rpms without being root'
 date: Thu, 07 Dec 2006 13:46:53 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Where is my 1600x1200 Leonidas?'
 date: Sun, 26 Jul 2009 16:13:55 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

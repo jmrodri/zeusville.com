@@ -3,6 +3,7 @@ title: 'Happy Birthday'
 date: Sun, 19 Aug 2007 15:49:44 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

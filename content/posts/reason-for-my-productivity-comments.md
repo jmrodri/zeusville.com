@@ -3,6 +3,8 @@ title: 'Reason for my productivity :)'
 date: Thu, 22 Mar 2007 00:51:05 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

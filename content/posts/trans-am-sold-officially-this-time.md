@@ -3,6 +3,7 @@ title: 'Trans Am SOLD! (officially this time)'
 date: Sun, 04 May 2008 01:22:57 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'RHCE!'
 date: Sat, 19 Jan 2008 13:38:57 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

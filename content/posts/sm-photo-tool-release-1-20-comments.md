@@ -3,6 +3,8 @@ title: 'sm-photo-tool release - 1.20'
 date: Mon, 28 Dec 2009 23:06:54 +0000
 draft: false
 tags: [sm-photo-tool]
+categories: [sm-photo-tool]
+type: post
 ---
 
 

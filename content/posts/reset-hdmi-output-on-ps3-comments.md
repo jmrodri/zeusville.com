@@ -3,6 +3,8 @@ title: 'Reset HDMI output on PS3'
 date: Sun, 26 Dec 2010 21:05:49 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

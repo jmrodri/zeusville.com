@@ -3,6 +3,7 @@ title: 'Google news'
 date: Tue, 05 Apr 2005 21:10:35 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Trip notes (from this morning)'
 date: Sat, 09 Jun 2007 00:01:54 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

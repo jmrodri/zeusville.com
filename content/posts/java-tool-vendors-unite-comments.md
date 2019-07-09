@@ -3,6 +3,8 @@ title: 'Java Tool Vendors Unite'
 date: Tue, 25 Nov 2003 22:00:13 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

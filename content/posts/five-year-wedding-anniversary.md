@@ -3,6 +3,7 @@ title: 'Five year wedding anniversary'
 date: Sat, 26 Feb 2005 17:14:25 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

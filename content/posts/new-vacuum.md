@@ -3,6 +3,7 @@ title: 'New vacuum'
 date: Sun, 03 Sep 2006 15:28:08 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

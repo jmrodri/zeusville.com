@@ -3,6 +3,7 @@ title: '4TH GEN F-BODY VIN BREAKDOWN'
 date: Mon, 31 Jan 2005 10:00:49 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

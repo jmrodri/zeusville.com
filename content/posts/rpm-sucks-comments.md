@@ -3,6 +3,8 @@ title: 'RPM sucks'
 date: Mon, 23 Feb 2004 15:49:02 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

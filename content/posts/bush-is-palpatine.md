@@ -3,6 +3,7 @@ title: 'Bush is Palpatine'
 date: Wed, 23 May 2007 19:34:53 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

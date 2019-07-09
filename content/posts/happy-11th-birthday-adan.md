@@ -3,6 +3,7 @@ title: 'Happy 11th Birthday Adan'
 date: Sun, 30 Sep 2012 02:32:59 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

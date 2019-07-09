@@ -3,6 +3,7 @@ title: 'Why they do Python...'
 date: Tue, 18 Dec 2007 18:08:34 +0000
 draft: false
 tags: [python]
+categories: [python]
 type: post
 ---
 

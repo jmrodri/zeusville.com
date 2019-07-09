@@ -3,6 +3,7 @@ title: 'Monday'
 date: Mon, 06 Oct 2003 12:59:10 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

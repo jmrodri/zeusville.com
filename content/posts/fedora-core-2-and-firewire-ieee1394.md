@@ -3,6 +3,7 @@ title: 'Fedora Core 2 and Firewire (IEEE1394)'
 date: Tue, 06 Jul 2004 09:54:37 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'rpm --repackage'
 date: Wed, 18 Oct 2006 12:51:36 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

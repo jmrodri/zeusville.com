@@ -3,6 +3,7 @@ title: 'Goozex'
 date: Tue, 24 Aug 2010 00:28:45 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

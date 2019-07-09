@@ -3,6 +3,8 @@ title: 'Java interview questions link'
 date: Fri, 05 Aug 2005 17:52:03 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

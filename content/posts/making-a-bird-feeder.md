@@ -3,6 +3,7 @@ title: 'Making a bird feeder'
 date: Mon, 14 Feb 2011 20:20:52 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

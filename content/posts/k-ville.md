@@ -3,6 +3,7 @@ title: 'k-ville'
 date: Tue, 25 Sep 2007 13:40:07 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

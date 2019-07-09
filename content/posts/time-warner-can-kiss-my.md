@@ -3,6 +3,7 @@ title: 'Time Warner can kiss my @$$'
 date: Sun, 21 Sep 2008 23:45:30 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Crossover Office Pro'
 date: Mon, 03 Jan 2005 22:00:12 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

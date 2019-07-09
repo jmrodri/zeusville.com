@@ -3,6 +3,7 @@ title: 'brain color'
 date: Mon, 20 Aug 2007 18:18:56 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

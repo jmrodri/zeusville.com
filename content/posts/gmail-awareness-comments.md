@@ -3,6 +3,8 @@ title: 'GMAiL awareness'
 date: Fri, 04 Feb 2005 10:58:37 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

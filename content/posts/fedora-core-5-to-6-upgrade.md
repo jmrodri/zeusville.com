@@ -3,6 +3,7 @@ title: 'Fedora Core 5 to 6 upgrade'
 date: Fri, 27 Oct 2006 02:30:46 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Ivy dependency management'
 date: Fri, 10 Nov 2006 04:13:43 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'NetworkManager and WPA!'
 date: Sat, 16 Feb 2008 13:32:15 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'All good things must come to an end'
 date: Fri, 27 Jun 2008 17:25:50 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

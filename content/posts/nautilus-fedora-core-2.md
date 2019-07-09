@@ -3,6 +3,7 @@ title: 'Nautilus & Fedora Core 2'
 date: Tue, 25 May 2004 10:29:26 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

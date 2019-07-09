@@ -3,6 +3,7 @@ title: 'Vi Plugin for Eclipse'
 date: Wed, 08 Oct 2003 09:14:38 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

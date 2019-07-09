@@ -3,6 +3,8 @@ title: 'It''s the price stupid!'
 date: Fri, 14 Jun 2013 02:08:23 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

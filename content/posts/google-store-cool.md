@@ -3,6 +3,7 @@ title: 'Google Store?  Cool!'
 date: Thu, 01 Jul 2004 23:34:10 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

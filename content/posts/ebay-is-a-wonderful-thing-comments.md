@@ -3,6 +3,8 @@ title: 'eBay is a wonderful thing'
 date: Sun, 13 Apr 2008 04:36:00 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
+type: post
 ---
 
 

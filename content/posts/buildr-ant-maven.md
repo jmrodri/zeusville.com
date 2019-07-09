@@ -3,6 +3,7 @@ title: 'buildr > ant > maven'
 date: Sat, 13 Feb 2010 04:35:07 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

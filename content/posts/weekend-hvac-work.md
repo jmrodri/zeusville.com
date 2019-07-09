@@ -3,6 +3,7 @@ title: 'Weekend HVAC work'
 date: Sat, 03 Jun 2006 12:18:40 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

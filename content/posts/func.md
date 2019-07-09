@@ -2,7 +2,8 @@
 title: 'I''ve got the Func'
 date: Tue, 02 Oct 2007 03:25:17 +0000
 draft: false
-tags: [func, func python linux, python]
+tags: [func, func python linux]
+categories: [python]
 type: post
 ---
 

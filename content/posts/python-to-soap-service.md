@@ -3,6 +3,7 @@ title: 'python to SOAP service'
 date: Wed, 15 Nov 2006 04:32:36 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

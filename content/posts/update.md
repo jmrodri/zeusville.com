@@ -3,6 +3,7 @@ title: 'update'
 date: Fri, 16 Nov 2007 03:35:10 +0000
 draft: false
 tags: [Cars, Family]
+categories: [Cars, Family]
 type: post
 ---
 

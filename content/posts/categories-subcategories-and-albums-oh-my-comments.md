@@ -3,6 +3,8 @@ title: 'categories, subcategories, and albums OH MY!'
 date: Sat, 25 Aug 2007 00:29:44 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
+type: post
 ---
 
 

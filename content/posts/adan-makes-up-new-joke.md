@@ -3,6 +3,7 @@ title: 'Adan makes up new joke'
 date: Mon, 10 May 2004 10:22:39 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

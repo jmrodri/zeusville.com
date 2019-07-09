@@ -3,6 +3,7 @@ title: 'Ridiculous baby products'
 date: Tue, 13 Mar 2007 14:19:02 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

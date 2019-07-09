@@ -3,6 +3,8 @@ title: 'Long overdue date.'
 date: Sun, 14 Nov 2004 22:37:05 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

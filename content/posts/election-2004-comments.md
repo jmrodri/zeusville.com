@@ -3,6 +3,8 @@ title: 'Election 2004'
 date: Wed, 03 Nov 2004 10:33:46 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

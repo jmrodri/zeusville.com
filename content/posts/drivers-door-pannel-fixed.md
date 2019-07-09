@@ -3,6 +3,7 @@ title: 'drivers door panel fixed'
 date: Fri, 04 Apr 2008 02:59:51 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

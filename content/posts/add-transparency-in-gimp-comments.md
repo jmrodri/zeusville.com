@@ -2,7 +2,9 @@
 title: 'Add transparency in gimp'
 date: Tue, 13 Mar 2012 02:43:58 +0000
 draft: false
-tags: [gimp, linux, Personal, transparency]
+tags: [gimp, linux, transparency]
+categories: [Personal]
+type: post
 ---
 
 

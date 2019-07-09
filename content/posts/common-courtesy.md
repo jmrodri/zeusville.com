@@ -3,6 +3,7 @@ title: 'common courtesy'
 date: Wed, 06 Jun 2007 14:47:45 +0000
 draft: false
 tags: [Family, Personal, Politics]
+categories: [Family, Personal, Politics]
 type: post
 ---
 

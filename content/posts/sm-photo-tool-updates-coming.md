@@ -3,6 +3,7 @@ title: 'sm-photo-tool updates coming'
 date: Fri, 09 Mar 2007 02:06:30 +0000
 draft: false
 tags: [sm-photo-tool]
+categories: [sm-photo-tool]
 type: post
 ---
 

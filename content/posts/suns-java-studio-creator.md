@@ -3,6 +3,7 @@ title: 'Sun''s Java Studio Creator'
 date: Mon, 12 Apr 2004 22:07:37 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

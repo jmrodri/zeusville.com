@@ -3,6 +3,7 @@ title: 'Humpty falls'
 date: Sun, 05 Feb 2006 13:10:04 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

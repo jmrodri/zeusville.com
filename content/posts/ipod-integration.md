@@ -3,6 +3,7 @@ title: 'ipod integration'
 date: Tue, 05 Jan 2010 01:22:14 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'high on python'
 date: Wed, 05 Dec 2007 15:01:22 +0000
 draft: false
 tags: [Java, python]
+categories: [Java, python]
+type: post
 ---
 
 

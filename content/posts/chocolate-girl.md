@@ -3,6 +3,7 @@ title: 'Chocolate girl'
 date: Tue, 30 Sep 2008 02:34:01 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

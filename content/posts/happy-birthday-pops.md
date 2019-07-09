@@ -3,6 +3,7 @@ title: 'Happy Birthday Pops!'
 date: Mon, 20 Apr 2009 00:41:41 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

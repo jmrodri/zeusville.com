@@ -3,6 +3,7 @@ title: 'Goodbye newspapers'
 date: Wed, 20 Aug 2014 13:25:19 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

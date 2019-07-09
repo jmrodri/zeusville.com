@@ -2,7 +2,8 @@
 title: 'TiVo saga fixed (for now)'
 date: Fri, 16 Jul 2010 14:48:11 +0000
 draft: false
-tags: [cablecard, Technology, time warner, tivo]
+tags: [cablecard, time warner, tivo]
+categories: [Technology]
 type: post
 ---
 

@@ -2,7 +2,9 @@
 title: 'Pandora on TiVo'
 date: Thu, 05 Aug 2010 02:20:17 +0000
 draft: false
-tags: [gstreamer, Linux, linux, pandora, pianobar, pytivo, tivo]
+tags: [gstreamer, linux, pandora, pianobar, pytivo, tivo]
+categories: [Linux]
+type: post
 ---
 
 

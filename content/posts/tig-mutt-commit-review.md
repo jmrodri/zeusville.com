@@ -3,6 +3,7 @@ title: 'tig + mutt = commit review'
 date: Tue, 30 Mar 2010 17:31:37 +0000
 draft: false
 tags: [Linux, sm-photo-tool, Technology]
+categories: [Linux, sm-photo-tool, Technology]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Pontiac is dead :('
 date: Mon, 27 Apr 2009 13:57:00 +0000
 draft: false
 tags: [Cars, Technology]
+categories: [Cars, Technology]
+type: post
 ---
 
 

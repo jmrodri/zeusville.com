@@ -2,7 +2,9 @@
 title: 'T/A in a new shop'
 date: Tue, 02 Oct 2007 02:23:53 +0000
 draft: false
-tags: [Cars, fbody]
+tags: [fbody]
+categories: [Cars]
+type: post
 ---
 
 

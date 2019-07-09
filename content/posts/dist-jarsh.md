@@ -3,6 +3,7 @@ title: 'dist-jar.sh'
 date: Thu, 23 Nov 2006 05:00:03 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

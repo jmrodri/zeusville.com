@@ -3,6 +3,7 @@ title: 'cold day'
 date: Wed, 21 Jan 2009 03:41:08 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

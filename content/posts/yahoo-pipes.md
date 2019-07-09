@@ -3,6 +3,7 @@ title: 'Yahoo! pipes'
 date: Mon, 18 Jun 2007 01:30:14 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Memorial Day 2011'
 date: Mon, 30 May 2011 23:49:18 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

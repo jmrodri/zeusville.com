@@ -2,7 +2,9 @@
 title: 'Network performance'
 date: Tue, 13 Sep 2016 04:01:31 +0000
 draft: false
-tags: [802.11n, dd-wrt, netgear, Technology, wireless]
+tags: [802.11n, dd-wrt, netgear, wireless]
+categories: [Technology]
+type: post
 ---
 
 

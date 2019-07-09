@@ -3,6 +3,8 @@ title: 'At home'
 date: Sat, 26 Apr 2008 01:27:55 +0000
 draft: false
 tags: [Family]
+categories: [Family]
+type: post
 ---
 
 

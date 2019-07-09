@@ -3,6 +3,7 @@ title: 'What a difference a / makes'
 date: Fri, 15 Jun 2007 03:17:16 +0000
 draft: false
 tags: [sm-photo-tool]
+categories: [sm-photo-tool]
 type: post
 ---
 

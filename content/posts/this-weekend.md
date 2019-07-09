@@ -3,6 +3,7 @@ title: 'This Weekend'
 date: Mon, 02 Apr 2007 01:15:59 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

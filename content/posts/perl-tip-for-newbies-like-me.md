@@ -3,6 +3,7 @@ title: 'perl tip for newbies like me'
 date: Mon, 23 Aug 2004 15:26:36 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'yard work'
 date: Sun, 13 Apr 2008 23:14:00 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

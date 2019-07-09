@@ -3,6 +3,8 @@ title: 'Nuggets'
 date: Thu, 29 Oct 2009 02:13:22 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
+type: post
 ---
 
 

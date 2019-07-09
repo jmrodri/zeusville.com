@@ -3,6 +3,7 @@ title: 'Voter id'
 date: Sun, 28 Jul 2013 00:43:40 +0000
 draft: false
 tags: [Family, Personal, Politics]
+categories: [Family, Personal, Politics]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Opening doors while driving'
 date: Fri, 07 May 2004 07:51:00 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

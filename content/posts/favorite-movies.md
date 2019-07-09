@@ -3,6 +3,7 @@ title: 'Favorite Movies'
 date: Mon, 29 Dec 2003 14:15:56 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

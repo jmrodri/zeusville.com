@@ -3,6 +3,8 @@ title: 'Ruby'
 date: Tue, 23 Jan 2007 13:59:53 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Family tech support'
 date: Sun, 25 Nov 2007 18:48:04 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

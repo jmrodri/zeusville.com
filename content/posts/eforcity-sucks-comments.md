@@ -3,6 +3,8 @@ title: 'Eforcity SUCKS!'
 date: Tue, 12 Aug 2008 02:49:56 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Happy Birthday to yours truly!'
 date: Tue, 10 Jun 2008 01:24:56 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

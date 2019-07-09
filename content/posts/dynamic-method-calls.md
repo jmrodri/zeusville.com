@@ -3,6 +3,7 @@ title: 'dynamic method calls'
 date: Wed, 14 Mar 2007 02:42:32 +0000
 draft: false
 tags: [sm-photo-tool]
+categories: [sm-photo-tool]
 type: post
 ---
 

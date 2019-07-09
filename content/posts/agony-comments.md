@@ -3,6 +3,8 @@ title: 'agony'
 date: Thu, 08 Mar 2007 20:24:58 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

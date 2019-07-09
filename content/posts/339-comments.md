@@ -3,6 +3,8 @@ title: 'selling on eBay no longer fun'
 date: Tue, 09 Jan 2007 03:58:21 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

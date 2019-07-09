@@ -3,6 +3,7 @@ title: 'Installing mouse cursor themes'
 date: Tue, 30 Aug 2005 20:40:17 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

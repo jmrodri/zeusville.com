@@ -3,6 +3,7 @@ title: 'Linux IDEs where?'
 date: Mon, 10 Nov 2003 11:14:08 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

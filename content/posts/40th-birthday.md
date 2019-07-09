@@ -3,6 +3,7 @@ title: '40th birthday'
 date: Fri, 10 Jun 2011 04:13:03 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

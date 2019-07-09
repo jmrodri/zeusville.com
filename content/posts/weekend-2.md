@@ -3,6 +3,7 @@ title: 'Weekend'
 date: Mon, 26 Mar 2007 02:08:57 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

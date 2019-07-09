@@ -3,6 +3,7 @@ title: 'TiVo Premiere drive died'
 date: Mon, 19 Aug 2013 03:26:29 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

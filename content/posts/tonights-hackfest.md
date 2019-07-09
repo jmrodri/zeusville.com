@@ -3,6 +3,7 @@ title: 'tonights hackfest'
 date: Tue, 20 Mar 2007 04:07:29 +0000
 draft: false
 tags: [sm-photo-tool]
+categories: [sm-photo-tool]
 type: post
 ---
 

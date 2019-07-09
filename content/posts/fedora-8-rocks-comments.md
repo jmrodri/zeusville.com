@@ -3,6 +3,8 @@ title: 'Fedora 8 ROCKS!'
 date: Thu, 08 Nov 2007 14:44:51 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

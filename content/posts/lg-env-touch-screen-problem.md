@@ -3,6 +3,7 @@ title: 'LG enV Touch screen problem'
 date: Sun, 09 Aug 2009 12:58:20 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

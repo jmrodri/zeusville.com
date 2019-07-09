@@ -3,6 +3,7 @@ title: 'Faith'
 date: Mon, 02 Jul 2007 15:26:25 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: '1995 Pontiac Trans Am FORSALE!'
 date: Sun, 30 Mar 2008 03:31:59 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

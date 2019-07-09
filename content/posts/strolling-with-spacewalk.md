@@ -3,6 +3,7 @@ title: 'Strolling with Spacewalk'
 date: Thu, 19 Jun 2008 17:12:57 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

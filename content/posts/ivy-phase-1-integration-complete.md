@@ -3,6 +3,7 @@ title: 'IVY phase 1 integration complete'
 date: Wed, 15 Nov 2006 04:39:38 +0000
 draft: false
 tags: [Java, Linux]
+categories: [Java, Linux]
 type: post
 ---
 

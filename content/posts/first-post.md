@@ -3,6 +3,7 @@ title: 'First Post'
 date: Wed, 05 Jan 2005 21:41:32 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

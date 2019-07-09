@@ -3,6 +3,7 @@ title: 'Mysterious Connection Closing (part deux)'
 date: Fri, 19 Aug 2005 23:30:15 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

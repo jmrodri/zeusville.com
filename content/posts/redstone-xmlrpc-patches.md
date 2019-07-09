@@ -3,6 +3,7 @@ title: 'Redstone XMLRPC patches'
 date: Wed, 21 Nov 2007 15:21:04 +0000
 draft: false
 tags: [Java, Linux]
+categories: [Java, Linux]
 type: post
 ---
 

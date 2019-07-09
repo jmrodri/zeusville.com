@@ -3,6 +3,8 @@ title: 'more annoying buzzwords'
 date: Wed, 05 Mar 2008 19:10:57 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

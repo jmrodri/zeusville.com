@@ -3,6 +3,8 @@ title: 'Spacewalk 0.8 RELEASED!'
 date: Tue, 16 Feb 2010 20:50:09 +0000
 draft: false
 tags: [spacewalk, Technology]
+categories: [spacewalk, Technology]
+type: post
 ---
 
 

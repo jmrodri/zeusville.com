@@ -3,6 +3,7 @@ title: 'gnome-blog and metaweblog api'
 date: Sun, 16 Jan 2005 00:31:12 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Where are all the SWT applications?'
 date: Fri, 02 Apr 2004 15:51:04 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

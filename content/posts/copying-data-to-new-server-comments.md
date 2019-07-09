@@ -3,6 +3,8 @@ title: 'copying data to new server'
 date: Fri, 04 Jun 2010 18:23:10 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

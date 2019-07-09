@@ -3,6 +3,8 @@ title: 'Vonage'
 date: Mon, 20 Sep 2004 23:20:20 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

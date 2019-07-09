@@ -2,7 +2,9 @@
 title: 'Installed rear shocks on Mazdaspeed'
 date: Mon, 09 Nov 2015 02:07:43 +0000
 draft: false
-tags: [Cars, mazda, mazdaspeed3]
+tags: [mazda, mazdaspeed3]
+categories: [Cars]
+type: post
 ---
 
 

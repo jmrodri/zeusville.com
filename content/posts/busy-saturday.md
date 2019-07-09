@@ -3,6 +3,7 @@ title: 'Busy Saturday'
 date: Sun, 25 Jan 2009 02:25:13 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

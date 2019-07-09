@@ -3,6 +3,8 @@ title: 'It''s here!'
 date: Thu, 02 Aug 2007 13:15:04 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

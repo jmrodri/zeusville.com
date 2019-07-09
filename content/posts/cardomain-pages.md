@@ -3,6 +3,7 @@ title: 'cardomain pages'
 date: Sun, 20 Apr 2008 02:05:55 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

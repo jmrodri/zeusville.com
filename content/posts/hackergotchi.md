@@ -3,6 +3,7 @@ title: 'hackergotchi'
 date: Thu, 05 Apr 2007 14:38:03 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

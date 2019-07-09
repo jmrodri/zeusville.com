@@ -3,6 +3,8 @@ title: 'Firefox Tip: multiple homepages'
 date: Sun, 29 Aug 2004 18:19:13 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

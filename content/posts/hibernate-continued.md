@@ -3,6 +3,7 @@ title: 'Hibernate continued'
 date: Fri, 13 Feb 2004 10:31:05 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

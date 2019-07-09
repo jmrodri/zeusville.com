@@ -3,6 +3,7 @@ title: 'Trans Am almost fixed'
 date: Tue, 25 Jan 2005 11:33:21 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

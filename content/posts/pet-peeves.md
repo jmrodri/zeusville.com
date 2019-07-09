@@ -3,6 +3,7 @@ title: 'pet peeves'
 date: Mon, 20 Aug 2007 13:02:18 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

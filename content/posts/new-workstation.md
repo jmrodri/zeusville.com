@@ -3,6 +3,7 @@ title: 'New workstation'
 date: Wed, 16 Feb 2005 11:06:07 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

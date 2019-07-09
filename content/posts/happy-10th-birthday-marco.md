@@ -3,6 +3,7 @@ title: 'happy 10th birthday Marco'
 date: Sat, 12 Oct 2013 21:20:07 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

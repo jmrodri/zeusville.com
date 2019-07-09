@@ -3,6 +3,7 @@ title: 'Automobile saga'
 date: Tue, 26 Jun 2007 13:50:57 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Tourney time'
 date: Mon, 12 Mar 2007 18:00:48 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

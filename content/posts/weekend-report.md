@@ -3,6 +3,7 @@ title: 'Weekend report'
 date: Sun, 29 Apr 2007 17:16:35 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

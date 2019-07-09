@@ -2,6 +2,7 @@
 title: 'LOT OF POKEMON CARDS THAT MY KIDS TRIED TO SNEAK BY ME'
 date: Wed, 22 Aug 2007 13:05:14 +0000
 draft: false
+type: page
 ---
 
 

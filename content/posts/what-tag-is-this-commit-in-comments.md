@@ -3,6 +3,8 @@ title: 'what tag is this commit in?'
 date: Fri, 17 May 2013 14:48:39 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

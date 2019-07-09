@@ -3,6 +3,8 @@ title: 'Newegg.com FTW!'
 date: Fri, 15 Aug 2008 02:40:43 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

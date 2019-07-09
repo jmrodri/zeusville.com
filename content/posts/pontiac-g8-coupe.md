@@ -3,6 +3,7 @@ title: 'Pontiac G8 Coupe?'
 date: Wed, 02 Apr 2008 13:55:24 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

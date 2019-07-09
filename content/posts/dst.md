@@ -3,6 +3,7 @@ title: 'DST'
 date: Sun, 26 Oct 2003 22:27:22 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

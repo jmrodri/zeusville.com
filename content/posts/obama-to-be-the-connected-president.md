@@ -3,6 +3,7 @@ title: 'Obama to be the connected president'
 date: Mon, 10 Nov 2008 13:40:06 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

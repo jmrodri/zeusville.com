@@ -3,6 +3,7 @@ title: 'Happy 8th Birthday, Iliana!'
 date: Sat, 14 Feb 2015 13:13:17 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'OLPC in Nigeria'
 date: Thu, 12 Apr 2007 15:36:48 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Great Weekend'
 date: Sun, 19 Jun 2005 21:33:02 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

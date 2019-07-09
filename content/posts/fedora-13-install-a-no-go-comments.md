@@ -3,6 +3,8 @@ title: 'Fedora 13 install a no go'
 date: Tue, 28 Sep 2010 00:45:14 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

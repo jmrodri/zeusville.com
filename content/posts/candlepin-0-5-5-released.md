@@ -2,7 +2,8 @@
 title: 'Candlepin 0.5.5 released'
 date: Thu, 08 Dec 2011 20:17:38 +0000
 draft: false
-tags: [candlepin, Java, java, Linux, python, python, Technology, thumbslug]
+tags: [candlepin, java, python, thumbslug]
+categories: [Java, Linux, python, Technology]
 type: post
 ---
 

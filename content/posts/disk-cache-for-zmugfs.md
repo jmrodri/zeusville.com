@@ -3,6 +3,7 @@ title: 'disk cache for zmugfs'
 date: Wed, 17 Oct 2007 02:06:22 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

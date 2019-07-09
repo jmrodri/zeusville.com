@@ -3,6 +3,7 @@ title: 'Metacity and Wireframe'
 date: Sat, 21 Feb 2004 21:57:38 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Rough week'
 date: Sat, 01 Mar 2008 23:55:23 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
+type: post
 ---
 
 

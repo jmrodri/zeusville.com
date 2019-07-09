@@ -2,7 +2,9 @@
 title: 'desktop effects locks up my box (part 2)'
 date: Wed, 07 Mar 2007 04:34:24 +0000
 draft: false
-tags: [bling, Linux, Personal, Technology]
+tags: [bling]
+categories: [Linux, Personal, Technology]
+type: post
 ---
 
 

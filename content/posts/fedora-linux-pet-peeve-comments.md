@@ -3,6 +3,8 @@ title: 'Fedora (Linux pet peeve)'
 date: Fri, 07 Nov 2003 22:22:16 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

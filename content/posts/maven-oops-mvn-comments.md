@@ -3,6 +3,8 @@ title: 'maven  oops mvn'
 date: Tue, 23 Jan 2007 20:02:55 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

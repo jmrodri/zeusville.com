@@ -3,6 +3,7 @@ title: 'MP3 streaming'
 date: Mon, 12 Apr 2004 00:20:07 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

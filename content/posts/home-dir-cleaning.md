@@ -3,6 +3,7 @@ title: '/home dir cleaning'
 date: Mon, 03 Jul 2017 23:22:57 +0000
 draft: false
 tags: [Linux, Personal]
+categories: [Linux, Personal]
 type: post
 ---
 

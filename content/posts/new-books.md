@@ -3,6 +3,7 @@ title: 'New books'
 date: Thu, 01 Apr 2004 21:45:30 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

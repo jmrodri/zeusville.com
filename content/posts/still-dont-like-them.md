@@ -3,6 +3,7 @@ title: 'still don''t like them'
 date: Thu, 15 Apr 2010 19:45:43 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

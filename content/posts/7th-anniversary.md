@@ -3,6 +3,7 @@ title: '7th Anniversary'
 date: Tue, 27 Feb 2007 15:29:20 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

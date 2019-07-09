@@ -3,6 +3,7 @@ title: 'vacation 2007'
 date: Mon, 16 Jul 2007 03:24:57 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

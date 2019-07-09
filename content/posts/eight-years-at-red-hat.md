@@ -3,6 +3,7 @@ title: 'Eight years at Red Hat'
 date: Thu, 19 Apr 2012 14:41:07 +0000
 draft: false
 tags: [Linux, Personal, Technology]
+categories: [Linux, Personal, Technology]
 type: post
 ---
 

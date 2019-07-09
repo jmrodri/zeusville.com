@@ -3,6 +3,8 @@ title: 'SPARTA!'
 date: Thu, 30 Aug 2007 15:04:23 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

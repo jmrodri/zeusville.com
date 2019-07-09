@@ -3,6 +3,7 @@ title: 'getting a specific line from a live log file'
 date: Wed, 24 Jan 2007 17:15:01 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

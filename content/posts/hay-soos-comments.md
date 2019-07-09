@@ -3,6 +3,8 @@ title: 'hay-soos'
 date: Fri, 14 Mar 2008 13:46:57 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

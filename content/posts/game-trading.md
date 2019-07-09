@@ -3,6 +3,7 @@ title: 'game trading'
 date: Wed, 28 Feb 2007 16:24:42 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

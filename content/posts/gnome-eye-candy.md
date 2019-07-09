@@ -3,6 +3,7 @@ title: 'GNOME eye candy'
 date: Tue, 24 Aug 2004 12:22:44 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

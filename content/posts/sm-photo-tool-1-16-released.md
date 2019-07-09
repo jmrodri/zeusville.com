@@ -3,6 +3,7 @@ title: 'sm-photo-tool 1.16 released!'
 date: Wed, 05 Aug 2009 04:21:01 +0000
 draft: false
 tags: [Linux, python, sm-photo-tool]
+categories: [Linux, python, sm-photo-tool]
 type: post
 ---
 

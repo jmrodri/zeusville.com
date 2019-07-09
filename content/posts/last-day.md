@@ -3,6 +3,7 @@ title: 'Last day'
 date: Thu, 08 Apr 2004 11:04:46 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'To buy or to fix, that is the question'
 date: Sat, 30 Jun 2007 15:07:49 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
+type: post
 ---
 
 

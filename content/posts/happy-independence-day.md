@@ -3,6 +3,7 @@ title: 'Happy Independence Day!'
 date: Fri, 04 Jul 2008 16:19:54 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

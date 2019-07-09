@@ -3,6 +3,7 @@ title: 'shell scripting'
 date: Thu, 16 Nov 2006 15:17:33 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

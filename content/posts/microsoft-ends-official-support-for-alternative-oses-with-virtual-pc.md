@@ -3,6 +3,7 @@ title: 'Microsoft Ends Official Support for Alternative OSes with Virtual PC'
 date: Mon, 03 Nov 2003 08:39:05 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

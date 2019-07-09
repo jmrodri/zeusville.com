@@ -3,6 +3,7 @@ title: 'If operating systems ran the airlines'
 date: Sat, 24 Feb 2007 22:32:42 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

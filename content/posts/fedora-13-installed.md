@@ -3,6 +3,7 @@ title: 'Fedora 13 *installed*'
 date: Tue, 28 Sep 2010 19:22:51 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

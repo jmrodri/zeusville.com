@@ -3,6 +3,7 @@ title: 'Red Hat Enterprise Linux helps make "Shrek the Third"'
 date: Tue, 22 May 2007 14:12:11 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

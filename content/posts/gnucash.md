@@ -3,6 +3,7 @@ title: 'gnucash'
 date: Mon, 17 Dec 2007 05:07:44 +0000
 draft: false
 tags: [Family, Java, Linux]
+categories: [Family, Java, Linux]
 type: post
 ---
 

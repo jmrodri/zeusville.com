@@ -3,6 +3,7 @@ title: 'Blogger has better UI than Roller'
 date: Sun, 14 Nov 2004 22:31:35 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

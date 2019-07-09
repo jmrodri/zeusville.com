@@ -3,6 +3,7 @@ title: 'Nexus 4 Android 5.0 Lollipop'
 date: Mon, 24 Nov 2014 04:21:37 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

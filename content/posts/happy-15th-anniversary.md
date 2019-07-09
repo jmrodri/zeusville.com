@@ -3,6 +3,7 @@ title: 'Happy 15th Anniversary'
 date: Thu, 26 Feb 2015 17:40:48 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

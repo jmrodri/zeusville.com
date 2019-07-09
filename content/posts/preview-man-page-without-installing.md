@@ -3,6 +3,7 @@ title: 'Preview man page without installing'
 date: Fri, 06 Jul 2012 19:28:48 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

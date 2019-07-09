@@ -3,6 +3,7 @@ title: 'crime and punishment'
 date: Sat, 03 Mar 2007 23:09:38 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

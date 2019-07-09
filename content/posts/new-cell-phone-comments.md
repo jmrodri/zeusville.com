@@ -3,6 +3,8 @@ title: 'New cell phone'
 date: Sat, 28 Jul 2007 17:12:44 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Red Hat Network'
 date: Wed, 10 Aug 2005 10:53:44 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

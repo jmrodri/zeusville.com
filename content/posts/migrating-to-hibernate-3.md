@@ -3,6 +3,7 @@ title: 'Migrating to Hibernate 3'
 date: Mon, 08 Aug 2005 23:51:31 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

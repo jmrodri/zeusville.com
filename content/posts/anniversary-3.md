@@ -3,6 +3,7 @@ title: 'Anniversary'
 date: Fri, 26 Feb 2010 14:07:54 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

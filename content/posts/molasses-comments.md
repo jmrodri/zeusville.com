@@ -3,6 +3,8 @@ title: 'molasses'
 date: Fri, 05 Feb 2010 15:43:34 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

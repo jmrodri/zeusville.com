@@ -3,6 +3,8 @@ title: 'can I have a do over?'
 date: Thu, 24 Dec 2009 14:18:04 +0000
 draft: false
 tags: [Java, Linux, python, Technology]
+categories: [Java, Linux, python, Technology]
+type: post
 ---
 
 

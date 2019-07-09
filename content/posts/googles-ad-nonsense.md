@@ -3,6 +3,7 @@ title: 'Google''s ad (non)sense!'
 date: Mon, 17 Dec 2007 03:33:29 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

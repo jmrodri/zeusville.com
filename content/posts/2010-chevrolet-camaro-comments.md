@@ -3,6 +3,8 @@ title: '2010 Chevrolet Camaro'
 date: Sat, 19 Jul 2008 13:05:37 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
+type: post
 ---
 
 

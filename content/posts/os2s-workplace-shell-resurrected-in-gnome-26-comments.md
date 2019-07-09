@@ -3,6 +3,8 @@ title: 'OS/2''s Workplace Shell resurrected in GNOME 2.6'
 date: Tue, 09 Mar 2004 00:04:13 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

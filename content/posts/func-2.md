@@ -3,6 +3,7 @@ title: 'Func'
 date: Fri, 13 Mar 2009 01:37:56 +0000
 draft: false
 tags: [Linux, spacewalk]
+categories: [Linux, spacewalk]
 type: post
 ---
 

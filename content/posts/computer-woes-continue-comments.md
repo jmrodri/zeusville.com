@@ -3,6 +3,8 @@ title: 'Computer woes continue'
 date: Sat, 03 Jul 2004 22:01:52 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

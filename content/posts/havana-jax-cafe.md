@@ -3,6 +3,7 @@ title: 'Havana Jax Cafe'
 date: Tue, 28 Oct 2003 16:02:02 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

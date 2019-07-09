@@ -3,6 +3,7 @@ title: 'buzzwords'
 date: Fri, 22 Feb 2008 01:58:01 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

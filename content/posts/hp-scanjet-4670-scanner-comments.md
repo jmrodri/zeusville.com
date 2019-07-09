@@ -3,6 +3,8 @@ title: 'HP ScanJet 4670 Scanner'
 date: Wed, 18 Feb 2004 21:16:42 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

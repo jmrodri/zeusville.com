@@ -3,6 +3,7 @@ title: 'Spacewalk clients (base) in Fedora'
 date: Wed, 23 Sep 2009 18:17:09 +0000
 draft: false
 tags: [spacewalk]
+categories: [spacewalk]
 type: post
 ---
 

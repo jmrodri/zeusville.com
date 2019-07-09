@@ -3,6 +3,8 @@ title: 'Nvu for Fedora Core 1'
 date: Wed, 14 Apr 2004 20:15:11 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

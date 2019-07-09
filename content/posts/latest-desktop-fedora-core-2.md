@@ -3,6 +3,7 @@ title: 'Latest desktop (Fedora Core 2)'
 date: Sun, 09 Jan 2005 23:17:22 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'hardware cannibal'
 date: Tue, 14 Aug 2007 01:10:53 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

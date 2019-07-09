@@ -3,6 +3,7 @@ title: 'Car Show'
 date: Sat, 17 Mar 2007 19:31:03 +0000
 draft: false
 tags: [Cars, Family]
+categories: [Cars, Family]
 type: post
 ---
 

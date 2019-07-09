@@ -3,6 +3,7 @@ title: 'Overhaulin'
 date: Sun, 15 Aug 2004 23:08:12 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Go resources'
 date: Tue, 16 Aug 2016 01:09:40 +0000
 draft: false
 tags: [Go, Golang]
+categories: [Go, Golang]
 type: post
 ---
 

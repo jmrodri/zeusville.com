@@ -3,6 +3,7 @@ title: 'Happy 7th Birthday, Adan'
 date: Tue, 30 Sep 2008 02:19:30 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'xargs tip of the day'
 date: Fri, 15 Feb 2008 16:22:07 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

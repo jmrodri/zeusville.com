@@ -3,6 +3,7 @@ title: 'Go! Speed Racer Go!'
 date: Thu, 25 Aug 2016 03:56:32 +0000
 draft: false
 tags: [Go, Golang, python, sm-photo-tool, Technology]
+categories: [Go, Golang, python, sm-photo-tool, Technology]
 type: post
 ---
 

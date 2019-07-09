@@ -3,6 +3,7 @@ title: 'RIP Reina'
 date: Mon, 31 Oct 2011 13:35:22 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

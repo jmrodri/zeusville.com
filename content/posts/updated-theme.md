@@ -3,6 +3,7 @@ title: 'updated theme'
 date: Sat, 17 Feb 2007 18:03:07 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

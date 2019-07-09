@@ -3,6 +3,8 @@ title: 'Cartooning and Comic Art'
 date: Tue, 31 Jul 2007 13:45:56 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

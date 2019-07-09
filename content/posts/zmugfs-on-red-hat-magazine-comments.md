@@ -3,6 +3,8 @@ title: 'zmugfs on Red Hat Magazine'
 date: Wed, 30 Jan 2008 14:58:57 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
+type: post
 ---
 
 

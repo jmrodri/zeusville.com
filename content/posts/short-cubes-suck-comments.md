@@ -3,6 +3,8 @@ title: 'short cubes suck.'
 date: Mon, 16 Nov 2009 16:11:11 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

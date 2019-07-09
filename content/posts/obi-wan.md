@@ -3,6 +3,7 @@ title: 'Obi Wan'
 date: Thu, 28 Jun 2007 01:51:34 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

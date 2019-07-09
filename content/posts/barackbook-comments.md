@@ -3,6 +3,8 @@ title: 'BarackBook?!?!'
 date: Thu, 09 Oct 2008 10:57:40 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

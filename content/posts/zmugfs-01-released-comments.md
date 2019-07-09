@@ -3,6 +3,8 @@ title: 'zmugfs 0.1 RELEASED!'
 date: Thu, 01 Nov 2007 03:59:08 +0000
 draft: false
 tags: [python, zmugfs]
+categories: [python, zmugfs]
+type: post
 ---
 
 

@@ -2,7 +2,9 @@
 title: 'Eclipse you suck!'
 date: Thu, 06 Feb 2014 03:18:08 +0000
 draft: false
-tags: [android, Java, Linux, Technology]
+tags: [android]
+categories: [Java, Linux, Technology]
+type: post
 ---
 
 

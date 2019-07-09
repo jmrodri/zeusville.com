@@ -3,6 +3,7 @@ title: 'Printing under Linux :('
 date: Mon, 19 Mar 2007 02:57:38 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

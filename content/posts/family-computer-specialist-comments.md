@@ -3,6 +3,8 @@ title: 'Family computer specialist'
 date: Mon, 13 Nov 2006 00:46:58 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Linux a better Windows partition manager'
 date: Fri, 16 May 2008 02:34:16 +0000
 draft: false
 tags: [Family, Linux, Technology]
+categories: [Family, Linux, Technology]
 type: post
 ---
 

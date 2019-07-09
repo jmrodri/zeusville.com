@@ -3,6 +3,8 @@ title: 'new server'
 date: Thu, 03 Jun 2010 13:50:44 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

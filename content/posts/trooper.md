@@ -3,6 +3,7 @@ title: 'Trooper'
 date: Mon, 06 Aug 2007 20:54:14 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

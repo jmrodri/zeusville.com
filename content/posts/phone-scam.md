@@ -3,6 +3,7 @@ title: 'Phone scam'
 date: Tue, 27 May 2014 19:18:58 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

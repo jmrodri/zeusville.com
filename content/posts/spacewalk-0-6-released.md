@@ -3,6 +3,7 @@ title: 'Spacewalk 0.6 RELEASED'
 date: Sat, 08 Aug 2009 01:49:01 +0000
 draft: false
 tags: [Linux, spacewalk]
+categories: [Linux, spacewalk]
 type: post
 ---
 

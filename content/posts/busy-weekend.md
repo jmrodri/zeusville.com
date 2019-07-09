@@ -3,6 +3,7 @@ title: 'Busy weekend'
 date: Sun, 03 Aug 2008 17:31:49 +0000
 draft: false
 tags: [Family, Java, Technology, zmugfs]
+categories: [Family, Java, Technology, zmugfs]
 type: post
 ---
 

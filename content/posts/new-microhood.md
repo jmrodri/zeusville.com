@@ -3,6 +3,7 @@ title: 'New Microhood'
 date: Sun, 01 Nov 2009 01:37:48 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

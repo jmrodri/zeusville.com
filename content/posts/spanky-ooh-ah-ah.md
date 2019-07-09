@@ -3,6 +3,7 @@ title: 'spanky ooh ah ah'
 date: Fri, 09 Mar 2007 20:56:59 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'very own Rust map'
 date: Mon, 12 Apr 2010 14:45:28 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

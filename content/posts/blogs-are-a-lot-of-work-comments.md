@@ -3,6 +3,8 @@ title: 'Blogs are a lot of work'
 date: Mon, 20 Oct 2003 14:23:46 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

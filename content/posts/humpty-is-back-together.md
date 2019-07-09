@@ -3,6 +3,7 @@ title: 'Humpty is back together'
 date: Tue, 24 Nov 2009 05:07:56 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

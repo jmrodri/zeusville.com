@@ -3,6 +3,8 @@ title: 'Conservative BS'
 date: Sat, 10 May 2008 00:13:57 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

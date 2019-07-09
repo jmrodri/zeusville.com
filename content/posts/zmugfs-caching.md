@@ -3,6 +3,7 @@ title: 'zmugfs caching'
 date: Mon, 15 Oct 2007 03:55:26 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

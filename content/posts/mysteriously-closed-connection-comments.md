@@ -3,6 +3,8 @@ title: 'Mysteriously closed connection'
 date: Wed, 17 Aug 2005 15:02:23 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

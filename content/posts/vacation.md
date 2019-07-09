@@ -3,6 +3,7 @@ title: 'Vacation'
 date: Fri, 30 Jun 2006 20:53:44 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'SpaceTALK'
 date: Thu, 20 Aug 2009 01:29:51 +0000
 draft: false
 tags: [Linux, spacewalk]
+categories: [Linux, spacewalk]
+type: post
 ---
 
 

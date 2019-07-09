@@ -3,6 +3,7 @@ title: 'New Toy: Sony Clie'
 date: Tue, 25 May 2004 22:45:38 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

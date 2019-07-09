@@ -3,6 +3,7 @@ title: 'gtkpod'
 date: Thu, 08 Jul 2004 00:27:18 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

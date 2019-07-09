@@ -3,6 +3,8 @@ title: 'spectacle'
 date: Wed, 06 Jun 2007 20:03:39 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

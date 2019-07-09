@@ -3,6 +3,7 @@ title: '2011 Pontiac "GTO" or "Trans Am"?'
 date: Sat, 24 Feb 2007 02:29:35 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

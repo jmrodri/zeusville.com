@@ -3,6 +3,8 @@ title: 'Boolean.getBoolean not what you think it is'
 date: Thu, 09 Oct 2003 14:47:32 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

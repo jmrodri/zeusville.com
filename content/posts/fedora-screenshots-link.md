@@ -3,6 +3,7 @@ title: 'Fedora Screenshots Link'
 date: Mon, 03 Nov 2003 15:00:50 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

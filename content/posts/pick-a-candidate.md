@@ -3,6 +3,7 @@ title: 'Pick a candidate'
 date: Fri, 14 Dec 2007 18:11:23 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

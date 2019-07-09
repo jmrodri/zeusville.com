@@ -3,6 +3,7 @@ title: 'Linux Tip: Scanner not found?'
 date: Mon, 31 May 2004 00:39:17 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Protecting my daughter'
 date: Tue, 13 Mar 2007 15:07:37 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

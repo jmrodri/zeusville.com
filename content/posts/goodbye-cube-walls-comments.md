@@ -3,6 +3,8 @@ title: 'I don''t think we''re in Kansas anymore ...'
 date: Tue, 03 Nov 2009 02:03:40 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

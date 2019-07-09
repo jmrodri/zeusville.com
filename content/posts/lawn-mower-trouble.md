@@ -3,6 +3,7 @@ title: 'Lawn mower trouble'
 date: Sun, 15 Nov 2009 01:12:36 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

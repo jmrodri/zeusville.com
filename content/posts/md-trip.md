@@ -3,6 +3,7 @@ title: 'MD trip'
 date: Mon, 13 Aug 2007 14:12:09 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

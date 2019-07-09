@@ -3,6 +3,7 @@ title: 'Adan and Iliana'
 date: Thu, 15 Feb 2007 03:10:54 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'the fish'
 date: Sat, 12 Apr 2008 23:47:26 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
+type: post
 ---
 
 

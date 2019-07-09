@@ -3,6 +3,7 @@ title: 'XChat warn plugin'
 date: Wed, 24 Jan 2007 18:21:46 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

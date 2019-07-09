@@ -3,6 +3,7 @@ title: 'Vonage doomed?'
 date: Fri, 23 Mar 2007 21:38:31 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

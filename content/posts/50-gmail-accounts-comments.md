@@ -3,6 +3,8 @@ title: '50 Gmail accounts'
 date: Fri, 04 Feb 2005 09:54:25 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

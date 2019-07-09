@@ -3,6 +3,7 @@ title: 'Hudson rocks'
 date: Fri, 09 Nov 2007 03:28:26 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

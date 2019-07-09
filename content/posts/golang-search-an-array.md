@@ -3,6 +3,7 @@ title: 'Golang: search an array'
 date: Mon, 08 Aug 2016 03:57:18 +0000
 draft: false
 tags: [Go, Technology]
+categories: [Go, Technology]
 type: post
 ---
 

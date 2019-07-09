@@ -3,6 +3,7 @@ title: 'Flu shot for Ad&aacute;n'
 date: Wed, 29 Oct 2003 22:43:49 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

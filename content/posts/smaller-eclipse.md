@@ -2,7 +2,8 @@
 title: 'Smaller eclipse'
 date: Thu, 30 Jan 2014 03:12:02 +0000
 draft: false
-tags: [Personal, Link]
+tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

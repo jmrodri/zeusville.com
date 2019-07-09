@@ -3,6 +3,7 @@ title: 'Happy 6th Birthday Iliana!'
 date: Thu, 14 Feb 2013 13:51:02 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

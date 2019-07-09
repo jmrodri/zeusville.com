@@ -3,6 +3,7 @@ title: 'Terps beats Pack!'
 date: Mon, 11 Feb 2008 00:50:36 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

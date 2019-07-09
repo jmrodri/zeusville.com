@@ -3,6 +3,7 @@ title: 'Mazda 3'
 date: Mon, 03 Jan 2005 21:39:36 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

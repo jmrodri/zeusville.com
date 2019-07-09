@@ -3,6 +3,7 @@ title: 'Happy Easter!'
 date: Sun, 23 Mar 2008 17:56:08 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

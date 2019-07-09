@@ -3,6 +3,7 @@ title: 'xdoclet is NOT my friend'
 date: Tue, 23 May 2006 23:33:25 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

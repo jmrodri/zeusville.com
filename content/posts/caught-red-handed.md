@@ -3,6 +3,7 @@ title: 'Caught Red Handed'
 date: Thu, 08 Sep 2005 22:24:15 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

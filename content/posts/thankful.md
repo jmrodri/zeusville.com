@@ -3,6 +3,7 @@ title: 'Thankful'
 date: Fri, 19 Dec 2003 13:18:11 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

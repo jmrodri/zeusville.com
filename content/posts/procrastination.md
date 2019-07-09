@@ -3,6 +3,7 @@ title: 'Procrastination'
 date: Mon, 19 Mar 2007 02:53:41 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

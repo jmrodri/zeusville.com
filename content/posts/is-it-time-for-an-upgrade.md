@@ -3,6 +3,7 @@ title: 'Is it time for an upgrade?'
 date: Thu, 20 Nov 2003 23:35:51 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

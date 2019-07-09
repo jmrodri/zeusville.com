@@ -3,6 +3,8 @@ title: 'Java guys'
 date: Tue, 07 Feb 2006 10:53:58 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Google Talk'
 date: Thu, 25 Aug 2005 11:05:38 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

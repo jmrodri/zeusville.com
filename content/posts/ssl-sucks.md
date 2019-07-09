@@ -3,6 +3,7 @@ title: 'SSL sucks'
 date: Fri, 13 Jun 2014 04:02:04 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

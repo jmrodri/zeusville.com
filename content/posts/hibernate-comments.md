@@ -3,6 +3,8 @@ title: 'Hibernate'
 date: Wed, 04 Feb 2004 14:14:23 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

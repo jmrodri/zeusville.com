@@ -3,6 +3,7 @@ title: 'hrm.'
 date: Tue, 30 Sep 2008 16:03:17 +0000
 draft: false
 tags: [Personal, Politics]
+categories: [Personal, Politics]
 type: post
 ---
 

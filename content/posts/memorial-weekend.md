@@ -3,6 +3,7 @@ title: 'Memorial Weekend'
 date: Tue, 26 May 2009 13:57:43 +0000
 draft: false
 tags: [Family, Personal, Technology]
+categories: [Family, Personal, Technology]
 type: post
 ---
 

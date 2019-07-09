@@ -3,6 +3,7 @@ title: 'It''s a trap'
 date: Mon, 10 Mar 2008 20:20:50 +0000
 draft: false
 tags: [Family, Technology]
+categories: [Family, Technology]
 type: post
 ---
 

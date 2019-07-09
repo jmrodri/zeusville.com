@@ -3,6 +3,7 @@ title: 'New toy: Canon SD4000IS'
 date: Fri, 05 Nov 2010 13:27:00 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'TRENDnet Powerline Adapter configuration'
 date: Fri, 13 Jul 2012 00:48:04 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

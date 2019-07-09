@@ -3,6 +3,8 @@ title: 'selfless isn''t always good'
 date: Fri, 14 Sep 2007 13:21:17 +0000
 draft: false
 tags: [Technology, zmugfs]
+categories: [Technology, zmugfs]
+type: post
 ---
 
 

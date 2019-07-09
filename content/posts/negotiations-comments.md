@@ -3,6 +3,8 @@ title: 'Negotiations'
 date: Wed, 06 Jun 2007 00:54:26 +0000
 draft: false
 tags: [Family]
+categories: [Family]
+type: post
 ---
 
 

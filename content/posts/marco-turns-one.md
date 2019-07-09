@@ -3,6 +3,7 @@ title: 'Marco turns one.'
 date: Mon, 18 Oct 2004 13:51:17 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

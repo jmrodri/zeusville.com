@@ -2,7 +2,7 @@
 title: 'LOT OF POKEMON CARDS THAT MY KIDS TRIED TO SNEAK BY ME'
 date: Wed, 22 Aug 2007 13:05:14 +0000
 draft: false
-type: post
+type: page
 ---
 
 This is a recreation of an ebay listing I saw. **I AM NOT SELLING ANY CARDS**. If you found this page via google, it is linked to a blog posting.

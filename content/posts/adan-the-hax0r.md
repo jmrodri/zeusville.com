@@ -3,6 +3,7 @@ title: 'Adan the hax0r'
 date: Mon, 22 May 2006 11:05:03 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Toot toot'
 date: Sun, 05 Oct 2008 04:22:02 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

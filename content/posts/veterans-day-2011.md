@@ -3,6 +3,7 @@ title: 'Veterans Day 2011'
 date: Fri, 11 Nov 2011 14:58:44 +0000
 draft: false
 tags: [Family, Personal, Politics]
+categories: [Family, Personal, Politics]
 type: post
 ---
 

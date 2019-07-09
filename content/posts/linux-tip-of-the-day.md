@@ -3,6 +3,7 @@ title: 'Linux Tip of the Day'
 date: Tue, 11 May 2004 10:54:43 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

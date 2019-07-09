@@ -3,6 +3,7 @@ title: 'iN DEMAND bans Michael Moore'
 date: Sat, 16 Oct 2004 19:36:47 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

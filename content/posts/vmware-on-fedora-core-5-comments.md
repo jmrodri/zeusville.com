@@ -3,6 +3,8 @@ title: 'VMware on Fedora Core 5'
 date: Sat, 26 Aug 2006 20:39:53 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

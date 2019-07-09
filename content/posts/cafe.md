@@ -3,6 +3,7 @@ title: 'Café'
 date: Mon, 26 Mar 2007 00:27:57 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

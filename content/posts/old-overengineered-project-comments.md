@@ -3,6 +3,8 @@ title: 'Old overengineered project :)'
 date: Sat, 24 Oct 2009 03:16:44 +0000
 draft: false
 tags: [Java, Linux, Technology]
+categories: [Java, Linux, Technology]
+type: post
 ---
 
 

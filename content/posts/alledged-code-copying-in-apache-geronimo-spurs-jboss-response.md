@@ -3,6 +3,7 @@ title: 'Alledged Code Copying in Apache Geronimo spurs JBoss response'
 date: Tue, 11 Nov 2003 09:15:44 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

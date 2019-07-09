@@ -3,6 +3,7 @@ title: 'On this day ...'
 date: Wed, 09 Jun 2004 09:01:36 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

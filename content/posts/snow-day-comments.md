@@ -3,6 +3,8 @@ title: 'snow day'
 date: Wed, 21 Jan 2009 04:00:26 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Why is maven popular?'
 date: Wed, 24 Jan 2007 16:28:55 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

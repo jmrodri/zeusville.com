@@ -3,6 +3,7 @@ title: 'Upgrading Fedora Core 1 to Core 2 test 3 (cont''d)'
 date: Mon, 17 May 2004 22:09:36 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Lent'
 date: Thu, 22 Feb 2007 03:56:46 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

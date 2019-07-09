@@ -3,6 +3,7 @@ title: 'barn'
 date: Wed, 29 Aug 2007 14:53:06 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

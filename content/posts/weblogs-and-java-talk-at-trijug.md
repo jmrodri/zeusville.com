@@ -3,6 +3,7 @@ title: 'Weblogs and Java talk at TriJug'
 date: Tue, 17 Feb 2004 09:41:36 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

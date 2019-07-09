@@ -3,6 +3,8 @@ title: 'Wonderful drive to work'
 date: Fri, 09 Jul 2004 09:27:18 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

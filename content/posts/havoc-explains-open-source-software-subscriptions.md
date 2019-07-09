@@ -3,6 +3,7 @@ title: 'Havoc explains "Open Source Software Subscriptions"'
 date: Thu, 09 Sep 2004 09:53:32 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

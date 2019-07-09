@@ -3,6 +3,7 @@ title: 'Netflix PS3 disc cover'
 date: Sat, 07 Nov 2009 01:31:49 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

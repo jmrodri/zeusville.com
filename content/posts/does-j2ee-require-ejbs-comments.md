@@ -3,6 +3,8 @@ title: 'Does J2EE require EJBs?'
 date: Sun, 04 Apr 2004 21:33:27 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'RSS feeds for Red Hat blogs'
 date: Mon, 23 Aug 2004 21:36:28 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

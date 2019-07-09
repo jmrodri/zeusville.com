@@ -3,6 +3,8 @@ title: 'Latest addition to car options list'
 date: Mon, 07 Jun 2004 09:36:49 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

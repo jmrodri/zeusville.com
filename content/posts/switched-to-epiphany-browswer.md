@@ -3,6 +3,7 @@ title: 'Switched to Epiphany browswer'
 date: Mon, 26 May 2008 23:10:25 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'new spark plugs'
 date: Mon, 05 May 2008 19:40:45 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Adan wants to go to college'
 date: Fri, 10 Sep 2004 09:44:12 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'boxedup.com'
 date: Mon, 19 Nov 2007 16:32:59 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

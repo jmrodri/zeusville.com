@@ -3,6 +3,8 @@ title: 'Veteran''s day 2010'
 date: Thu, 11 Nov 2010 16:22:16 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

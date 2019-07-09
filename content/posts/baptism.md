@@ -3,6 +3,7 @@ title: 'Baptism'
 date: Sat, 07 Jul 2007 03:58:10 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

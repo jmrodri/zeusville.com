@@ -3,6 +3,7 @@ title: 'Falcon again (damn, it looks good :-) )'
 date: Sun, 27 May 2007 14:30:57 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

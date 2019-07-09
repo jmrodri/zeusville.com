@@ -3,6 +3,7 @@ title: 'Mounting Nexus 4'
 date: Thu, 12 Sep 2013 02:26:01 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

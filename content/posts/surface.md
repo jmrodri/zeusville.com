@@ -3,6 +3,7 @@ title: 'Surface'
 date: Fri, 07 Sep 2007 14:36:40 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

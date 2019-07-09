@@ -3,6 +3,7 @@ title: 'linking mailto: to GMail'
 date: Sun, 10 Dec 2006 14:09:42 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

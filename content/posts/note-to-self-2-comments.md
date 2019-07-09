@@ -3,6 +3,8 @@ title: 'Note to self'
 date: Mon, 10 Aug 2009 19:43:35 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

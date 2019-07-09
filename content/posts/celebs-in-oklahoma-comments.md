@@ -3,6 +3,8 @@ title: 'Celebs in Oklahoma?'
 date: Tue, 11 Mar 2008 13:35:39 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

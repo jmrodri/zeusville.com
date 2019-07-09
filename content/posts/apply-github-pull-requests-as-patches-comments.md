@@ -3,6 +3,8 @@ title: 'Apply github pull requests as patches'
 date: Fri, 01 Feb 2013 16:35:19 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

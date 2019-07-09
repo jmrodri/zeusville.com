@@ -3,6 +3,8 @@ title: 'iPod & Fedora Core 2'
 date: Fri, 09 Jul 2004 15:18:03 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

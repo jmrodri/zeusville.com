@@ -3,6 +3,8 @@ title: 'VOIP services'
 date: Sat, 24 Mar 2007 18:45:15 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

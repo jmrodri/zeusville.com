@@ -3,6 +3,7 @@ title: 'Linux Tip: Fedora related websites'
 date: Mon, 31 May 2004 00:49:40 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

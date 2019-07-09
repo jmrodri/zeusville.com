@@ -3,6 +3,7 @@ title: 'Brain Test'
 date: Thu, 04 Oct 2007 15:13:23 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

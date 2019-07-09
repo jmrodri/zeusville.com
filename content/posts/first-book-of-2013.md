@@ -3,6 +3,7 @@ title: 'First book of 2013'
 date: Thu, 07 Feb 2013 15:29:03 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

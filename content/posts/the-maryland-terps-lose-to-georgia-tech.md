@@ -3,6 +3,7 @@ title: 'The Maryland Terps lose to Georgia Tech'
 date: Thu, 19 Feb 2004 21:10:55 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

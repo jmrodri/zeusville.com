@@ -3,6 +3,7 @@ title: 'Sendmail & local ISP'
 date: Sat, 24 Jul 2004 23:50:27 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

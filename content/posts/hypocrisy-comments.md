@@ -3,6 +3,8 @@ title: 'Hypocrisy'
 date: Mon, 14 May 2007 21:45:29 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

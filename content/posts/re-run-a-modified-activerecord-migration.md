@@ -2,7 +2,8 @@
 title: 'Re-run a modified ActiveRecord Migration'
 date: Wed, 18 Feb 2015 21:51:18 +0000
 draft: false
-tags: [activerecord, Linux, migrations, rails, Ruby, ruby]
+tags: [activerecord, migrations, rails, ruby]
+categories: [Linux, Ruby]
 type: post
 ---
 

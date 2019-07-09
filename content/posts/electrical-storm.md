@@ -3,6 +3,7 @@ title: 'Electrical Storm'
 date: Mon, 05 Mar 2007 14:44:18 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

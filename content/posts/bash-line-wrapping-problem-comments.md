@@ -3,6 +3,8 @@ title: 'bash line wrapping problem'
 date: Wed, 13 Jun 2007 19:18:50 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

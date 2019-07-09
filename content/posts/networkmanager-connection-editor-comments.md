@@ -3,6 +3,8 @@ title: 'NetworkManager connection editor'
 date: Sun, 28 Aug 2011 13:49:42 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

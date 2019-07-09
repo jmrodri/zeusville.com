@@ -3,6 +3,7 @@ title: 'Christmas newsletter'
 date: Mon, 17 Dec 2007 04:37:13 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'zmugfs shows image listings'
 date: Sat, 06 Oct 2007 23:13:09 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

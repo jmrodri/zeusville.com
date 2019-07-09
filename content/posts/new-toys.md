@@ -3,6 +3,7 @@ title: 'New toys'
 date: Sun, 21 Sep 2008 02:28:56 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

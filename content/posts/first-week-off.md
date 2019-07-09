@@ -3,6 +3,7 @@ title: 'First week off'
 date: Sat, 24 Feb 2007 22:58:41 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

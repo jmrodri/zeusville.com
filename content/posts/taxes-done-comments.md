@@ -3,6 +3,8 @@ title: 'Taxes done :('
 date: Mon, 19 Mar 2007 04:42:41 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

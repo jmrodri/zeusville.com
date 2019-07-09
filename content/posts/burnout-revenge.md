@@ -3,6 +3,7 @@ title: 'Burnout Revenge'
 date: Mon, 10 Mar 2008 23:54:24 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

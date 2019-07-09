@@ -3,6 +3,7 @@ title: 'Car update'
 date: Fri, 05 Oct 2007 16:42:22 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

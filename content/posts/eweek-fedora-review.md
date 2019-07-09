@@ -3,6 +3,7 @@ title: 'eWeek Fedora Review'
 date: Fri, 21 Nov 2003 09:10:12 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

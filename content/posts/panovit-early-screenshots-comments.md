@@ -3,6 +3,8 @@ title: 'panovit early screenshots'
 date: Tue, 10 Aug 2010 03:03:48 +0000
 draft: false
 tags: [Java, Linux, Technology]
+categories: [Java, Linux, Technology]
+type: post
 ---
 
 

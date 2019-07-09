@@ -3,6 +3,7 @@ title: 'banshee and older iPods'
 date: Fri, 17 Jul 2009 01:13:03 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

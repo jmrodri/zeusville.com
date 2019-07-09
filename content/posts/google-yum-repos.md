@@ -3,6 +3,7 @@ title: 'Google yum repos'
 date: Sat, 25 Aug 2007 17:14:03 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

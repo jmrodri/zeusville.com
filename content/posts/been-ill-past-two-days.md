@@ -3,6 +3,7 @@ title: 'Been ill past two days'
 date: Thu, 09 Nov 2006 02:14:20 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

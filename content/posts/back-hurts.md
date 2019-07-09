@@ -3,6 +3,7 @@ title: 'back hurts'
 date: Thu, 04 Oct 2007 12:46:27 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

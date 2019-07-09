@@ -3,6 +3,7 @@ title: '2 bee or not 2 bee'
 date: Thu, 12 Jul 2007 02:50:49 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Terps at the top (for now)'
 date: Sun, 07 Mar 2010 01:55:38 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

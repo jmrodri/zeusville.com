@@ -3,6 +3,7 @@ title: 'Debate'
 date: Thu, 16 Oct 2008 02:11:45 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

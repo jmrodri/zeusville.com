@@ -3,6 +3,7 @@ title: 'Learn new words'
 date: Thu, 30 Mar 2006 13:06:01 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

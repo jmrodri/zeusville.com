@@ -3,6 +3,7 @@ title: 'Rooting and unlocking your Nexus 4'
 date: Thu, 12 Sep 2013 00:37:29 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

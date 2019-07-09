@@ -3,6 +3,7 @@ title: 'New phone'
 date: Tue, 16 Jun 2009 15:57:37 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Brace location'
 date: Thu, 02 Oct 2003 15:05:05 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Python the next Java'
 date: Tue, 08 Apr 2008 01:20:16 +0000
 draft: false
 tags: [Java, python]
+categories: [Java, python]
 type: post
 ---
 

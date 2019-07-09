@@ -3,6 +3,7 @@ title: 'Shuddle [sic] service'
 date: Wed, 10 Jun 2009 14:41:51 +0000
 draft: false
 tags: [Cars, Technology]
+categories: [Cars, Technology]
 type: post
 ---
 

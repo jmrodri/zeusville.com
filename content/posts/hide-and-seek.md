@@ -3,6 +3,7 @@ title: 'Hide and seek'
 date: Mon, 15 Dec 2003 10:40:06 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'rpm tip'
 date: Fri, 26 Oct 2007 16:34:39 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'back to work (sorta)'
 date: Mon, 05 Mar 2007 14:16:42 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

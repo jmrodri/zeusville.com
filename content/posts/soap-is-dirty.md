@@ -3,6 +3,7 @@ title: 'SOAP is dirty!'
 date: Fri, 14 Dec 2007 04:08:18 +0000
 draft: false
 tags: [Java, python, Technology, zmugfs]
+categories: [Java, python, Technology, zmugfs]
 type: post
 ---
 

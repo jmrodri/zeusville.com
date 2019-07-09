@@ -3,6 +3,7 @@ title: 'Last day at the beach'
 date: Sun, 29 Jun 2008 01:51:06 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

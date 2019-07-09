@@ -3,6 +3,8 @@ title: 'One hot car'
 date: Wed, 15 Aug 2007 01:55:35 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
+type: post
 ---
 
 

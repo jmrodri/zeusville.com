@@ -3,6 +3,7 @@ title: 'Kevin has left the building'
 date: Wed, 08 Aug 2007 18:54:43 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

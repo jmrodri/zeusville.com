@@ -3,6 +3,7 @@ title: 'NASCAR here we come...'
 date: Tue, 25 Nov 2003 22:09:13 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

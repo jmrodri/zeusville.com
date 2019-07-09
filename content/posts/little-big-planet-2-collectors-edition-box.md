@@ -3,6 +3,7 @@ title: 'Little Big Planet 2 Collector''s Edition box'
 date: Wed, 19 Jan 2011 01:32:05 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Better, Faster, Lighter Java'
 date: Thu, 01 Jul 2004 22:24:03 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

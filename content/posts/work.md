@@ -3,6 +3,7 @@ title: 'WORK'
 date: Thu, 13 Dec 2007 15:09:51 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

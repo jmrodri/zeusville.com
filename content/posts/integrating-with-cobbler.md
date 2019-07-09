@@ -3,6 +3,7 @@ title: 'Integrating with cobbler'
 date: Sat, 05 Dec 2009 19:57:38 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

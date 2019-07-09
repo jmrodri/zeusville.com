@@ -3,6 +3,8 @@ title: 'Snow! Snow! Snow!'
 date: Fri, 09 Jan 2004 10:01:19 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

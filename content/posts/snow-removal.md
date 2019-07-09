@@ -2,7 +2,8 @@
 title: 'Snow removal'
 date: Wed, 25 Feb 2015 21:09:40 +0000
 draft: false
-tags: [Personal, snow, weather]
+tags: [snow, weather]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: '2000 was a sad election year'
 date: Wed, 23 Jul 2008 01:12:03 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

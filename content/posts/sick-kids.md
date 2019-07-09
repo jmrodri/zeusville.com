@@ -3,6 +3,7 @@ title: 'Sick kids'
 date: Sat, 10 Apr 2004 21:18:03 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

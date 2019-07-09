@@ -3,6 +3,7 @@ title: 'vij'
 date: Fri, 10 Oct 2008 21:34:35 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'The Starfish and the Spider'
 date: Mon, 24 Sep 2007 01:02:02 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

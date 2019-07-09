@@ -3,6 +3,7 @@ title: 'NetworkManager VPNC why do you loathe me?'
 date: Tue, 27 Mar 2012 13:19:55 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

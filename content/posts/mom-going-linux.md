@@ -3,6 +3,7 @@ title: 'Mom going to Linux'
 date: Mon, 09 Apr 2007 00:42:29 +0000
 draft: false
 tags: [Family, Linux]
+categories: [Family, Linux]
 type: post
 ---
 

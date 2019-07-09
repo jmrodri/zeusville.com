@@ -3,6 +3,7 @@ title: 'Anakin'
 date: Thu, 28 Jun 2007 01:59:23 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

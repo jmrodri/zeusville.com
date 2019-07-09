@@ -3,6 +3,7 @@ title: 'Insulating garage door'
 date: Mon, 22 Jan 2007 02:59:38 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

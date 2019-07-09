@@ -3,6 +3,7 @@ title: 'We''ve gone map crazy'
 date: Tue, 09 Nov 2004 14:19:44 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

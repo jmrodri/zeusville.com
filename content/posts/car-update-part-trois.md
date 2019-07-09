@@ -3,6 +3,7 @@ title: 'Car update (part trois)'
 date: Thu, 06 Jan 2005 21:56:50 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

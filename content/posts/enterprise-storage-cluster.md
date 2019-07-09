@@ -3,6 +3,7 @@ title: 'Enterprise storage cluster'
 date: Thu, 08 Apr 2010 20:56:53 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

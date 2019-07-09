@@ -3,6 +3,8 @@ title: 'TiVo or MOXI'
 date: Fri, 19 Feb 2010 14:47:41 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

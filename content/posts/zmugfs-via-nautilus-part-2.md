@@ -3,6 +3,7 @@ title: 'zmugfs via nautilus (part 2)'
 date: Thu, 04 Oct 2007 03:53:53 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

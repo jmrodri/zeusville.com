@@ -3,6 +3,8 @@ title: 'DHL still sucks'
 date: Fri, 22 Feb 2008 18:02:30 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

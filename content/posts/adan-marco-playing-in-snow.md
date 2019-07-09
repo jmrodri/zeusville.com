@@ -3,6 +3,7 @@ title: 'Adan & Marco playing in snow'
 date: Sat, 20 Jan 2007 04:25:21 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

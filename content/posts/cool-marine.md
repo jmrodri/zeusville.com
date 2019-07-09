@@ -3,6 +3,7 @@ title: 'Cool Marine'
 date: Mon, 24 Sep 2007 13:38:04 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

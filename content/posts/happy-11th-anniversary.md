@@ -3,6 +3,7 @@ title: 'Happy 11th Anniversary'
 date: Sat, 26 Feb 2011 16:07:06 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

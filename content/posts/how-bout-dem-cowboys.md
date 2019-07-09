@@ -3,6 +3,7 @@ title: 'How ''bout dem Cowboys!'
 date: Tue, 16 Sep 2008 04:14:01 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

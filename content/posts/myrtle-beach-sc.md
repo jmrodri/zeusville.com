@@ -3,6 +3,7 @@ title: 'Myrtle Beach, SC'
 date: Thu, 12 Aug 2004 22:46:43 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

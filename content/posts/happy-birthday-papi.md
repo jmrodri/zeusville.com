@@ -3,6 +3,7 @@ title: 'Happy Birthday Papi'
 date: Thu, 19 Apr 2012 14:38:23 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

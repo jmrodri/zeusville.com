@@ -3,6 +3,8 @@ title: 'Leonidas broke suspend'
 date: Thu, 09 Jul 2009 00:21:31 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

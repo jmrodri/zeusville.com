@@ -3,6 +3,7 @@ title: 'Empire Strikes Back'
 date: Sat, 06 Jan 2007 21:21:38 +0000
 draft: false
 tags: [Family, Technology]
+categories: [Family, Technology]
 type: post
 ---
 

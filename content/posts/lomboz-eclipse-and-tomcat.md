@@ -3,6 +3,7 @@ title: 'Lomboz, Eclipse, and Tomcat...'
 date: Fri, 14 Nov 2003 11:33:25 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

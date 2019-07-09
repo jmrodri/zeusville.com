@@ -2,7 +2,8 @@
 title: 'OS/2 Warp 4 in VirtualBox'
 date: Thu, 02 Dec 2010 01:44:05 +0000
 draft: false
-tags: [os2, Technology]
+tags: [os2]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'ice sledding'
 date: Tue, 11 Jan 2011 16:51:28 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

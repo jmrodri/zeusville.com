@@ -3,6 +3,7 @@ title: 'flaw in original idea'
 date: Fri, 31 Aug 2007 04:17:55 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

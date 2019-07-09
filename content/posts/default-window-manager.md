@@ -3,6 +3,7 @@ title: 'Default window manager'
 date: Fri, 28 Dec 2007 03:18:50 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

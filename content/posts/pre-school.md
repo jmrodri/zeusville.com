@@ -3,6 +3,7 @@ title: 'Pre-school'
 date: Sun, 22 Aug 2004 21:40:39 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

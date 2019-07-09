@@ -2,7 +2,8 @@
 title: 'git branch in shell prompt'
 date: Wed, 19 May 2010 13:52:16 +0000
 draft: false
-tags: [git prompt bash, Linux, Technology]
+tags: [git prompt bash]
+categories: [Linux, Technology]
 type: post
 ---
 

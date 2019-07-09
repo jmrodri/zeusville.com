@@ -3,6 +3,8 @@ title: 'IBM PS/2 Model 57SLC2 (with 77 system board)'
 date: Thu, 18 Jan 2007 18:16:04 +0000
 draft: false
 tags: [Linux, Personal, Technology]
+categories: [Linux, Personal, Technology]
+type: post
 ---
 
 

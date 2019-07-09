@@ -3,6 +3,8 @@ title: 'new receiver'
 date: Thu, 31 Dec 2009 02:03:14 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

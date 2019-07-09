@@ -3,6 +3,7 @@ title: 'Car update'
 date: Sun, 02 Jan 2005 21:33:49 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

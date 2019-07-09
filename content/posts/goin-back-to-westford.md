@@ -3,6 +3,7 @@ title: 'Goin back to Westford'
 date: Mon, 11 May 2009 01:08:14 +0000
 draft: false
 tags: [Linux, spacewalk, Technology]
+categories: [Linux, spacewalk, Technology]
 type: post
 ---
 

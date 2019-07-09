@@ -3,6 +3,7 @@ title: 'Adan''s bedtime routine'
 date: Wed, 28 Jul 2004 10:39:02 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'TiVo'
 date: Fri, 09 Jul 2010 03:00:20 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

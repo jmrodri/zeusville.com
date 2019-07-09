@@ -3,6 +3,7 @@ title: 'Political Joke'
 date: Tue, 06 Jul 2004 16:23:36 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

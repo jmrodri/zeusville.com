@@ -3,6 +3,7 @@ title: 'Happy Veteran''s Day'
 date: Wed, 11 Nov 2009 15:20:13 +0000
 draft: false
 tags: [Personal, Politics]
+categories: [Personal, Politics]
 type: post
 ---
 

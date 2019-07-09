@@ -2,7 +2,8 @@
 title: 'Setting resolution of external monitors on Linux'
 date: Wed, 04 Mar 2015 20:06:11 +0000
 draft: false
-tags: [Linux, linux, Technology, xrandr]
+tags: [linux, xrandr]
+categories: [Linux, Technology]
 type: post
 ---
 

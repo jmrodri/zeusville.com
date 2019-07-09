@@ -3,6 +3,7 @@ title: 'car family tree'
 date: Thu, 16 Aug 2007 13:18:06 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

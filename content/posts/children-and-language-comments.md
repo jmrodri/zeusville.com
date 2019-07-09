@@ -3,6 +3,8 @@ title: 'Children and language'
 date: Thu, 03 Jun 2004 22:39:44 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

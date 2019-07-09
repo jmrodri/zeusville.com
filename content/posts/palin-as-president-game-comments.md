@@ -3,6 +3,8 @@ title: 'Palin as President game'
 date: Thu, 16 Oct 2008 16:33:17 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

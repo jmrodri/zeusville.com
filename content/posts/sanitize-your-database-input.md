@@ -3,6 +3,7 @@ title: 'sanitize your database input'
 date: Wed, 10 Oct 2007 12:43:16 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

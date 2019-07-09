@@ -3,6 +3,8 @@ title: 'Fedora Core 6'
 date: Tue, 24 Oct 2006 21:22:55 +0000
 draft: false
 tags: [Java, Linux]
+categories: [Java, Linux]
+type: post
 ---
 
 

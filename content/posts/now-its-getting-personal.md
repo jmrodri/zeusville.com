@@ -3,6 +3,7 @@ title: 'Now it''s getting personal'
 date: Tue, 13 Jul 2010 21:37:15 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Eclipse tip: finding references to methods and/or classes'
 date: Fri, 08 Oct 2004 15:17:09 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

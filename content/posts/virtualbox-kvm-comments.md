@@ -3,6 +3,8 @@ title: 'VirtualBox -> KVM'
 date: Wed, 13 Oct 2010 21:24:38 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

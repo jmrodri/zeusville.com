@@ -3,6 +3,8 @@ title: 'Fedora Core 1 Review'
 date: Fri, 07 Nov 2003 20:04:20 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

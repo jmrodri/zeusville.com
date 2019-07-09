@@ -3,6 +3,7 @@ title: 'Taking the plunge'
 date: Sun, 21 Mar 2004 18:56:20 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

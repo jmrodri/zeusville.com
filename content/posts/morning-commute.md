@@ -3,6 +3,7 @@ title: 'Morning commute'
 date: Thu, 21 Jun 2007 14:34:23 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

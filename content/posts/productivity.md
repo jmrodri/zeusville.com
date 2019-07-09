@@ -3,6 +3,7 @@ title: 'Productivity'
 date: Fri, 30 Mar 2007 11:40:41 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

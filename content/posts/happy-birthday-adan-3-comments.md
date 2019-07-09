@@ -3,6 +3,8 @@ title: 'happy birthday Adan'
 date: Mon, 30 Sep 2013 14:53:53 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

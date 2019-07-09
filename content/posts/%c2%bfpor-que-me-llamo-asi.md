@@ -3,6 +3,7 @@ title: '¿Por qué me llamo así?'
 date: Fri, 10 Dec 2010 03:39:00 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

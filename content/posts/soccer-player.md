@@ -2,7 +2,8 @@
 title: 'Soccer player'
 date: Wed, 16 Sep 2015 15:00:11 +0000
 draft: false
-tags: [Family, marco, soccer]
+tags: [marco, soccer]
+categories: [Family]
 type: post
 ---
 

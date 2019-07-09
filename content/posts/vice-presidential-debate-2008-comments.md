@@ -3,6 +3,8 @@ title: 'Vice Presidential debate (2008)'
 date: Fri, 03 Oct 2008 15:10:18 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

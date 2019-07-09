@@ -3,6 +3,7 @@ title: 'Snow!'
 date: Tue, 17 Feb 2004 09:33:58 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

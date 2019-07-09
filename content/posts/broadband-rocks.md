@@ -3,6 +3,7 @@ title: 'Broadband rocks'
 date: Sun, 11 Apr 2004 06:47:27 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

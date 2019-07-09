@@ -3,6 +3,8 @@ title: 'Works on my machine'
 date: Sun, 18 Mar 2007 14:40:24 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

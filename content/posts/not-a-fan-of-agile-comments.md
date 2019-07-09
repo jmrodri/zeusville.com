@@ -3,6 +3,8 @@ title: 'not a fan of agile'
 date: Thu, 01 Apr 2010 13:33:43 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

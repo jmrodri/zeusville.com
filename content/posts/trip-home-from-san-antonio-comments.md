@@ -3,6 +3,8 @@ title: 'Trip home from San Antonio'
 date: Mon, 11 Jun 2007 01:46:16 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

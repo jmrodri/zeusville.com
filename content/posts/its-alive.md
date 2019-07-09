@@ -3,6 +3,7 @@ title: 'It''s alive!'
 date: Wed, 10 Oct 2007 23:10:40 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

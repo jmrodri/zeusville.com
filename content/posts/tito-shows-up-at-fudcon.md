@@ -3,6 +3,7 @@ title: 'tito shows up at FUDCon'
 date: Sat, 14 Jan 2012 17:10:51 +0000
 draft: false
 tags: [Linux, Personal, python]
+categories: [Linux, Personal, python]
 type: post
 ---
 

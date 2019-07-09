@@ -3,6 +3,8 @@ title: 'Project Zero'
 date: Wed, 04 Jul 2007 18:01:29 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

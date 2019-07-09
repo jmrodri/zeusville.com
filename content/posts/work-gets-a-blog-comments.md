@@ -3,6 +3,8 @@ title: 'Work gets a blog'
 date: Sun, 22 Aug 2004 21:46:47 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

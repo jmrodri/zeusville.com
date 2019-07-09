@@ -3,6 +3,7 @@ title: 'Testing'
 date: Sun, 16 Jan 2005 00:13:46 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

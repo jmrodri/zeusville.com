@@ -3,6 +3,7 @@ title: 'Trans Am in the shop again'
 date: Mon, 24 Sep 2007 00:46:39 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

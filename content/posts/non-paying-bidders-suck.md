@@ -3,6 +3,7 @@ title: 'non paying bidders suck'
 date: Thu, 17 Apr 2008 04:00:39 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

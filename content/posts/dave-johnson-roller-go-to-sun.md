@@ -3,6 +3,7 @@ title: 'Dave Johnson & Roller go to Sun.'
 date: Mon, 30 Aug 2004 10:16:48 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Yet another Jean Luc Picard quote'
 date: Fri, 19 Dec 2003 23:24:05 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

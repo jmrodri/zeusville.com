@@ -3,6 +3,7 @@ title: 'Fedora Core 1 Available!'
 date: Wed, 05 Nov 2003 22:32:28 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'rpm --test'
 date: Thu, 19 Jul 2007 19:00:25 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

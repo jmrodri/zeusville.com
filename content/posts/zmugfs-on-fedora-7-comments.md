@@ -3,6 +3,8 @@ title: 'zmugfs on Fedora 7'
 date: Tue, 16 Oct 2007 00:40:55 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'Proud Democrat'
 date: Mon, 04 Oct 2004 21:15:45 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

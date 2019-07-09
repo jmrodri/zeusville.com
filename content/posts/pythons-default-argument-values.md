@@ -2,7 +2,8 @@
 title: 'python''s default argument values'
 date: Tue, 25 Sep 2007 03:10:52 +0000
 draft: false
-tags: [python, zmugfs]
+tags: [python]
+categories: [zmugfs]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Bush'' "so-called" energy plan'
 date: Fri, 22 Oct 2004 21:39:58 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

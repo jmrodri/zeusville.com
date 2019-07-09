@@ -3,6 +3,7 @@ title: 'Spacewalk on /.'
 date: Fri, 20 Jun 2008 16:37:39 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

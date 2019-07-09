@@ -3,6 +3,7 @@ title: 'Constructors? Not in Go'
 date: Wed, 10 Aug 2016 02:40:04 +0000
 draft: false
 tags: [Go, Golang, Technology]
+categories: [Go, Golang, Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Going interface heavy'
 date: Thu, 06 Nov 2003 10:53:03 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

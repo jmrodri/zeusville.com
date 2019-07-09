@@ -2,7 +2,8 @@
 title: 'Fun with cli file transformation'
 date: Tue, 24 Mar 2015 01:55:56 +0000
 draft: false
-tags: [awk, cli, grep, Linux, linux, Technology, tr]
+tags: [awk, cli, grep, linux, tr]
+categories: [Linux, Technology]
 type: post
 ---
 

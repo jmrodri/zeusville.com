@@ -3,6 +3,8 @@ title: 'Ten years!'
 date: Sun, 20 Apr 2014 00:55:45 +0000
 draft: false
 tags: [Linux, Personal]
+categories: [Linux, Personal]
+type: post
 ---
 
 

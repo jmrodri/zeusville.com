@@ -3,6 +3,7 @@ title: 'Rails'
 date: Tue, 13 Feb 2007 04:02:06 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'There is a God'
 date: Wed, 22 Dec 2004 21:41:58 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

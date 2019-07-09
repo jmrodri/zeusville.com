@@ -3,6 +3,7 @@ title: 'Holden Commodore SS (aka Pontiac G8)'
 date: Tue, 20 Mar 2007 01:27:57 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

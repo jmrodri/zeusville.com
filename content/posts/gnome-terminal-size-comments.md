@@ -3,6 +3,8 @@ title: 'Gnome Terminal Size'
 date: Mon, 24 Nov 2003 22:45:47 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

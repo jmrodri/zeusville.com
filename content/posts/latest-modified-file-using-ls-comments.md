@@ -3,6 +3,8 @@ title: 'latest modified file using ls'
 date: Thu, 06 Aug 2009 13:39:33 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

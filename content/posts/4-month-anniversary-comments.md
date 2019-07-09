@@ -3,6 +3,8 @@ title: '4 month anniversary'
 date: Sun, 22 Aug 2004 21:50:47 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

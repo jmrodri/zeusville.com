@@ -3,6 +3,7 @@ title: 'humorous links'
 date: Mon, 14 Jan 2008 21:43:24 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

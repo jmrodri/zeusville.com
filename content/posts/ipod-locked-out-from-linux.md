@@ -3,6 +3,7 @@ title: 'iPod locked out from Linux'
 date: Mon, 17 Sep 2007 01:18:24 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

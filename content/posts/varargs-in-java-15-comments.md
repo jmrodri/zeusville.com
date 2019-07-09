@@ -3,6 +3,8 @@ title: 'varargs in java 1.5'
 date: Sun, 18 Mar 2007 12:40:44 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
+type: post
 ---
 
 

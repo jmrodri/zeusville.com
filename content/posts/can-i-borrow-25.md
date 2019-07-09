@@ -3,6 +3,7 @@ title: 'Can I Borrow $25?'
 date: Wed, 10 Sep 2008 21:31:08 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'What''s your nerd score?'
 date: Sun, 11 Mar 2007 04:32:38 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

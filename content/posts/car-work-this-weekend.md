@@ -3,6 +3,7 @@ title: 'Car work this weekend'
 date: Mon, 22 May 2006 11:17:36 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

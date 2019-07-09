@@ -3,6 +3,8 @@ title: 'WINDOWS SUCKS!'
 date: Sun, 28 Jan 2007 23:35:39 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

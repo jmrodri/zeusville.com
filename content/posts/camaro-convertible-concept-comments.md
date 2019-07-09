@@ -3,6 +3,8 @@ title: 'Camaro Convertible Concept'
 date: Tue, 09 Jan 2007 05:18:16 +0000
 draft: false
 tags: [Cars, Technology]
+categories: [Cars, Technology]
+type: post
 ---
 
 

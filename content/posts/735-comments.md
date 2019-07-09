@@ -3,6 +3,8 @@ title: 'Liz'' favorite commercial'
 date: Mon, 25 Feb 2008 02:41:11 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

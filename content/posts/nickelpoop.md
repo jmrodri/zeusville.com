@@ -3,6 +3,7 @@ title: '"nickelpoop"'
 date: Mon, 22 Jan 2007 03:03:16 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

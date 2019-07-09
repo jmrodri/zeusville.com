@@ -3,6 +3,7 @@ title: 'Spacewalk now on Facebook'
 date: Tue, 11 Aug 2009 01:13:56 +0000
 draft: false
 tags: [Linux, spacewalk]
+categories: [Linux, spacewalk]
 type: post
 ---
 

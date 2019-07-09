@@ -3,6 +3,7 @@ title: 'Google Reader "oop''d"'
 date: Wed, 24 Jan 2007 04:12:46 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

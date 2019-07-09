@@ -3,6 +3,8 @@ title: 'Snow?  Nah no snow.'
 date: Mon, 16 Feb 2004 10:25:10 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

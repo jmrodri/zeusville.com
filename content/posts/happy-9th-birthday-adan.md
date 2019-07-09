@@ -3,6 +3,7 @@ title: 'Happy 9th Birthday Adan!'
 date: Thu, 30 Sep 2010 00:22:34 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

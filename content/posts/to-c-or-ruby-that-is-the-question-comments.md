@@ -3,6 +3,8 @@ title: 'To C or Ruby that is the question :)'
 date: Thu, 05 Nov 2009 02:40:54 +0000
 draft: false
 tags: [Linux, python, Technology]
+categories: [Linux, python, Technology]
+type: post
 ---
 
 

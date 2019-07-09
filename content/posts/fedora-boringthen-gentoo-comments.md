@@ -3,6 +3,8 @@ title: 'Fedora boring...then Gentoo'
 date: Thu, 20 Nov 2003 22:26:21 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

@@ -2,7 +2,8 @@
 title: 'Remote connection to Windows from Nexus 4'
 date: Thu, 12 Mar 2015 01:20:40 +0000
 draft: false
-tags: [android, Android, Linux, linux, Technology, Windows, windows]
+tags: [android, linux, windows]
+categories: [Android, Linux, Technology, Windows]
 type: post
 ---
 

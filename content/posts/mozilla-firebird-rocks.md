@@ -3,6 +3,7 @@ title: 'Mozilla Firebird ROCKS!'
 date: Fri, 07 Nov 2003 21:49:40 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

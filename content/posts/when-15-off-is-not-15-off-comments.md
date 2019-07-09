@@ -3,6 +3,8 @@ title: 'When 15% off is not 15% off'
 date: Fri, 14 Aug 2009 14:46:51 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
+type: post
 ---
 
 

@@ -3,6 +3,8 @@ title: 'Comcast Digital Voice SUCKS'
 date: Wed, 16 May 2007 01:44:24 +0000
 draft: false
 tags: [Family, Technology]
+categories: [Family, Technology]
+type: post
 ---
 
 

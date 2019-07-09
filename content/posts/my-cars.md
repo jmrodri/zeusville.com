@@ -3,6 +3,7 @@ title: 'my cars'
 date: Thu, 16 Aug 2007 13:44:57 +0000
 draft: false
 tags: [Cars]
+categories: [Cars]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'sm-photo-tool 1.13 released'
 date: Thu, 24 Apr 2008 02:23:09 +0000
 draft: false
 tags: [python, sm-photo-tool]
+categories: [python, sm-photo-tool]
 type: post
 ---
 

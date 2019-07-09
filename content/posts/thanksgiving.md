@@ -3,6 +3,7 @@ title: 'Thanksgiving'
 date: Sun, 25 Nov 2007 18:03:26 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

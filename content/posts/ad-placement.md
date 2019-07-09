@@ -3,6 +3,7 @@ title: 'Ad placement'
 date: Tue, 13 Jul 2010 22:29:29 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

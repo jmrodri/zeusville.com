@@ -3,6 +3,7 @@ title: 'Happy Anniversary'
 date: Thu, 17 Mar 2005 22:39:15 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

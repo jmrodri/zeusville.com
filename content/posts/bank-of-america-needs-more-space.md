@@ -3,6 +3,7 @@ title: 'Bank of America needs more space'
 date: Mon, 18 Feb 2008 15:53:28 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

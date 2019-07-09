@@ -3,6 +3,7 @@ title: 'Greasemonkey'
 date: Fri, 14 Dec 2007 18:28:45 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

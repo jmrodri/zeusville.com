@@ -3,6 +3,7 @@ title: 'Photo Printer'
 date: Fri, 10 Feb 2012 14:23:25 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

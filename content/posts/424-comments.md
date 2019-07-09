@@ -3,6 +3,8 @@ title: ''
 date: Wed, 14 Mar 2007 13:14:32 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

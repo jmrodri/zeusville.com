@@ -3,6 +3,8 @@ title: 'George Carlin quotes'
 date: Sun, 13 May 2007 02:56:31 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

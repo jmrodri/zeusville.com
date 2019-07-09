@@ -3,6 +3,7 @@ title: 'British/Canadian signs'
 date: Sat, 12 May 2007 19:59:22 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'March Madness and geeks'
 date: Thu, 15 Mar 2007 18:11:52 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

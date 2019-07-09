@@ -3,6 +3,7 @@ title: 'Dislike football season'
 date: Sun, 21 Aug 2011 15:36:34 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

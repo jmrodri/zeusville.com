@@ -3,6 +3,7 @@ title: 'Testing from work'
 date: Tue, 18 Jan 2005 15:04:46 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

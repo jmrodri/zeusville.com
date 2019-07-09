@@ -3,6 +3,7 @@ title: 'Obama is the President of the United States'
 date: Wed, 05 Nov 2008 04:15:43 +0000
 draft: false
 tags: [Politics, Technology]
+categories: [Politics, Technology]
 type: post
 ---
 

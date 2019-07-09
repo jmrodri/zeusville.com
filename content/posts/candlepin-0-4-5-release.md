@@ -3,6 +3,7 @@ title: 'Candlepin 0.4.5 release'
 date: Thu, 14 Jul 2011 17:08:33 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

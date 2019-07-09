@@ -3,6 +3,7 @@ title: 'Epiphany'
 date: Thu, 24 Apr 2008 01:09:32 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

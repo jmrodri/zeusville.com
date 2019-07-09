@@ -3,6 +3,7 @@ title: 'computers can do this to you (offensive graphic)'
 date: Thu, 08 Mar 2007 16:57:52 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

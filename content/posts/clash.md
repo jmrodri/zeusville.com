@@ -3,6 +3,7 @@ title: 'Clash'
 date: Wed, 29 Aug 2007 15:24:03 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

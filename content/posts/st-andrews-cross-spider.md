@@ -3,6 +3,7 @@ title: 'St Andrews cross spider'
 date: Tue, 09 Oct 2007 15:08:19 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Digital Camera'
 date: Thu, 06 Jan 2005 22:14:05 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

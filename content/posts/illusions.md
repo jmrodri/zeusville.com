@@ -3,6 +3,7 @@ title: 'Illusions'
 date: Fri, 23 Feb 2007 15:25:29 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'smugmug.users.getTree'
 date: Fri, 31 Aug 2007 04:34:56 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
 type: post
 ---
 

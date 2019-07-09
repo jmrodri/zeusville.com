@@ -3,6 +3,7 @@ title: 'Testing out publish feature of Roller'
 date: Tue, 25 Nov 2003 10:33:42 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

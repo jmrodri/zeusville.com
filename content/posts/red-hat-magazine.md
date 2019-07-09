@@ -3,6 +3,7 @@ title: 'Red Hat Magazine'
 date: Fri, 19 Nov 2004 12:01:27 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

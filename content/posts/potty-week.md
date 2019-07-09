@@ -3,6 +3,7 @@ title: 'Potty Week'
 date: Fri, 03 Sep 2004 22:41:21 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

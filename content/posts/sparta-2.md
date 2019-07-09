@@ -3,6 +3,7 @@ title: 'sparta'
 date: Mon, 11 Aug 2008 18:26:38 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

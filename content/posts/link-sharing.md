@@ -3,6 +3,7 @@ title: 'Link sharing'
 date: Thu, 29 Oct 2009 01:20:42 +0000
 draft: false
 tags: [Java, Technology]
+categories: [Java, Technology]
 type: post
 ---
 

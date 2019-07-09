@@ -2,7 +2,8 @@
 title: 'aliases for VirtualBox'' VBoxManage commands'
 date: Mon, 09 Mar 2015 01:48:55 +0000
 draft: false
-tags: [Linux, linux, Technology]
+tags: [linux]
+categories: [Linux, Technology]
 type: post
 ---
 

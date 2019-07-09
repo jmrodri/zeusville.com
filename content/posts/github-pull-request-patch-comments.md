@@ -2,7 +2,9 @@
 title: 'github pull request patch'
 date: Thu, 01 Nov 2012 22:14:17 +0000
 draft: false
-tags: [git, Linux, Technology]
+tags: [git]
+categories: [Linux, Technology]
+type: post
 ---
 
 

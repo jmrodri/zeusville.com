@@ -3,6 +3,7 @@ title: 'Familia Rodriguez @ Smugmug'
 date: Mon, 03 Oct 2005 00:16:31 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'What is Your World View?'
 date: Sun, 09 Jul 2006 11:22:15 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

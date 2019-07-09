@@ -3,6 +3,7 @@ title: 'Flickr'
 date: Sat, 20 Jan 2007 03:27:54 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

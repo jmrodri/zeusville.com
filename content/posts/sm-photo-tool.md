@@ -3,6 +3,7 @@ title: 'sm-photo-tool'
 date: Tue, 18 Mar 2008 03:18:58 +0000
 draft: false
 tags: [Linux, python, sm-photo-tool, Technology]
+categories: [Linux, python, sm-photo-tool, Technology]
 type: post
 ---
 

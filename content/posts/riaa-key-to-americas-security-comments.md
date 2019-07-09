@@ -3,6 +3,8 @@ title: 'RIAA key to America''s security'
 date: Tue, 15 May 2007 17:00:56 +0000
 draft: false
 tags: [Personal, Technology]
+categories: [Personal, Technology]
+type: post
 ---
 
 

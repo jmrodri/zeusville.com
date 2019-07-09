@@ -3,6 +3,7 @@ title: 'Butler beats Maryland'
 date: Sun, 18 Mar 2007 03:16:44 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

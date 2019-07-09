@@ -3,6 +3,8 @@ title: 'McCain cancels with Letterman to SAVE THE WORLD!'
 date: Thu, 25 Sep 2008 16:35:12 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
+type: post
 ---
 
 

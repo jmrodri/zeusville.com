@@ -3,6 +3,7 @@ title: 'Weekend summary'
 date: Tue, 11 Dec 2007 18:12:18 +0000
 draft: false
 tags: [Cars, Family, Personal]
+categories: [Cars, Family, Personal]
 type: post
 ---
 

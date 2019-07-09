@@ -3,6 +3,7 @@ title: 'Panovit is dead'
 date: Mon, 20 Sep 2010 15:24:28 +0000
 draft: false
 tags: [Java, Linux, Technology]
+categories: [Java, Linux, Technology]
 type: post
 ---
 

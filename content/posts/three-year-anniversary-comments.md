@@ -3,6 +3,8 @@ title: 'three year anniversary'
 date: Mon, 23 Apr 2007 19:50:32 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: 'remote virt-manager access via SSH'
 date: Tue, 13 Jan 2015 02:09:07 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

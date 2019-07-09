@@ -3,6 +3,7 @@ title: 'PC doctor'
 date: Thu, 01 Feb 2007 04:17:21 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

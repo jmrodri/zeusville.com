@@ -3,6 +3,7 @@ title: 'Changing dates in Thunderbird'
 date: Sun, 03 Apr 2005 13:32:05 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

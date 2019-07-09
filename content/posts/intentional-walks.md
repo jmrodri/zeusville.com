@@ -3,6 +3,7 @@ title: 'Intentional walks'
 date: Wed, 04 Jul 2007 17:47:35 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

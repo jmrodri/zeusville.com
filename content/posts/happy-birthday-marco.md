@@ -3,6 +3,7 @@ title: 'Happy Birthday, Marco!'
 date: Fri, 12 Oct 2007 18:54:36 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
 type: post
 ---
 

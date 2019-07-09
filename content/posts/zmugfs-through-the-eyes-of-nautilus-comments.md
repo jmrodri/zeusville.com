@@ -3,6 +3,8 @@ title: 'zmugfs through the eyes of nautilus'
 date: Mon, 10 Sep 2007 00:28:21 +0000
 draft: false
 tags: [zmugfs]
+categories: [zmugfs]
+type: post
 ---
 
 

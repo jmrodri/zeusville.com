@@ -3,6 +3,7 @@ title: 'TiVo & tuning adapter on UPS now'
 date: Sat, 07 Aug 2010 01:21:06 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

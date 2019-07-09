@@ -3,6 +3,8 @@ title: 'printting man pages'
 date: Thu, 29 Nov 2007 04:04:43 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
+type: post
 ---
 
 

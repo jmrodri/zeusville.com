@@ -3,6 +3,7 @@ title: 'Christmas is AFTER Thanksgiving'
 date: Mon, 19 Nov 2007 16:27:21 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

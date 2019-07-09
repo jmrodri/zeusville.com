@@ -3,6 +3,7 @@ title: 'BRR'
 date: Mon, 09 Feb 2009 00:09:24 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

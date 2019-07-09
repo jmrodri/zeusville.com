@@ -3,6 +3,7 @@ title: 'I''m sick of the gun debates'
 date: Fri, 11 Jan 2013 05:14:30 +0000
 draft: false
 tags: [Personal, Politics]
+categories: [Personal, Politics]
 type: post
 ---
 

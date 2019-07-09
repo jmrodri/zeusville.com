@@ -3,6 +3,7 @@ title: 'Horrible configure script'
 date: Thu, 02 Mar 2017 03:53:40 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

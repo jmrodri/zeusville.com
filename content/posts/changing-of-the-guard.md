@@ -3,6 +3,7 @@ title: 'changing of the guard'
 date: Fri, 21 Dec 2007 14:36:16 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

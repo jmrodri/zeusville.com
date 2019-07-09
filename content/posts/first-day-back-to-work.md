@@ -3,6 +3,7 @@ title: 'first day back to work'
 date: Tue, 06 Mar 2007 01:44:14 +0000
 draft: false
 tags: [Family, Technology]
+categories: [Family, Technology]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Heard on The O''Reilly Factor'
 date: Thu, 11 Aug 2011 00:19:39 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

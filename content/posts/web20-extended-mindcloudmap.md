@@ -3,6 +3,7 @@ title: 'Web2.0 - extended mindcloudmap'
 date: Wed, 24 Jan 2007 16:09:12 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

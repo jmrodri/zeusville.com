@@ -3,6 +3,7 @@ title: 'iPod + Banshee + Amazon = AWESOME!'
 date: Tue, 22 Apr 2008 02:10:33 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

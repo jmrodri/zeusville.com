@@ -3,6 +3,7 @@ title: 'Library of GNOME'
 date: Wed, 19 Sep 2007 13:42:10 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

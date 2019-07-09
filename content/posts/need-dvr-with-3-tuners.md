@@ -3,6 +3,7 @@ title: 'Need DVR with 3 tuners'
 date: Thu, 09 Nov 2006 04:19:47 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

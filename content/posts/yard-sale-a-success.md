@@ -3,6 +3,7 @@ title: 'Yard Sale a SUCCESS!'
 date: Sun, 22 Aug 2004 21:37:14 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

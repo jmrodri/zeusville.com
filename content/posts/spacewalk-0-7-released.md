@@ -3,6 +3,7 @@ title: 'Spacewalk 0.7 RELEASED'
 date: Thu, 17 Dec 2009 03:48:04 +0000
 draft: false
 tags: [Linux, spacewalk]
+categories: [Linux, spacewalk]
 type: post
 ---
 

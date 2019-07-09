@@ -3,6 +3,8 @@ title: 'Spacewalk 1.0 RELEASED! AWESOME!'
 date: Fri, 30 Apr 2010 13:41:53 +0000
 draft: false
 tags: [Linux, spacewalk, Technology]
+categories: [Linux, spacewalk, Technology]
+type: post
 ---
 
 

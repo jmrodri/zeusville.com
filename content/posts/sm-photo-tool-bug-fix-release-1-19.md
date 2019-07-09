@@ -3,6 +3,7 @@ title: 'sm-photo-tool bug fix release - 1.19'
 date: Sat, 31 Oct 2009 01:48:28 +0000
 draft: false
 tags: [python, sm-photo-tool, Technology]
+categories: [python, sm-photo-tool, Technology]
 type: post
 ---
 

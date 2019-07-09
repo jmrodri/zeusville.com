@@ -3,6 +3,7 @@ title: 'TweakUI clone for GNOME (gTweakUI)'
 date: Fri, 18 Jun 2004 23:49:48 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

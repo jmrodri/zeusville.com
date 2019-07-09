@@ -3,6 +3,7 @@ title: 'All smiles'
 date: Fri, 18 May 2007 00:42:10 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

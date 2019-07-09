@@ -3,6 +3,7 @@ title: 'Generations'
 date: Tue, 03 Jul 2007 03:26:49 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

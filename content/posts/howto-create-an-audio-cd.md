@@ -3,6 +3,7 @@ title: 'HOWTO Create an Audio CD'
 date: Mon, 15 Aug 2005 10:07:14 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Brick and Mortar stores'
 date: Wed, 12 Dec 2012 14:49:26 +0000
 draft: false
 tags: [Family, Personal, Technology]
+categories: [Family, Personal, Technology]
+type: post
 ---
 
 

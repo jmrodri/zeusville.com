@@ -3,6 +3,8 @@ title: 'Chrisitans issue gay warning on SpongeBob video'
 date: Fri, 21 Jan 2005 22:46:03 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

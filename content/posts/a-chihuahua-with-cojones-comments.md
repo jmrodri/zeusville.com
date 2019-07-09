@@ -3,6 +3,8 @@ title: 'a chihuahua with "cojones"'
 date: Fri, 09 Mar 2007 20:45:41 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

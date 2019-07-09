@@ -3,6 +3,7 @@ title: 'nature walk'
 date: Mon, 30 Jul 2007 14:39:26 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

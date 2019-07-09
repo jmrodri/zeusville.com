@@ -3,6 +3,8 @@ title: 'SOA What!'
 date: Sat, 03 Jun 2006 14:20:08 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

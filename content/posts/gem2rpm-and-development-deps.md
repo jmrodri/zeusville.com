@@ -3,6 +3,7 @@ title: 'gem2rpm and development deps'
 date: Fri, 05 Nov 2010 13:35:46 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

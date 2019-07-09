@@ -3,6 +3,7 @@ title: 'Adan''s First t-ball game'
 date: Tue, 22 May 2007 13:33:06 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

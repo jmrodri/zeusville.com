@@ -3,6 +3,7 @@ title: 'sunflower'
 date: Tue, 03 Jul 2007 03:09:24 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

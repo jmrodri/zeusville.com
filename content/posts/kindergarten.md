@@ -3,6 +3,7 @@ title: 'Kindergarten'
 date: Wed, 18 Jul 2012 12:42:47 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

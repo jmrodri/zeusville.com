@@ -3,6 +3,7 @@ title: 'Configuring gnome-blog to work with jroller'
 date: Sun, 16 Jan 2005 00:14:04 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

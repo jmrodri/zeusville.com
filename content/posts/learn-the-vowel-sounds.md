@@ -3,6 +3,7 @@ title: 'Learn the vowel sounds'
 date: Wed, 25 Jul 2007 15:17:02 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: '.7 of an inch of snow CRIPPLES Raleigh, NC'
 date: Fri, 21 Jan 2005 09:44:45 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

@@ -3,6 +3,7 @@ title: 'Bonding'
 date: Thu, 06 Nov 2003 10:52:33 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

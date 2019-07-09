@@ -3,6 +3,7 @@ title: 'New DVD player'
 date: Sat, 25 Aug 2007 23:44:13 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

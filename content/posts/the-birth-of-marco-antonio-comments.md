@@ -3,6 +3,8 @@ title: 'The birth of Marco Antonio'
 date: Sun, 12 Oct 2003 22:12:59 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

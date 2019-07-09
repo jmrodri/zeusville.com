@@ -3,6 +3,7 @@ title: 'Gnome 3 and themes are a disappointment'
 date: Wed, 13 Feb 2013 16:17:35 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

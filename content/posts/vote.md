@@ -3,6 +3,7 @@ title: 'Vote!'
 date: Tue, 05 Oct 2004 12:00:25 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

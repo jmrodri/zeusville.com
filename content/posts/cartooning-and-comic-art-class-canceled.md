@@ -3,6 +3,7 @@ title: 'cartooning and comic art class CANCELED!'
 date: Wed, 22 Aug 2007 16:38:23 +0000
 draft: false
 tags: [Personal, zmugfs]
+categories: [Personal, zmugfs]
 type: post
 ---
 

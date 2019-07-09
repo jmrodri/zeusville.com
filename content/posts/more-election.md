@@ -3,6 +3,7 @@ title: 'More Election'
 date: Wed, 03 Nov 2004 16:49:25 +0000
 draft: false
 tags: [Politics]
+categories: [Politics]
 type: post
 ---
 

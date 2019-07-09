@@ -3,6 +3,8 @@ title: 'Asando un lechon en Puerto Rico'
 date: Sat, 17 Feb 2007 01:12:27 +0000
 draft: false
 tags: [Family, Personal]
+categories: [Family, Personal]
+type: post
 ---
 
 

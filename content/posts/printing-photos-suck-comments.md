@@ -3,6 +3,8 @@ title: 'Printing photos suck!'
 date: Thu, 24 Jul 2008 03:36:11 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
+type: post
 ---
 
 

@@ -3,6 +3,7 @@ title: '2007 Mazda Mazdaspeed3'
 date: Fri, 21 Mar 2008 01:59:34 +0000
 draft: false
 tags: [Cars, Technology]
+categories: [Cars, Technology]
 type: post
 ---
 

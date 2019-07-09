@@ -3,6 +3,7 @@ title: 'Creating SWT Widgets (PDF)'
 date: Sun, 26 Oct 2003 22:29:29 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

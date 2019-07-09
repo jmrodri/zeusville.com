@@ -3,6 +3,7 @@ title: 'Wikipedia'
 date: Wed, 03 Nov 2004 16:43:55 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 

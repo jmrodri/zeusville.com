@@ -3,6 +3,8 @@ title: 'Candlepin 0.4.11 released'
 date: Fri, 26 Aug 2011 17:04:40 +0000
 draft: false
 tags: [Java, Linux, python, Technology]
+categories: [Java, Linux, python, Technology]
+type: post
 ---
 
 

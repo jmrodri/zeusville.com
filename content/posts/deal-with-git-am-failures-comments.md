@@ -2,7 +2,9 @@
 title: 'Deal with git am failures'
 date: Thu, 19 Feb 2015 21:00:27 +0000
 draft: false
-tags: [git, Linux, Ruby]
+tags: [git]
+categories: [Linux, Ruby]
+type: post
 ---
 
 

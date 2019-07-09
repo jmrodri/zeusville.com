@@ -3,6 +3,7 @@ title: 'Setting primary display'
 date: Mon, 11 Mar 2013 13:55:18 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

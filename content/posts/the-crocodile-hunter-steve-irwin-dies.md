@@ -3,6 +3,7 @@ title: 'The Crocodile Hunter, Steve Irwin, dies.'
 date: Mon, 04 Sep 2006 12:35:14 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

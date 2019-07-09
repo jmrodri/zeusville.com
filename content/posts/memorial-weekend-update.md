@@ -3,6 +3,7 @@ title: 'Memorial weekend update'
 date: Tue, 27 May 2008 13:28:16 +0000
 draft: false
 tags: [Family]
+categories: [Family]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'What I hate about perl'
 date: Wed, 25 May 2005 21:28:04 +0000
 draft: false
 tags: [Java]
+categories: [Java]
+type: post
 ---
 
 

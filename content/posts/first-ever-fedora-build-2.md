@@ -3,6 +3,7 @@ title: 'First ever Fedora build'
 date: Thu, 19 Apr 2012 20:06:08 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

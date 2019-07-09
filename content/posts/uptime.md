@@ -3,6 +3,7 @@ title: 'uptime'
 date: Thu, 08 Feb 2007 16:35:43 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

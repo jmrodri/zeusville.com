@@ -3,6 +3,7 @@ title: 'It''s no wonder airlines are in trouble!'
 date: Fri, 08 Jun 2007 23:42:38 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

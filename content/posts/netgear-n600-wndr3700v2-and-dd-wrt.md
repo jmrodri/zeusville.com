@@ -3,6 +3,7 @@ title: 'Netgear N600 WNDR3700v2 and dd-wrt'
 date: Thu, 26 May 2011 02:25:28 +0000
 draft: false
 tags: [Linux, Technology]
+categories: [Linux, Technology]
 type: post
 ---
 

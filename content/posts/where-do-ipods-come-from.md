@@ -3,6 +3,7 @@ title: 'Where do iPods come from?'
 date: Sat, 04 Jun 2011 16:30:23 +0000
 draft: false
 tags: [Technology]
+categories: [Technology]
 type: post
 ---
 

@@ -3,6 +3,8 @@ title: 'Iliana Maria Rodriguez'
 date: Thu, 15 Feb 2007 03:08:56 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
+type: post
 ---
 
 

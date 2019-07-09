@@ -3,6 +3,7 @@ title: '"Fingers speak?"'
 date: Wed, 25 May 2005 23:46:10 +0000
 draft: false
 tags: [Personal]
+categories: [Personal]
 type: post
 ---
 

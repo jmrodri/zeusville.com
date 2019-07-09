@@ -3,6 +3,7 @@ title: 'Logitech MX500 Mouse & KVM switch a no-no'
 date: Wed, 07 Jul 2004 22:03:57 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

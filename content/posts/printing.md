@@ -3,6 +3,7 @@ title: 'Printing ...'
 date: Tue, 03 Apr 2007 14:36:13 +0000
 draft: false
 tags: [Linux]
+categories: [Linux]
 type: post
 ---
 

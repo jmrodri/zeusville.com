@@ -3,6 +3,7 @@ title: 'J2EE skills'
 date: Sun, 02 Nov 2003 20:23:38 +0000
 draft: false
 tags: [Java]
+categories: [Java]
 type: post
 ---
 
