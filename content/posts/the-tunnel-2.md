@@ -12,3 +12,10 @@ type: post
 Originally uploaded by [jmrodri](http://www.flickr.com/people/jmrodri/).
 
 This is one of my favorite pictures. I wish I could've gotten more light on Marco's face, but I think it turned out really good.
+---
+### Comments:
+#### 
+[Jason Connor](http://glutt.com "jlc@glutt.com") - <time datetime="2007-01-22 02:30:06">Jan 1, 2007</time>
+
+That is a cool shot. As for more light on you son's face... isn't that what the gimp is for? I think you can touch it ou without wrecking it.
+<hr />

@@ -37,3 +37,10 @@ in a [VMware](http://www.vmware.com/products/ws/) instance in a day.
 Here's a screenshot:
 
 [![](http://familiarodriguez.smugmug.com/photos/90861584-S.jpg)](http://familiarodriguez.smugmug.com/photos/90861584-O.jpg)
+---
+### Comments:
+#### 
+[Erik Weibust](http://erik.weibust.net "erik@weibust.net") - <time datetime="2006-08-28 09:19:40">Aug 1, 2006</time>
+
+I also use vmware for some windows stuff I gotta have while running Ubuntu. I tried and tried and was never able to get iTunes and my iPod working via vmware, though. As soon as I plug my iPod in Ubuntu notices it and "blocks" vmware from seeing it. Did you do anything specific to allow windows to see your ipod? Or, are you just using iTunes without ann ipod? Thanks... Erik
+<hr />

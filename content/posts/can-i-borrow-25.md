@@ -110,3 +110,10 @@ The presence of God watches over us.
 Wherever we are God is and all is well.'
 
 From my home to yours - enjoy.
+---
+### Comments:
+#### 
+[...]( "cliff@aaa-.com") - <time datetime="2008-09-11 03:22:15">Sep 4, 2008</time>
+
+:)
+<hr />

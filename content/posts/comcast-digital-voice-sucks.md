@@ -16,3 +16,10 @@ And to top it off, they told her she would have to pay the $150 fee to cancel.
 So now I have to make a few calls to get it resolved, and according to their [website](http://http://www.comcast.com/customers/faq/FaqDetails.ashx?Id=2775), I shouldn't have to pay the $150:
 
 > **Satisfaction guaranteed\*\*** - We are so confident about the quality of Comcast Digital Voice service that we guarantee you will be satisfied, or we’ll refund your money for the first 30 days of service.
+---
+### Comments:
+#### 
+[buy cordless phone](http://buy-coreless-phone.com "sidrsjakess@yahoo.com") - <time datetime="2009-06-23 10:03:07">Jun 2, 2009</time>
+
+Thank you for best information.
+<hr />

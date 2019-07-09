@@ -26,3 +26,10 @@ Then there's the [bling bling](http://en.wikipedia.org/wiki/Bling_bling). I turn
 You can use CTRL+ALT+ (left and right arrow) to scroll through the workspaces in a great 3D manner. It is surprisingly fast.
 
 Checkout [Fedora Core 6](http://fedora.redhat.com/) Today!
+---
+### Comments:
+#### 
+[Scott]( "sgorsuch@gmail.com") - <time datetime="2006-10-30 15:11:45">Oct 1, 2006</time>
+
+Just curious, I am a thinkpad user as well and was wondering if you were able to get the thinkpad scrolling to work? In FC5, I used to be able to hold down the 3rd (blue) button beneath the spacebar and could scroll using the trackpoint. Let me know if you know a fix for this.
+<hr />

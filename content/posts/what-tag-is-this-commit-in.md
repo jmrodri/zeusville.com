@@ -28,3 +28,10 @@ git describe --contains COMMIT\_SHA
 
 ```
 ```
+---
+### Comments:
+#### 
+[jhaaps]( "haaja@iki.fi") - <time datetime="2013-05-18 07:24:35">May 6, 2013</time>
+
+Alternative way is: git tag --contains COMMIT\_SHA
+<hr />

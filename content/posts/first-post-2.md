@@ -8,3 +8,10 @@ type: post
 ---
 
 This is my first post
+---
+### Comments:
+#### 
+[Dave Johnson](http://www.rollerweblogger.org/page/roller "snoopdave@nc.rr.com") - <time datetime="2003-10-02 10:32:40">Oct 4, 2003</time>
+
+Welcome to the blogosphere!
+<hr />

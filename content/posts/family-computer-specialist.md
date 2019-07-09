@@ -14,3 +14,10 @@ The [Linksys WRE54G range expander](http://www.linksys.com/servlet/Satellite?c=L
 After about 3 hours of trial and error, and several forum searches, I was able to get the access point to connect to the wireless router ([a Linksys WRT54G](http://www.linksys.com/servlet/Satellite?c=L_Product_C2&childpagename=US%2FLayout&cid=1149562300349&pagename=Linksys%2FCommon%2FVisitorWrapper)). I got great wireless connection downstairs almost 90% before it was typically 30%. But this access point wasn't for me, it was for my father-in-law. So I'll have to spend at least another 2 hours on the phone walking him through what I did to get it to work with his Linksys router. I'll post on that later this week.
 
 I'm sure many of you computer geeks out there can relate to being tech support, network admin, hardware specialists for your extended family :)
+---
+### Comments:
+#### 
+[networking saga &laquo; zeusville](http://zeusville.wordpress.com/2006/11/12/networking-saga/ "") - <time datetime="2006-11-12 20:54:32">Nov 0, 2006</time>
+
+\[...\] zeusville Random thoughts about work and life. « Family computer specialist \[...\]
+<hr />

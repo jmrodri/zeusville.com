@@ -17,3 +17,10 @@ Wake Forest, NC 27587
 [Map](http://www.mapquest.com/maps/map.adp?country=US&addtohistory=&address=109-10+Capcom+Avenue&city=Wake+Forest&state=nc&zipcode=&homesubmit=Get+Map)  
 
 Stay tuned for a website.
+---
+### Comments:
+#### 
+[Pratik Patel](http://www.jroller.com/page/prpatel "prpatel@ibiblio.org") - <time datetime="2003-10-30 05:50:36">Oct 4, 2003</time>
+
+There used to be a Cuban restaurant just off Franklin St in Chapel Hill. It's a bit hard to find, but it was in BankOfAmerica plaza I think.
+<hr />

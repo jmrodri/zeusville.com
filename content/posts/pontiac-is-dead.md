@@ -14,3 +14,10 @@ Sadly today GM has officially killed off Pontiac, say good bye to the Solstice a
 ![Solstice](http://www.autoclub.com.au/uploaded_images/pontiac-solstice-gxp-2007-798230.jpg)
 
 ![Pontiac G8](http://www.jetttstream.com/mm5/graphics/00000001/g8_header.jpg)
+---
+### Comments:
+#### 
+[Abraham Amponsah-Debrah]( "debrah_abraham@yahoo.com") - <time datetime="2010-05-16 08:57:07">May 0, 2010</time>
+
+pontiac is still alive for me. it is my dream baby but i do not have money to purchase it since am still a student, but will egt it one day. PONTIAC forever!!!!!!
+<hr />

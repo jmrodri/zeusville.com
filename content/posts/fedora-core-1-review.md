@@ -27,3 +27,10 @@ _Printer horrors_
 Now I continue to struggle with the printer on Linux. I have a Canon S750 which is shared via Samba from another Linux (Red Hat 8). I installed the [Turbo Print](http://www.turboprint.de/english.html) driver for it on that machine. So Windows prints just fine to the raw queue, but I don't get all the nice feature on my Fedora install unless I purchase a driver for it. I found the S600 driver works, but it's not the same. So if I were rating Fedora on printer drivers, I'd give it a 4 out of 10.
 
 _Summary_ All in all. I found Fedora much more polished than Red Hat Linux 9. I'm going to try a Personal Desktop install on my other drive just to see how that installation goes. But I think I'll leave Windows again and hang out with Fedora for a while.
+---
+### Comments:
+#### 
+[]( "") - <time datetime="2003-11-08 01:28:02">Nov 6, 2003</time>
+
+smartd is for hard drives that have that S.M.A.R.T. support (to tell you when they think you should buy a new one :-)
+<hr />

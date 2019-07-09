@@ -12,3 +12,10 @@ As a car and movie fanatic, I can't wait to take the kids to see ["Speed Racer"]
 So far the Mach 5 looks awesome:
 
 [![](http://speedracerthemovie.warnerbros.com/img/mach_5.jpg)](http://speedracerthemovie.warnerbros.com/cmp/main.html)
+---
+### Comments:
+#### 
+[stmj](http://stmj.vedbox.com/ "dee_dee081@yahoo.co.id") - <time datetime="2007-08-28 06:09:15">Aug 2, 2007</time>
+
+What a nice car. I'ts look like Fast and Furious. --stmj
+<hr />

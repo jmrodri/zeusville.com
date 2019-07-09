@@ -32,3 +32,10 @@ And Time Warner's CTO clearly doesn't think we want fast internet.
 > “There has not been a demonstrated appetite for it,” LaJoie said.
 
 I suspect not many people are subscribing to the 50/5 offering so clearly their data would show little demand. But I think the problem is the price. 50/5 for $49.99 would be totally worth it. But for $75 that's just outrageous. It would be great to have more competition here in NC, but with Time Warner Cable [lobbying against competition](http://www.ilsr.org/killing-competition-nc/), that will likely never happen.
+---
+### Comments:
+#### 
+[Blog &rsaquo; Jesus Rodriguez (zeus): It’s the price stupid!](http://ubunteroz.freeserver.me/2013/06/jesus-rodriguez-zeus-its-the-price-stupid/ "") - <time datetime="2013-06-14 02:07:00">Jun 5, 2013</time>
+
+\[…\] Source: Planet Fedora \[…\]
+<hr />

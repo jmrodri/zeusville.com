@@ -14,3 +14,15 @@ type: post
 Tonight I become a UNC Tarheel fan! If they beat Duke, then Maryland will win the ACC regular season outright.
 
 GO HEELS!
+---
+### Comments:
+#### 
+[adam stokes]( "adam.stokes@gmail.com") - <time datetime="2010-03-07 12:37:04">Mar 0, 2010</time>
+
+just in case you missed it tarheels lost :)
+<hr />
+#### 
+[jesus m. rodriguez](http://zeusville.wordpress.com "jmrodri@gmail.com") - <time datetime="2010-03-07 17:14:09">Mar 0, 2010</time>
+
+Yes, I know :(
+<hr />

@@ -104,3 +104,10 @@ Most of the above was trial and error with many reboots in between.  [FC3](http:
 ```
 ```
 ```
+---
+### Comments:
+#### 
+[]( "earobinson111@hotmail.com") - <time datetime="2004-07-28 20:49:05">Jul 3, 2004</time>
+
+so ya i followed your info but the ipod folder is empty weird no but i did get the ipod to do the dont connect thing thanks ne more posts would be great
+<hr />

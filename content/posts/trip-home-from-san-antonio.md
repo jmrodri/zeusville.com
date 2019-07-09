@@ -14,3 +14,10 @@ The flight continued to be delayed 3 more times the final time was 2:30am.  But
 On a good note, I met a lot of interesting people in the airport this trip. Like the family going to Puerto Rico for vacation with their daughter on her first flight. Like Mr. Mills who works for an investment firm and seems to be in legal trouble, and the divorced mother of two he talked to on the whole flight. Also, Jeanette an Air Force Airman who was returning to see her boyfriend in RDU from 30 days of training in Florida. During flight delays people band together to air their frustrations or share their stories of the day.
 
 I finally got home in bed at 5:10am Saturday morning which was also my 36th birthday.
+---
+### Comments:
+#### 
+[Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2007-06-11 07:38:41">Jun 1, 2007</time>
+
+Dear Jesus, Happy Birthday. Love Delta Airlines
+<hr />

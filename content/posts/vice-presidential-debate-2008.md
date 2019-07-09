@@ -98,3 +98,15 @@ Let me translate that for you:
 I really could go on for quite some time doing this, but I'm outta time. I urge you to go read the full transcript if you didn't see the debate, heck, read it even if you did see it:
 
 [debate transcript](http://www.cnn.com/2008/POLITICS/10/02/debate.transcript/)
+---
+### Comments:
+#### 
+[Cliff]( "cliff@aaa-.com") - <time datetime="2008-10-03 17:20:51">Oct 5, 2008</time>
+
+is Alaska anywhere near the 'heartland of America' ?
+<hr />
+#### 
+[Jesus M. Rodriguez](http://zeusville.wordpress.com "jmrodri@nc.rr.com") - <time datetime="2008-10-03 19:27:28">Oct 5, 2008</time>
+
+No, but it's close to Russia.
+<hr />

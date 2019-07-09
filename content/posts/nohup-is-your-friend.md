@@ -12,3 +12,10 @@ For those long running processes, nohup is your friend.
 `nohup long_running_cmd &`
 
 The output will go to nohup.out.
+---
+### Comments:
+#### 
+[sosiouxme](http://lukemeyer.net/ "luke.rt.meyer@gmail.com") - <time datetime="2007-05-13 08:37:46">May 0, 2007</time>
+
+`screen` and `tee` are your friends :-)
+<hr />

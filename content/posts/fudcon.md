@@ -16,3 +16,10 @@ We had BarCamp which is a great model for defining a conference. Typically a con
 In between volunteer efforts badging folks up to the 3rd floor, I've been able to attend a few talks. I went to the [revisor](http://revisor.fedoraunity.org/) talk after lunch. Revisor integrates with [cobbler](http://cobbler.et.redhat.com/) and allows you to create customized distros. I can't wait to give this a try now. I'm signed up to see [Seth's](http://skvidal.wordpress.com/) yum talk as well as [Adrian's](http://adrianlikins.com/) [FUNC](https://fedorahosted.org/func/) talk.
 
 The one thing I have found out is that I seriously need a laptop. Everyone here has one and it's very useful. I'm using an old loaner laptop from my department, but I need one for use all the time. :(
+---
+### Comments:
+#### 
+[Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2008-01-17 01:37:01">Jan 4, 2008</time>
+
+Dude. Laptop. There is no point to a desktop anymore.
+<hr />

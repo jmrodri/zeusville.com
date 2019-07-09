@@ -32,3 +32,10 @@ driver support for either Linux or Mac and doesn't print very well anymore.
 ![ink tank](http://lh6.googleusercontent.com/public/4wy4giFrkyoKOYBFLvPad35erJGhNHzRD7IsX0pRlUWgsbu278ckkM4AbiMX-mu2ddPjGLpMoDYfW0Xj8tBBLEEJMAto-VC_ZY4Wg2zIjFbETsJ3voLiPtDZbZRNFKoKarOhJLDr1lHkpd3uQrW2RsJdmrH_IDFfOl6_JnLEIb2fV_nH-3YmxvYAtUrSDfnSY-nBrEgdMeDg4FiJIzc5sjck7d1f5IySq73pDA1dEsFyylJghY5nH3s0Qoi2PFYmOgEFh6-kwzonnKTdGP1soIdShZpE4UeP6fW_rwX7G2b9JEbd--JZbHsw4CsJv6f07n99pJRKzBUMXbuQC4MkcwJNqoZvZt8OpypofoRjtnSfX1mHuH3sCzk)
 
 Leave your recommendations in the comment area, thanks.
+---
+### Comments:
+#### 
+[Benedikt]( "benedikt.morbach@googlemail.com") - <time datetime="2012-02-10 11:23:08">Feb 5, 2012</time>
+
+I have a Brother MFC-5490CN Brother provides linux drivers in rm and deb format and they work well on fedora, but I don't know how good the OS X support is. It is network capable It also has separate ink tanks for each color and the print head isn't on those tanks. Also, there are pretty cheap ink tanks from third-party manufacturers (~20€ for 20 pieces on amazon), which is handy if you are printing a lot. Look for LC-1100 compatible cartridges. I personally find the quality sufficient but you opinion might vary
+<hr />

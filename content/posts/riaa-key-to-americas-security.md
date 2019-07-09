@@ -36,3 +36,10 @@ And we all know the RIAA is what keeps America safe.
 Please contact [your representative](http://www.house.gov)'s and the [Speaker of the House](http://www.speaker.gov/contact).
 
 And judging from the [comments](http://www.digg.com/tech_news/Gonzales_proposes_new_crime_Attempted_copyright_infringement_3) on [digg.com](http://www.digg.com), I'm not the only one who thinks this is ridiculous.
+---
+### Comments:
+#### 
+[Michael DeHaan](http://michaeldehaan.net "michael.dehaan@gmail.com") - <time datetime="2007-05-15 21:37:25">May 2, 2007</time>
+
+life? Assholes. /me looks for cluestick.
+<hr />

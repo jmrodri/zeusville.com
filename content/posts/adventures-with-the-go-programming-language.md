@@ -14,3 +14,10 @@ Three weeks ago, I picked up a copy of ["The Go Programming Language"](http://ww
 In order to learn it, I needed a real life scenario, I needed a project. Why not port, [sm\_photo\_tool](https://github.com/jmrodri/sm-photo-tool), my [Smugmug](https://www.smugmug.com/) command line tool from [python](https://www.python.org/) to Go lang? That will give me experience with how Go handles parsing arguments, classes, REST APIs, concurrent uploads, and a bunch more things.  It's the perfect project to learn Go.
 
 In the next post I'll talk about structs in Go.
+---
+### Comments:
+#### 
+[Links 5/6/2016: SouthEast LinuxFest, Debian 8.5 Released | Techrights](http://techrights.org/2016/06/05/debian-8-5-released/ "") - <time datetime="2016-06-05 11:12:17">Jun 0, 2016</time>
+
+\[…\] Adventures with the Go programming language \[…\]
+<hr />

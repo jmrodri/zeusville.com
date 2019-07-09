@@ -126,3 +126,10 @@ I, for one, do not think that Bush is the right person for this country.
 He may have been able to run Texas, but not a country. And yes,
 
 Texas is NOT a country.
+---
+### Comments:
+#### 
+[Rick]( "") - <time datetime="2004-10-05 13:04:44">Oct 2, 2004</time>
+
+Is this about Java? I couldn't resist!!!
+<hr />

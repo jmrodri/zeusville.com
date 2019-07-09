@@ -12,3 +12,15 @@ I got a new receiver for Christmas, and it rocks! I got a Sony [STR-DH800](http:
 \[caption id="attachment\_1280" align="alignnone" width="414" caption="Sony STR-DH800 (image from sonystyle.com)"\][![](http://zeusville.files.wordpress.com/2009/12/strdh800_1.png "STRDH800_1")](http://www.sonystyle.com/wcsstore/SonyStyleStorefrontAssetStore/img/718x407/STRDH800_1.png)\[/caption\]
 
 \[caption id="" align="alignnone" width="320" caption="Technics SB-CR55 (not my actual picture)"\][![](http://4.bp.blogspot.com/_vxy23TPueNo/SZUdpOgcI_I/AAAAAAAAAnY/cu01ELHAIFU/s320/P1030709.JPG "Technics SB-CR55")](http://4.bp.blogspot.com/_vxy23TPueNo/SZUdpOgcI_I/AAAAAAAAAnY/cu01ELHAIFU/s320/P1030709.JPG)\[/caption\]
+---
+### Comments:
+#### 
+[ipod integration &laquo; zeusville](http://zeusville.wordpress.com/2010/01/04/ipod-integration/ "") - <time datetime="2010-01-04 21:22:31">Jan 1, 2010</time>
+
+\[...\] 4 01 2010 I got a new addition to my Sony receiver, the iPod cradle: \[...\]
+<hr />
+#### 
+[Atomfire Tech News](http://atomfire.wordpress.com "admin@atomfire.com") - <time datetime="2010-01-17 12:31:06">Jan 0, 2010</time>
+
+I just posted a review of this receiver on my site - http://atomfire.com/2010/01/17/review-sony-str-dh800/
+<hr />

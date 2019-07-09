@@ -24,3 +24,10 @@ curl https://github.com/octocat/Spoon-Knife/pull/25.patch | git am
 
 
 ```
+---
+### Comments:
+#### 
+[Michael DeHaan (@laserllama)](http://twitter.com/laserllama "laserllama@twitter.example.com") - <time datetime="2012-11-01 18:34:17">Nov 4, 2012</time>
+
+Nice, as it also prevents asking people to resubmit their commits squashed!
+<hr />

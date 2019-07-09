@@ -28,3 +28,10 @@ That's it. Notice that it simply puts in a PIPE (|) character between each URL.
 Now this works well at startup, but not so much when you press the Home button which promptly opens two tabs, and if you're currently in a tab the first homepage appears there then a new tab is opened the second homepage.
 
 ![](http://jroller.com/resources/jmrodri/home.png)
+---
+### Comments:
+#### 
+[Jesus M. Rodriguez](http://www.jroller.com/page/jmrodri "jmrodri@nc.rr.com") - <time datetime="2004-08-30 09:21:37">Aug 1, 2004</time>
+
+Wow this is a great tip. Testing out the email of comments.
+<hr />

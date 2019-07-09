@@ -12,3 +12,10 @@ I'm doing our 2006 taxes tonight using [TaxCut](http://www.taxcut.com/) for [Win
 I hate Windows, so next year I might opt for doing the taxes online using [TaxCut's online service](http://www.taxcut.com/products/2006/online/premiumbundle.html).
 
 Ok, I really need to get back to the taxes, that's it for now.
+---
+### Comments:
+#### 
+[Printing under Linux :( &laquo; zeusville](http://zeusville.wordpress.com/2007/03/18/printing-under-linux/ "") - <time datetime="2007-03-18 22:57:43">Mar 0, 2007</time>
+
+\[...\] Yes I am procrastinating, I’m supposed to be doing my taxes. \[...\]
+<hr />

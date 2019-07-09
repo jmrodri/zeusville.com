@@ -26,3 +26,10 @@ The Marine went back to his seat and sat there, silently. The other students wer
 The professor eventually came to, noticeably shaken, looked at the Marine and asked, "What the hell is the matter with you? Why did you do that?"
 
 The Marine calmly replied, "God was too busy today protecting America's soldiers who are protecting your right to say stupid shit and act like an asshole. So, He sent me."
+---
+### Comments:
+#### 
+[F.Baube]( "fbaube@yahoo.com") - <time datetime="2007-09-24 11:29:12">Sep 1, 2007</time>
+
+Alternative explanation: "If God did as you asked, it would be obvious and nearly provable that He exists, which would remove all room for faith. Therefore I took it upon myself to comply with your request, providing God some plausible deniability".
+<hr />

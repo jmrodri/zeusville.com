@@ -18,3 +18,15 @@ I did opt for a dual boot scenario with Windows XP Home on a 15GB partition, but
 One last problem I have to solve is the modem. The laptop has a Conexant onboard modem. I'm not sure if my mom will be willing to ditch dialup :) strictly for the price: $4.97/month vs. $25/month for DSL. But the ease of getting on the internet and me supporting here with SSH would make it worthwhile.
 
 Next stop is to get my wife, [Liz](http://emrodriguez.wordpress.com/), running Linux as well. Then I'll be Windows FREE at home, sorta, I still run it in [VMWare](http://www.vmware.com/products/ws/) for the few times I buy [iTunes](http://www.apple.com/itunes/) music.
+---
+### Comments:
+#### 
+[Peter Kehl](http://sourceforge.net/projects/reuse "peter.kehl@gmail.com") - <time datetime="2007-04-20 14:43:59">Apr 5, 2007</time>
+
+Hi. Have you done anything special to make suspend/hibernate work? What is your BIOS version, please. And Ubuntu - is it 6.10, and 32 or 64bit?
+<hr />
+#### 
+[Family tech support &laquo; zeusville](http://zeusville.wordpress.com/2007/11/25/family-tech-support/ "") - <time datetime="2007-11-25 14:48:15">Nov 0, 2007</time>
+
+\[...\] I had to fix a printing issue with my mom’s laptop. I tried to help over the phone but it is too difficult to do. The printer would print from the \[...\]
+<hr />

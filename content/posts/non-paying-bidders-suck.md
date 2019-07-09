@@ -22,3 +22,10 @@ Then, at around 6pm he called my cell phone (which I had left upstairs and misse
 Seriously? You're kidding right? So he expects me to still honor that price? HA! Yeah right. F\*\*\* off dude! If anything, the price goes UP! I haven't called him back and don't plan to either. I'll give him negative feedback on ebay and mark him as a non-paying bidder, then offer the car to the other two buyers. If that doesn't pan out, I'll relist it and keep this @$$hole from bidding.
 
 The part that gets my goat is he had a chance to see the car when it was on craigslist. But since he didn't show up, I put it on ebay. Had he shown up that day, I would've let the car go for $2,500, but not now, especially not to him. Well, that's the risk you take when selling on ebay.
+---
+### Comments:
+#### 
+[Trans Am SOLD! (officially this time) &laquo; zeusville](http://zeusville.wordpress.com/2008/05/03/trans-am-sold-officially-this-time/ "") - <time datetime="2008-05-03 21:23:03">May 6, 2008</time>
+
+\[...\] Am SOLD! (officially this time) 3 05 2008 I had to relist the Trans Am after the non-paying bidder fiasco, but this time it sold! The money has been \[...\]
+<hr />

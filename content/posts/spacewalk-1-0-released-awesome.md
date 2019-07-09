@@ -32,3 +32,15 @@ Yesterday the Spacewalk team announced the release of version 1.0! This is an ex
 Checkout the [OFFICIAL announcement: here.](https://www.redhat.com/archives/spacewalk-announce-list/2010-April/msg00000.html)
 
 Congrats to the Spacewalk team for reaching this important milestone.
+---
+### Comments:
+#### 
+[neverho0d](http://www.abbris.ru "psv@abbris.ru") - <time datetime="2010-05-03 10:57:44">May 1, 2010</time>
+
+I think, it shouldn't reach 1.0 without PostgreSQL support. Open source solution can not rely on proprietary one. Shit happens. :(
+<hr />
+#### 
+[isimluk]( "isimluk@fedoraproject.org") - <time datetime="2010-04-30 16:08:41">Apr 5, 2010</time>
+
+s/python-ugdev/python-gudev
+<hr />

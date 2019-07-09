@@ -30,3 +30,10 @@ Another Spacewalk release hits the interwebs.
 *   Cobbler 2.0 is known to work, but full tests haven't been done yet.
 
 Congrats to the Spacewalk team for another great release!
+---
+### Comments:
+#### 
+[No Open Blockers &raquo; Blog Archive &raquo; Spacewalk 0.8 Released](http://noopenblockers.com/2010/02/17/spacewalk-0-8-released/ "") - <time datetime="2010-02-17 10:49:21">Feb 3, 2010</time>
+
+\[...\] Most of the details here taken from Jesus’ post. \[...\]
+<hr />

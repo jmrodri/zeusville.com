@@ -14,3 +14,10 @@ looking for icons, [GTK2](http://en.wikipedia.org/wiki/Gtk) themes, and [Metacit
 [art.gnome](http://art.gnome.org), [gnome-look.org](http://www.gnome-look.org),
 
 and, on occasion, [customize.org](http://www.customize.org).
+---
+### Comments:
+#### 
+[OH]( "octavio_heredia@hotmail.com") - <time datetime="2004-11-06 20:53:24">Nov 6, 2004</time>
+
+Any screen shots or links to the specific themes you liked?
+<hr />

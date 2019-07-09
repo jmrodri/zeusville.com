@@ -45,3 +45,10 @@ Machine 1 and Machine 3 are only on for a few hours at a time. I guess the best 
 Does anyone have any backup suggestions?
 
 Now I'm going to veg in front of the TV, maybe I'll watch "Gone in Sixty Seconds".
+---
+### Comments:
+#### 
+[Chip Turner]( "cturner@pattern.net") - <time datetime="2004-07-05 12:14:15">Jul 1, 2004</time>
+
+rsync rsync rsync! works on a single system or over the network, is smart about what it copies, etc. I'll show you my scripts Tuesday if you'd like.
+<hr />

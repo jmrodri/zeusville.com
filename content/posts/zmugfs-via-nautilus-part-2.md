@@ -22,3 +22,10 @@ Isn't that cool? You may be asking, "how do I know he's not just returning some 
 [![actual smugmg subcategory](http://zeusville.files.wordpress.com/2007/10/smugmug_subcategory.png)](http://zeusville.files.wordpress.com/2007/10/smugmug_subcategory.png)
 
 Next step is to get Albums to show their images and their image counts. Once that is done, I will release zmugfs 0.1 out in the wild. The following releases will add write support and possible performance enhancements.
+---
+### Comments:
+#### 
+[zmugfs shows image listings &laquo; zeusville](http://zeusville.wordpress.com/2007/10/06/zmugfs-shows-image-listings/ "") - <time datetime="2007-10-06 19:15:13">Oct 6, 2007</time>
+
+\[...\] up is a subcategory containing albums. If you recall before I didn’t show the image counts, now the image counts \[...\]
+<hr />

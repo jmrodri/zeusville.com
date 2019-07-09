@@ -16,3 +16,10 @@ Another issue conservatives are always ranting about are guns and taxes. Well, t
 > Buy guns. Nothing, absolutely nothing, will drive liberal Members of Congress crazier than tax rebates being spent on guns. Little will make you feel better and safer than some additional firepower. You want stimulus? You got stimulus.
 
 You can read more of this nonsense [here.](http://www.cfif.org/htdocs/freedomline/current/in_our_opinion/Buy-Guns-with-Your-Tax-Rebate-Checks.htm)
+---
+### Comments:
+#### 
+[sosiouxme]( "luke.rt.meyer@gmail.com") - <time datetime="2008-05-12 09:13:33">May 1, 2008</time>
+
+looks like the plan worked (as far as driving you crazy at least!) though, it seems unlikely that members of congress would notice tax rebates being spent on guns, so i find the idea silly. why not use it to pay off credit card debt? shrug.
+<hr />

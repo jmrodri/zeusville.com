@@ -14,3 +14,10 @@ Our SONY DVP-NS315 DVD player died. We were noticing a lot of DVDs from [Netflix
 We bought a new Sony DVP-NS77H/B which is an upconversion DVD player with an HDMI connection. It still has component and s-video which is what I need for our regular Sony TV. But when we get our HDTV, I'll be ready.
 
 ![newdvd](http://zeusville.files.wordpress.com/2007/08/sonyns77h.jpg)
+---
+### Comments:
+#### 
+[Stick](http://miscellaneous.net "stick@miscellaneous.net") - <time datetime="2007-08-28 15:15:06">Aug 2, 2007</time>
+
+It's a tough place to be right now. The format wars for HD-DVD vs Sony Blu-Ray aren't over yet. Even upconverted DVDs top out at 420p (enhanced).
+<hr />

@@ -16,3 +16,10 @@ It will display a Search tab with a list of all the classes and the methods
 which call the particular method you selected.
 
 The same is true if you right-mouse click on a classname.
+---
+### Comments:
+#### 
+[Euxx](http://jroller.com/page/eu/20050210#reading_eclipse_tips_like_a "$comment.email") - <time datetime="2005-02-10 00:49:15">Feb 4, 2005</time>
+
+\[Trackback\] Reading Eclipse tips like this makes me wonder how many Eclipse users actually aware of "Open Call Hierarchy" action (Ctrl-Alt-H), that had been added in Eclipse 3.0 M1 . By the way, this feature is a good example of community contribu...
+<hr />

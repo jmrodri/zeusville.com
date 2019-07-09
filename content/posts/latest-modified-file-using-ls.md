@@ -16,3 +16,10 @@ ls -ct1 | head -10
 
 
 ```
+---
+### Comments:
+#### 
+[Stick](http://www.miscellaneous.net "stick@miscellaneous.net") - <time datetime="2009-08-06 10:35:56">Aug 4, 2009</time>
+
+`ls -ltr` or your more specific evocation: `ls -ct1r -r, --reverse reverse order while sorting`
+<hr />

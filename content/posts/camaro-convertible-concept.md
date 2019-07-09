@@ -16,3 +16,10 @@ type: post
 [](http://www.blogsmithmedia.com/www.autoblog.com/media/2007/01/x07cc_ch047.jpg)[![x07cc_ch047.jpg](http://zeusville.files.wordpress.com/2007/01/x07cc_ch047.jpg)](http://zeusville.files.wordpress.com/2007/01/x07cc_ch047.jpg "x07cc_ch047.jpg")[](http://www.blogsmithmedia.com/www.autoblog.com/media/2007/01/x07cc_ch047.jpg)
 
 Click here for the full [gallery](http://www.autoblog.com/photos/camaro-convertible-concept/).
+---
+### Comments:
+#### 
+[susan]( "susanqq@msn.com") - <time datetime="2008-08-30 00:42:10">Aug 6, 2008</time>
+
+hi gil !! I going to buy this car you waite and see !!
+<hr />

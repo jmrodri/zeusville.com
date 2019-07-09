@@ -32,3 +32,10 @@ So how long does it take to install a TiVo with Time Warner? Let's see it by the
 If you are planning on getting a [TiVo](http://www.tivo.com) which despite my experience is an AWESOME DVR! My advice to you is be patient and persistent.
 
 Check back next week to see if I start the process again.
+---
+### Comments:
+#### 
+[dgoodwin]( "herkel@fnordia.org") - <time datetime="2010-07-16 18:33:00">Jul 5, 2010</time>
+
+That was absurd. Nice to hear it's sorted anyhow.
+<hr />

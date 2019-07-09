@@ -18,3 +18,10 @@ Last night I posted a little blurb about [python's self](http://zeusville.wordpr
 > Finally, for instance variables it solves a syntactic problem with assignment: since local variables in Python are (by definition!) those variables to which a value assigned in a function body (and that aren't explicitly declared global), there has to be some way to tell the interpreter that an assignment was meant to assign to an instance variable instead of to a local variable, and it should preferably be syntactic (for efficiency reasons). C++ does this through declarations, but Python doesn't have declarations and it would be a pity having to introduce them just for this purpose. Using the explicit "self.var" solves this nicely. Similarly, for using instance variables, having to write "self.var" means that references to unqualified names inside a method don't have to search the instance's directories. To put it another way, local variables and instance variables live in two different namespaces, and you need to tell Python which namespace to use.
 
 Hopefully you won't curse python for being selfish next time.
+---
+### Comments:
+#### 
+[James Bowes](http://jbowes.dangerouslyinc.com "jbowes@redhat.com") - <time datetime="2007-09-14 13:06:01">Sep 5, 2007</time>
+
+You were just having a Java relapse. Love each language for its own strengths and faults, man.
+<hr />
