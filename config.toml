@@ -135,11 +135,17 @@ disableLanguages        = [""]
     identifier        = "fas fa-sitemap"
     weight            = 5
 
+  [[menu.main]]
+    name              = "Tags"
+    url               = "/tags/"
+    identifier        = "fas fa-tags"
+    weight            = 6
+
   # [[menu.main]]
   #   name              = "Contact"
   #   url               = "/contact/"
   #   identifier        = "far fa-envelope"
-  #   weight            = 6
+  #   weight            = 7
 
 [Languages]
   # Each language has its own menu.
