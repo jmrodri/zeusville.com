@@ -33,8 +33,7 @@ I started the project, running ethernet to the living room where the TV  and [P
 And finally, I booked the beach house for our summer vacation this year.
 ---
 ### Comments:
-####
-[Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2009-01-24 23:02:31">Jan 6, 2009</time>
+#### [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2009-01-24 23:02:31">Jan 6, 2009</time>
 
 Sounds fun. Got the same problem with lag on my PS3 while streaming too, although I noticed a drastic improvement after I switched the wireless off channel 6 and 7. No cable run yet but I'll might eventually.
 <hr />

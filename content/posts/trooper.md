@@ -13,8 +13,7 @@ type: post
 Adan (5) continues to draw more and more. He decided to copy this trooper from the Revenge of the Sith game guide.
 ---
 ### Comments:
-####
-[Máirín](http://mihmo.livejournal.com/ "mairin@gmail.com") - <time datetime="2007-08-09 21:52:51">Aug 4, 2007</time>
+#### [Máirín](http://mihmo.livejournal.com/ "mairin@gmail.com") - <time datetime="2007-08-09 21:52:51">Aug 4, 2007</time>
 
 That is just way too incredible. 5 years old... Hot damn!
 <hr />

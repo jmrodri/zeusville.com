@@ -35,8 +35,7 @@ MAKE SURE YOU BACKUP YOUR iTunes MUSIC
 I was able to get Apple to make an exception to the rule. I was able to download my most recent purchase which was the one I lost anyway. I've now learned my lesson, burn the songs to music CDs and data CDs for backup.
 ---
 ### Comments:
-####
-[Kevin]( "") - <time datetime="2004-04-07 21:11:10">Apr 3, 2004</time>
+#### [Kevin]( "") - <time datetime="2004-04-07 21:11:10">Apr 3, 2004</time>
 
 You might also want to check out PlayFair (if you can find a copy from a mirror somewhere) which was mentioned on slashdot a couple days back. PlayFair can help you unlock your song files so you can avoid losing them.
 <hr />

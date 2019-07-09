@@ -12,8 +12,7 @@ My alma mater, the [University of Maryland, College Park](http://www.umd.edu/) b
 ![](http://graphics.fansonly.com/photos/schools/md/nonsport/testudo-250w.jpg)
 ---
 ### Comments:
-####
-[The Ghost of Len Bias]( "gdk@redhat.com") - <time datetime="2008-02-11 13:19:14">Feb 1, 2008</time>
+#### [The Ghost of Len Bias]( "gdk@redhat.com") - <time datetime="2008-02-11 13:19:14">Feb 1, 2008</time>
 
 Gary Williams is still a chimp. Lefty would have eaten that punk for breakfast.
 <hr />

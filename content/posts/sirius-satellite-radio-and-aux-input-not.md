@@ -26,13 +26,11 @@ A quick [google search](http://www.google.com/search?hl=en&c2coff=1&q=TD13-79-CF
 *   [NoGo on my iPod and my CX-9](http://forums.mazdaworld.org/index.php?act=Print&client=printer&f=12&t=19909)
 ---
 ### Comments:
-####
-[jmrodri](http://zeusville.wordpress.com/ "jmrodri@gmail.com") - <time datetime="2008-04-15 12:08:11">Apr 2, 2008</time>
+#### [jmrodri](http://zeusville.wordpress.com/ "jmrodri@gmail.com") - <time datetime="2008-04-15 12:08:11">Apr 2, 2008</time>
 
 $110.40 at Mazda Parts.org: http://www.mazdaparts.org/switching-box.html
 <hr />
-####
-[Dino Bakko](http:// "shiftiness@gmail.com") - <time datetime="2012-11-21 11:23:24">Nov 3, 2012</time>
+#### [Dino Bakko](http:// "shiftiness@gmail.com") - <time datetime="2012-11-21 11:23:24">Nov 3, 2012</time>
 
 I always bring my satellite radio wherever i go because it is great listening to music.' <a href="Latest article content on our own blog page http://www.prettygoddess.com
 <hr />

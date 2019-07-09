@@ -13,8 +13,7 @@ type: post
 sometimes I'm a spectacle at work :)
 ---
 ### Comments:
-####
-[Rick]( "rickvh@sportscommish.net") - <time datetime="2007-06-08 07:07:08">Jun 5, 2007</time>
+#### [Rick]( "rickvh@sportscommish.net") - <time datetime="2007-06-08 07:07:08">Jun 5, 2007</time>
 
 Some things never change! :-)
 <hr />

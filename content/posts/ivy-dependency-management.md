@@ -18,8 +18,7 @@ Many of you are probably saying, well [maven](http://maven.apache.org/) does thi
 I'll keep folks posted on how this goes. But if you're an [Ant](http://ant.apache.org/) shop and despise maven, consider using [Ivy.](http://www.jayasoft.org/ivy)
 ---
 ### Comments:
-####
-[Carlos Sanchez](http://www.jroller.com/page/carlossg "carlos@apache.org") - <time datetime="2006-11-21 14:13:15">Nov 2, 2006</time>
+#### [Carlos Sanchez](http://www.jroller.com/page/carlossg "carlos@apache.org") - <time datetime="2006-11-21 14:13:15">Nov 2, 2006</time>
 
 You should try the Maven Ant tasks http://maven.apache.org/ant-tasks.html
 <hr />

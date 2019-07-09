@@ -36,13 +36,11 @@ Here are some of the installation screenshots:
 [![OS/2 installed](http://farm6.static.flickr.com/5048/5224727559_0645f6e3e9_z.jpg)](http://www.flickr.com/photos/jmrodri/5224727559/ "OS/2 installed by jmrodri, on Flickr")
 ---
 ### Comments:
-####
-[Seth Vidal]( "seth-blog@sethdot.org") - <time datetime="2010-12-02 23:40:49">Dec 4, 2010</time>
+#### [Seth Vidal]( "seth-blog@sethdot.org") - <time datetime="2010-12-02 23:40:49">Dec 4, 2010</time>
 
 There's a guy in #rpm on freenode porting rpm to os/2. You should check it out.
 <hr />
-####
-[JFM](http://www.carcosa.net/jason/ "jmcbray@carcosa.net") - <time datetime="2010-12-02 14:59:41">Dec 4, 2010</time>
+#### [JFM](http://www.carcosa.net/jason/ "jmcbray@carcosa.net") - <time datetime="2010-12-02 14:59:41">Dec 4, 2010</time>
 
 While cleaning recently, I found my OS/2 Warp 4 install CD. I considered doing exactly this same thing (except in virt-manager), then decided I didn't have time and threw it away :(
 <hr />

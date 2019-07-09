@@ -36,8 +36,7 @@ Thanks got Lloyd Cha for contributing the fixes for this release.
 [![prompting for password](/img/2009/12/sm-photo-tool-1-20.png "sm-photo-tool-1.20")](/img/2009/12/sm-photo-tool-1-20.png)
 ---
 ### Comments:
-####
-[john crosslin](http://www.jcrosslinphotography.com "john@littlespud.net") - <time datetime="2010-09-27 06:53:25">Sep 1, 2010</time>
+#### [john crosslin](http://www.jcrosslinphotography.com "john@littlespud.net") - <time datetime="2010-09-27 06:53:25">Sep 1, 2010</time>
 
 I have been trying to get this working. It seems up upload correctly without any error messages and the correctly named gallery is created, but when I look in the gallery there are not any images in it. What am I doing wrong.
 <hr />

@@ -20,8 +20,7 @@ Last night I posted a little blurb about [python's self](http://zeusville.wordpr
 Hopefully you won't curse python for being selfish next time.
 ---
 ### Comments:
-####
-[James Bowes](http://jbowes.dangerouslyinc.com "jbowes@redhat.com") - <time datetime="2007-09-14 13:06:01">Sep 5, 2007</time>
+#### [James Bowes](http://jbowes.dangerouslyinc.com "jbowes@redhat.com") - <time datetime="2007-09-14 13:06:01">Sep 5, 2007</time>
 
 You were just having a Java relapse. Love each language for its own strengths and faults, man.
 <hr />

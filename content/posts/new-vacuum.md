@@ -30,13 +30,11 @@ container dumping. You detach the container, and pull a trigger. The bottom open
 Target has a sale this week if you buy a Dyson vacuum you get $100 gift card [click here for more details](http://www.target.com/gp/browse.html/ref=sc_iw_l_0/601-4731353-8160948?%5Fencoding=UTF8&node=12957121).
 ---
 ### Comments:
-####
-[RD](http://jroller.com/page/malformed "") - <time datetime="2006-09-03 15:52:32">Sep 0, 2006</time>
+#### [RD](http://jroller.com/page/malformed "") - <time datetime="2006-09-03 15:52:32">Sep 0, 2006</time>
 
 Dysons suck.
 <hr />
-####
-[Jesus M. Rodriguez](http://www.jroller.com/page/jmrodri/ "jmrodri@nc.rr.com") - <time datetime="2006-09-03 16:14:24">Sep 0, 2006</time>
+#### [Jesus M. Rodriguez](http://www.jroller.com/page/jmrodri/ "jmrodri@nc.rr.com") - <time datetime="2006-09-03 16:14:24">Sep 0, 2006</time>
 
 RD, yes they do suck, that's why we bought it. They suck the dirt right up.
 <hr />

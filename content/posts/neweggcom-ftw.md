@@ -12,8 +12,7 @@ I gave up dealing with [Eforcity.com](http://zeusville.wordpress.com/2008/08/11/
 Newegg.com [FTW](http://netforbeginners.about.com/od/blogchatinstantmessaging/f/whatisFTW.htm)!
 ---
 ### Comments:
-####
-[Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-08-15 08:19:56">Aug 5, 2008</time>
+#### [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-08-15 08:19:56">Aug 5, 2008</time>
 
 newegg f\*&# the what!
 <hr />

@@ -62,8 +62,7 @@ It's awesome! Checkout [clamz](http://code.google.com/p/clamz/) if you're a Amaz
 ```
 ---
 ### Comments:
-####
-[Keiran "Affix" Smith](http://affix.me "keiran@keiran-smith.net") - <time datetime="2011-01-13 15:24:00">Jan 4, 2011</time>
+#### [Keiran "Affix" Smith](http://affix.me "keiran@keiran-smith.net") - <time datetime="2011-01-13 15:24:00">Jan 4, 2011</time>
 
 I think it is worth noting that clamz is available in the fedora repos
 <hr />

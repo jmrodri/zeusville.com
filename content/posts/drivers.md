@@ -16,8 +16,7 @@ If there is a shared turn lane, move into the lane and slow down. Don't slow dow
 Here in the South, drivers are courteous (which is nice compared to the ones in DC), but they are overly courteous. For instance, the other night going home, there was a person waiting to turn out of a shopping center. I was in the right lane behind several cares that were stopped. The left lane was moving just fine. I noticed the person turn out of the shopping center. And thought, someone must've let her in because all the cars in front of them were stopped and there's no place to go. WRONG! The person several cars in front of me had stopped traffic in the main road to let this person in. This goes beyond courteous to dangerous! ARGH!
 ---
 ### Comments:
-####
-[Ryan Daigle](http://ryandaigle.com "rwdaigle@yahoo.com") - <time datetime="2004-05-11 14:41:45">May 2, 2004</time>
+#### [Ryan Daigle](http://ryandaigle.com "rwdaigle@yahoo.com") - <time datetime="2004-05-11 14:41:45">May 2, 2004</time>
 
 I'm so glad to hear somebody else say that! I used to think I was just an angry driver - I still may be but at least there's another one out there with me. Where do you live, I see you went to a Durham Bulls game? I'm over in Chapel Hill and curse drivers like that every day.
 <hr />

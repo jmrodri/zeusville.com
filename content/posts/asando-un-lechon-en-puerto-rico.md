@@ -18,8 +18,7 @@ Lechon is one of the favorite meats during the Christmas holidays. Actually it's
 ![el lechon asado](http://familiarodriguez.smugmug.com/photos/124414467-S.jpg)
 ---
 ### Comments:
-####
-[Jason Connor](http://glutt.com "jlc@glutt.com") - <time datetime="2007-02-18 16:47:13">Feb 0, 2007</time>
+#### [Jason Connor](http://glutt.com "jlc@glutt.com") - <time datetime="2007-02-18 16:47:13">Feb 0, 2007</time>
 
 I've only had the experience of eating pig roasted on a spit once. It has to be on of my most cherished memories of food. Where's my invite and when are we going? ;-)
 <hr />

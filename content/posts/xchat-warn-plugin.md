@@ -14,8 +14,7 @@ Here's a screenshot.
 [![xchat dialog (uses zenity)](/img/2007/01/xchat.png)](/img/2007/01/xchat.png "xchat dialog (uses zenity)")
 ---
 ### Comments:
-####
-[Snexlex]( "snexlex@gmail.com") - <time datetime="2007-01-25 01:14:20">Jan 4, 2007</time>
+#### [Snexlex]( "snexlex@gmail.com") - <time datetime="2007-01-25 01:14:20">Jan 4, 2007</time>
 
 I hope this will make my Wikipedia stocks go up so I make some money on it :-) http://www.trendio.fr/word.php?language=en&wordid=2315
 <hr />

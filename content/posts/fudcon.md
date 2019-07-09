@@ -18,8 +18,7 @@ In between volunteer efforts badging folks up to the 3rd floor, I've been able t
 The one thing I have found out is that I seriously need a laptop. Everyone here has one and it's very useful. I'm using an old loaner laptop from my department, but I need one for use all the time. :(
 ---
 ### Comments:
-####
-[Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2008-01-17 01:37:01">Jan 4, 2008</time>
+#### [Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2008-01-17 01:37:01">Jan 4, 2008</time>
 
 Dude. Laptop. There is no point to a desktop anymore.
 <hr />

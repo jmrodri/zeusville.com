@@ -14,13 +14,11 @@ So [laptopjacks.com](http://www.laptopjacks.com) to the rescue, I was able to ge
 ![IBM Thinkpad T43 power jack](http://www.laptopjacks.com/images/PJ-20b-cable.jpg)
 ---
 ### Comments:
-####
-[Jay](http://noopenblockers.com "jason.dobies@gmail.com") - <time datetime="2009-11-24 09:56:41">Nov 2, 2009</time>
+#### [Jay](http://noopenblockers.com "jason.dobies@gmail.com") - <time datetime="2009-11-24 09:56:41">Nov 2, 2009</time>
 
 10 minutes later, you spilled a cup of coffee on it. :D
 <hr />
-####
-[Lalufu](http://www.skytale.net/blog "ralf@skytale.net") - <time datetime="2009-11-24 04:49:46">Nov 2, 2009</time>
+#### [Lalufu](http://www.skytale.net/blog "ralf@skytale.net") - <time datetime="2009-11-24 04:49:46">Nov 2, 2009</time>
 
 The nice thing about ThinkPads is that IBM/Lenovo actually gives you a manual on how to take their machines apart and put them back together again, plus part numbers for almost everything in them.
 <hr />

@@ -14,8 +14,7 @@ Much has happened since we handed over our voice:
 [Somehow...](http://www.truthdig.com/report/item/200601019_after_pats_birthday/)
 ---
 ### Comments:
-####
-[Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2006-10-26 00:39:03">Oct 4, 2006</time>
+#### [Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2006-10-26 00:39:03">Oct 4, 2006</time>
 
 Outstanding. So much so that I added an entry pointing to it as well. -todd
 <hr />

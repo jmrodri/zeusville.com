@@ -12,8 +12,7 @@ I was watching the Democratic National Convention last night on CSPAN. And I'd l
 ![](http://www.johnkerry.com/images/shell/jklogo.gif)
 ---
 ### Comments:
-####
-[Bob]( "") - <time datetime="2004-07-28 11:06:41">Jul 3, 2004</time>
+#### [Bob]( "") - <time datetime="2004-07-28 11:06:41">Jul 3, 2004</time>
 
 Why? It is the same old stuff repackaged.
 <hr />

@@ -16,8 +16,7 @@ It's been quite sometime since I've worked on sm-photo-tool so long that sourcef
 I trashed my repo by using the old url and trying to rely on svn plugin in eclipse. Use the command line Luke. At work I use the command line, but for some reason I feel compelled to see if I can make better use of Eclipse. ARGH!
 ---
 ### Comments:
-####
-[chip](http://perl.pattern.net "cturner@pattern.net") - <time datetime="2007-03-10 06:50:25">Mar 6, 2007</time>
+#### [chip](http://perl.pattern.net "cturner@pattern.net") - <time datetime="2007-03-10 06:50:25">Mar 6, 2007</time>
 
 dude! why not use googlecode.com hosting? :)
 <hr />

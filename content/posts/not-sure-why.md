@@ -62,8 +62,7 @@ That's how company policy begins ....
 I received this story through email and liked it so much I'm posting it on my blog.
 ---
 ### Comments:
-####
-[denka](http://me-techie.blogspot.com "") - <time datetime="2005-08-05 19:39:18">Aug 5, 2005</time>
+#### [denka](http://me-techie.blogspot.com "") - <time datetime="2005-08-05 19:39:18">Aug 5, 2005</time>
 
 Is this a result of scientific experiment or a speculation? Sounds plausible, at least to someone who's not a specialist in animal behaviors. But that does not make it true...
 <hr />

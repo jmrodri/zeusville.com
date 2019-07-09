@@ -12,8 +12,7 @@ The surgery went well, they straightened her septum and cleared up her sinuses. 
 It was a rough right, but we finally made it home. We had some Chinese food tonight for dinner, Liz had some soup and crackers. She's relaxing on the loveseat, actually looks like she **_SLEEPING_**! YAY! It's been a long day.
 ---
 ### Comments:
-####
-[Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-04-26 00:17:42">Apr 6, 2008</time>
+#### [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-04-26 00:17:42">Apr 6, 2008</time>
 
 Good to hear she's doing ok! Here's to a speedy recovery!
 <hr />

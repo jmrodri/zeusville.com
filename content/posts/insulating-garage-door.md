@@ -14,8 +14,7 @@ Our garage door is not insulated, and the bonus room above it gets too hot in su
 > The garage was decidely warmer all winter long, as was the room above it. Likewise, we’ve had much better temperature control this summer. While this is undoubtedly reducing our energy bills, the best thing about it is that it makes our house more comfortable/livable. So how did I do it? While there are garage door insulation kits available for sale, I couldn’t find any at our local stores when I went out looking. Thus, I simply bought foam sheathing at Home Depot and cut it to fit in the garage door panels. The ‘pocket’ in the door panels is just over 1.5 inches deep, so I used a double layer of 3/4 inch sheathing, which I tucked behind the metal lip that runs around each panel. I then secured it all in place with aluminum foil tape — I considered using Liquid Nails, but wanted to be able to take it down if it didn’t work as I had hoped. And while I was at it, I also insulated our water heater (which is located in our garage) with a water heater blanket.
 ---
 ### Comments:
-####
-[Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2007-01-22 21:29:40">Jan 1, 2007</time>
+#### [Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2007-01-22 21:29:40">Jan 1, 2007</time>
 
 Insulating your water-heater. I almost did this. You don't have to anymore with modern water-heaters. They are already extremely well insulated. -todd
 <hr />

@@ -14,13 +14,11 @@ Next up is disk caching. I plan to cache some of the images on disk (in $HOME/.z
 After the disk caching, the only thing left is packaging and some setup scripts to make it easier to create your configuration file.
 ---
 ### Comments:
-####
-[swiftsoles](http:// "swiftsoles@gmail.com") - <time datetime="2007-10-15 13:32:45">Oct 1, 2007</time>
+#### [swiftsoles](http:// "swiftsoles@gmail.com") - <time datetime="2007-10-15 13:32:45">Oct 1, 2007</time>
 
 What are you going to expose as the core services of zmugfs?
 <hr />
-####
-[swiftsoles](http:// "swiftsoles@gmail.com") - <time datetime="2007-10-15 13:33:53">Oct 1, 2007</time>
+#### [swiftsoles](http:// "swiftsoles@gmail.com") - <time datetime="2007-10-15 13:33:53">Oct 1, 2007</time>
 
 oh yeah check out my wicked cool blog, http://swiftsoles.wordpress.com/
 <hr />

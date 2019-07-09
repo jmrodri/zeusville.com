@@ -34,8 +34,7 @@ Here are some of the features in this release:
 Congrats to the Spacewalk team for another great release!
 ---
 ### Comments:
-####
-[Rahul Sundaram]( "sundaram@fedoraproject.org") - <time datetime="2009-12-17 05:18:56">Dec 4, 2009</time>
+#### [Rahul Sundaram]( "sundaram@fedoraproject.org") - <time datetime="2009-12-17 05:18:56">Dec 4, 2009</time>
 
 Can the Postgres version be imported into Rawhide? Would help stabilize it.
 <hr />

@@ -52,8 +52,7 @@ Done! Way easier than dealing with the conflicts from the rebase. Easier than tr
 ```
 ---
 ### Comments:
-####
-[Links 19/2/2015: Hewlett-Packard on Cumulus Linux, Previews of GNOME 3.16 Beta | Techrights](http://techrights.org/2015/02/19/cumulus-linux/ "") - <time datetime="2015-02-19 21:23:02">Feb 4, 2015</time>
+#### [Links 19/2/2015: Hewlett-Packard on Cumulus Linux, Previews of GNOME 3.16 Beta | Techrights](http://techrights.org/2015/02/19/cumulus-linux/ "") - <time datetime="2015-02-19 21:23:02">Feb 4, 2015</time>
 
 \[…\] Deal with git am failures \[…\]
 <hr />

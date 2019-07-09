@@ -27,8 +27,7 @@ Next up is to add the write mode capability to the file system which will actual
 Stay tuned for more.
 ---
 ### Comments:
-####
-[Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-01-09 11:35:32">Jan 3, 2008</time>
+#### [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-01-09 11:35:32">Jan 3, 2008</time>
 
 Welcome to Fedora People!
 <hr />

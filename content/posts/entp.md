@@ -14,8 +14,7 @@ I took the test again, and I'm still an [ENTP](http://www.helloquizzy.com/result
 You can take the test here: [http://www.helloquizzy.com/tests/the-long-scientific-personality-test](http://www.helloquizzy.com/tests/the-long-scientific-personality-test)
 ---
 ### Comments:
-####
-[Jay](http://notebook.novasurv.com "jason.dobies@redhat.com") - <time datetime="2009-01-12 11:05:18">Jan 1, 2009</time>
+#### [Jay](http://notebook.novasurv.com "jason.dobies@redhat.com") - <time datetime="2009-01-12 11:05:18">Jan 1, 2009</time>
 
 File me under "generic developer", I am still an ISTJ.
 <hr />

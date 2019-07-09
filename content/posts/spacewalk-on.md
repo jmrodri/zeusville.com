@@ -12,8 +12,7 @@ Looks like we've been slashdotted:
 [![](/img/2008/06/slashdot.png)](http://linux.slashdot.org/linux/08/06/20/1436215.shtml)
 ---
 ### Comments:
-####
-[Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-06-20 15:20:02">Jun 5, 2008</time>
+#### [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-06-20 15:20:02">Jun 5, 2008</time>
 
 Next stop... wait that's pretty much as high as we can go right?
 <hr />

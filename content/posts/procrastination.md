@@ -14,8 +14,7 @@ I hate Windows, so next year I might opt for doing the taxes online using [TaxCu
 Ok, I really need to get back to the taxes, that's it for now.
 ---
 ### Comments:
-####
-[Printing under Linux :( &laquo; zeusville](http://zeusville.wordpress.com/2007/03/18/printing-under-linux/ "") - <time datetime="2007-03-18 22:57:43">Mar 0, 2007</time>
+#### [Printing under Linux :( &laquo; zeusville](http://zeusville.wordpress.com/2007/03/18/printing-under-linux/ "") - <time datetime="2007-03-18 22:57:43">Mar 0, 2007</time>
 
 \[...\] Yes I am procrastinating, I’m supposed to be doing my taxes. \[...\]
 <hr />

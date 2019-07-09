@@ -38,33 +38,27 @@ have a [Manager](http://bit.ly/dR6WI) layer, a [UI](http://bit.ly/1m51Ya) layer,
 So what can you learn from all this? [KISS](http://en.wikipedia.org/wiki/KISS_principle)!
 ---
 ### Comments:
-####
-[Robin Norwood]( "robin.norwood@gmail.com") - <time datetime="2009-10-28 23:44:13">Oct 3, 2009</time>
+#### [Robin Norwood]( "robin.norwood@gmail.com") - <time datetime="2009-10-28 23:44:13">Oct 3, 2009</time>
 
 \*AHEM\* I'd like to point out that DataSource predates the entire Java stack, including Hibernate, thankyouverymuch. I should know, I wrote it. (Chip had a hand in the design, as I recall - probably most of the good bits are his.) We did it for the reasons you mention, but also to have a central repository and framework for all of the queries we needed to hand-tune for performance reasons. We ended up using it for basically everything that wasn't returning a single object. Everything else you said is right, though. :-)
 <hr />
-####
-[mairin](http://mihmo.livejournal.com "mairin@linuxgrrl.com") - <time datetime="2009-10-29 00:49:42">Oct 4, 2009</time>
+#### [mairin](http://mihmo.livejournal.com "mairin@linuxgrrl.com") - <time datetime="2009-10-29 00:49:42">Oct 4, 2009</time>
 
 Pure potential, complete absence of utility. I'd rather Ray's beat up, ugly, paint-peeled 12-year old Dodge Neon than a beautiful Jaguar that can't move. At least the Neon can get me to the supermarket.
 <hr />
-####
-[rm-rf](http:// "dgoodwin@dangerouslyinc.com") - <time datetime="2009-10-29 08:26:46">Oct 4, 2009</time>
+#### [rm-rf](http:// "dgoodwin@dangerouslyinc.com") - <time datetime="2009-10-29 08:26:46">Oct 4, 2009</time>
 
 It's dangerous (and too easy) to let dumb trends in Java culture convince us to go too far the opposite direction though. It's worth noting that Spacewalk's Hibernate ORM is about the only piece that isn't binding us to Oracle. Sometimes, you actually need those layers someday. The trick is knowing when you do and when you don't. :)
 <hr />
-####
-[Mickael](https://blog.misc.ephaone.org/ "misc@zarb.org") - <time datetime="2009-10-29 08:51:35">Oct 4, 2009</time>
+#### [Mickael](https://blog.misc.ephaone.org/ "misc@zarb.org") - <time datetime="2009-10-29 08:51:35">Oct 4, 2009</time>
 
 Just for the record, some ORM exists with a possibility of adding your own queries ( such as http://www.sqlalchemy.org/ in python ).
 <hr />
-####
-[Luke Meyer]( "luke.rt.meyer@gmail.com") - <time datetime="2009-10-29 09:14:38">Oct 4, 2009</time>
+#### [Luke Meyer]( "luke.rt.meyer@gmail.com") - <time datetime="2009-10-29 09:14:38">Oct 4, 2009</time>
 
 careful there, zeus, you're sailing into some dangerously heretical waters for a java programmer! you mean layers of abstraction actually get in the way of optimizing performance? next you'll be saying they make code hard to understand too!
 <hr />
-####
-[chip]( "cturner@pattern.net") - <time datetime="2009-10-29 18:29:03">Oct 4, 2009</time>
+#### [chip]( "cturner@pattern.net") - <time datetime="2009-10-29 18:29:03">Oct 4, 2009</time>
 
 zeus!! holy cow. you've come a long way. brings a tear to my eye. oh I remember how lost and scared you were at the heretical rantings oh so many years ago when you realized just what heretics you had joined with. \*sob\*
 <hr />

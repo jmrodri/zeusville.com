@@ -18,8 +18,7 @@ President Bush claims that the best way to combat terrorism is to spread freedom
 > — John F. Kennedy
 ---
 ### Comments:
-####
-[Bob]( "") - <time datetime="2004-10-16 20:09:11">Oct 6, 2004</time>
+#### [Bob]( "") - <time datetime="2004-10-16 20:09:11">Oct 6, 2004</time>
 
 There will always be war because there will always be people involved. That statement just proves he is not all wise and was directed to a different historical moment.
 <hr />

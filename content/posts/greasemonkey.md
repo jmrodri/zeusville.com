@@ -72,8 +72,7 @@ for (var i = 0; i < elements.length; i++) {
 ```
 ---
 ### Comments:
-####
-[Rick]( "rickvh@sportscommish.net") - <time datetime="2007-12-17 07:42:25">Dec 1, 2007</time>
+#### [Rick]( "rickvh@sportscommish.net") - <time datetime="2007-12-17 07:42:25">Dec 1, 2007</time>
 
 Try Chickenfoot for Firefox and firebug too.
 <hr />

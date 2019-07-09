@@ -12,8 +12,7 @@ I have a [Canon](http://www.canonusa.com) S750 inkjet printer connected to RHEL 
 Yes I am procrastinating, I'm supposed to be doing my [taxes](http://zeusville.wordpress.com/2007/03/18/procrastination/).
 ---
 ### Comments:
-####
-[fonz]( "fonz@gmx.at") - <time datetime="2007-03-19 03:43:31">Mar 1, 2007</time>
+#### [fonz]( "fonz@gmx.at") - <time datetime="2007-03-19 03:43:31">Mar 1, 2007</time>
 
 try the free edition of turboprint! http://www.turboprint.info/
 <hr />

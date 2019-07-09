@@ -38,8 +38,7 @@ public class Foo
 But I believe that the best way to go is let the developer choose their format of choice. If a consistent look is required then use an automated tool to cleanup the code during build time.
 ---
 ### Comments:
-####
-[Jan Kruger]( "tiaank@mandleve.com") - <time datetime="2003-10-02 14:21:34">Oct 4, 2003</time>
+#### [Jan Kruger]( "tiaank@mandleve.com") - <time datetime="2003-10-02 14:21:34">Oct 4, 2003</time>
 
 I am in support of the first option, as putting the { on the first line saves overall whitespace, which can sometimes make a file with many small methods very overwhelming.
 <hr />

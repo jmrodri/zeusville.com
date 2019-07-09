@@ -12,8 +12,7 @@ As much as I like Linux, there are still some things I find annoying. The defaul
 And why isn't there a Terminal icon in the [GNOME](http://www.gnome.org) Panel?
 ---
 ### Comments:
-####
-[T.]( "") - <time datetime="2003-11-08 04:06:08">Nov 6, 2003</time>
+#### [T.]( "") - <time datetime="2003-11-08 04:06:08">Nov 6, 2003</time>
 
 IMHO, Debian is a much better choice than Fedora for ppl who are migrating from RH.
 <hr />

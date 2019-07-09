@@ -13,8 +13,7 @@ type: post
 Marco has taken an interest in reading the comics from the newspaper. :)
 ---
 ### Comments:
-####
-[Devan](http://rm-rf.ca "dgoodwin@rm-rf.ca") - <time datetime="2009-09-14 08:20:33">Sep 1, 2009</time>
+#### [Devan](http://rm-rf.ca "dgoodwin@rm-rf.ca") - <time datetime="2009-09-14 08:20:33">Sep 1, 2009</time>
 
 Next it'll be the stock quotes!
 <hr />

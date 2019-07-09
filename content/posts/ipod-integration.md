@@ -14,8 +14,7 @@ I got a new addition to my Sony [receiver](http://zeusville.wordpress.com/2009/1
 If you have a video capable iPod you can watch the videos on the TV. It also lets you navigate the iPod music and video menus via the TV as well. So plug in your iPod, hit the OPR button on the cradle, and switch the receiver to DMPORT. Use the remote and the TV menu to select the music or videos you want. It's AWESOME!
 ---
 ### Comments:
-####
-[Luke Meyer]( "sosiouxme@gmail.com") - <time datetime="2010-01-09 17:09:09">Jan 6, 2010</time>
+#### [Luke Meyer]( "sosiouxme@gmail.com") - <time datetime="2010-01-09 17:09:09">Jan 6, 2010</time>
 
 is it just me? Looks a little like a frying pan...
 <hr />

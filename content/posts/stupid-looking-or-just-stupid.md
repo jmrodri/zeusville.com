@@ -24,8 +24,7 @@ I recently received the following pictures showing how stupid the Kerry's look. 
 ![](http://jroller.com/resources/jmrodri/bush-kerry-sportsmen.jpg)
 ---
 ### Comments:
-####
-[Rick]( "") - <time datetime="2004-10-08 13:14:47">Oct 5, 2004</time>
+#### [Rick]( "") - <time datetime="2004-10-08 13:14:47">Oct 5, 2004</time>
 
 jibjab.com has another funny video.
 <hr />

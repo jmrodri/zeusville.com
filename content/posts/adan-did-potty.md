@@ -12,8 +12,7 @@ Today Adán went pee in the toilet like a big boy! HURRAY! We didn't want to pus
 Congrats to Adán!
 ---
 ### Comments:
-####
-[Me]( "Me@email.com") - <time datetime="2004-08-17 17:43:15">Aug 2, 2004</time>
+#### [Me]( "Me@email.com") - <time datetime="2004-08-17 17:43:15">Aug 2, 2004</time>
 
 Of the 14 posts on your blog, only 2 have anything remotely to do with java. Why are you on javablogs if you want to post about potty training?
 <hr />

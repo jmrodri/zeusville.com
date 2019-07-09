@@ -14,28 +14,23 @@ Left work a little early to see Adan's tee ball game, it was 98 degrees outside 
 On the present side, I got a Maryland baseball t-shirt, a [Doctor Who Sonic Screwdriver](http://www.thinkgeek.com/geektoys/cubegoodies/8cff/), a set of [Office Monkeys](http://www.thinkgeek.com/geektoys/cubegoodies/a1a2/), and an [Acrobot](http://www.thinkgeek.com/geektoys/cubegoodies/6748/), and an Amazon gift card. It was an excellent day.
 ---
 ### Comments:
-####
-[Kulbir Saini](http://fedora.co.in "kulbirsaini25@yahoo.co.in") - <time datetime="2008-06-10 02:33:56">Jun 2, 2008</time>
+#### [Kulbir Saini](http://fedora.co.in "kulbirsaini25@yahoo.co.in") - <time datetime="2008-06-10 02:33:56">Jun 2, 2008</time>
 
 happy birthday dude :) have a blast :D
 <hr />
-####
-[Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-06-10 07:45:05">Jun 2, 2008</time>
+#### [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-06-10 07:45:05">Jun 2, 2008</time>
 
 Happy bday zeus! We'll all be expecting another years worth of wisdom out of you now!
 <hr />
-####
-[James Bowes](http://jbowes.dangerouslyinc.com "jbowes@dangerouslyinc.com") - <time datetime="2008-06-09 21:52:40">Jun 1, 2008</time>
+#### [James Bowes](http://jbowes.dangerouslyinc.com "jbowes@dangerouslyinc.com") - <time datetime="2008-06-09 21:52:40">Jun 1, 2008</time>
 
 Happy b-day dude
 <hr />
-####
-[Máirín](http://mihmo.livejournal.com "mairin@gmail.com") - <time datetime="2008-06-09 23:33:57">Jun 1, 2008</time>
+#### [Máirín](http://mihmo.livejournal.com "mairin@gmail.com") - <time datetime="2008-06-09 23:33:57">Jun 1, 2008</time>
 
 happy birf-day!
 <hr />
-####
-[John W.]( "wregglej@gmail.com") - <time datetime="2008-06-09 22:41:00">Jun 1, 2008</time>
+#### [John W.]( "wregglej@gmail.com") - <time datetime="2008-06-09 22:41:00">Jun 1, 2008</time>
 
 Happy Birthday!
 <hr />

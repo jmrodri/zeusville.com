@@ -12,8 +12,7 @@ I took the plunge tonight and upgraded my Linksys [WRT54G](http://en.wikipedia.o
 [![](/img/2010/04/tomato-wrt54g.png "tomato-wrt54g")](/img/2010/04/tomato-wrt54g.png)
 ---
 ### Comments:
-####
-[dgoodwin]( "herkel@fnordia.org") - <time datetime="2010-04-28 09:28:54">Apr 3, 2010</time>
+#### [dgoodwin]( "herkel@fnordia.org") - <time datetime="2010-04-28 09:28:54">Apr 3, 2010</time>
 
 My new router's out for delivery! $$$
 <hr />

@@ -14,8 +14,7 @@ My favorite dialog from [300](http://zeusville.wordpress.com/2007/08/30/sparta/)
 **Gorgo**: Because only Spartan women give birth to real men.
 ---
 ### Comments:
-####
-[manupmen](http:// "johnbryanstone@mail.com") - <time datetime="2008-08-12 18:25:58">Aug 2, 2008</time>
+#### [manupmen](http:// "johnbryanstone@mail.com") - <time datetime="2008-08-12 18:25:58">Aug 2, 2008</time>
 
 I love that quote too! Also, I love that the Spartan women were portrayed as admiring their husbands' masculinity. John Bryan Stone
 <hr />

@@ -20,13 +20,11 @@ I'm sure there are a lot more, but those are the ones that have been grating me 
 **UPDATE:**: metadata is another one.
 ---
 ### Comments:
-####
-[Jay Dobies](http://noopenblockers.com "jason.dobies@gmail.com") - <time datetime="2009-09-21 11:01:24">Sep 1, 2009</time>
+#### [Jay Dobies](http://noopenblockers.com "jason.dobies@gmail.com") - <time datetime="2009-09-21 11:01:24">Sep 1, 2009</time>
 
 You forgot "cloud" :)
 <hr />
-####
-[Eric Colon]( "ericcolon@gmail.com") - <time datetime="2009-09-23 19:33:22">Sep 3, 2009</time>
+#### [Eric Colon]( "ericcolon@gmail.com") - <time datetime="2009-09-23 19:33:22">Sep 3, 2009</time>
 
 You also forgot "pragmatic".
 <hr />

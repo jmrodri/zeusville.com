@@ -20,38 +20,31 @@ Now here are the obligatory screenshots:
 \[caption id="attachment\_1148" align="alignleft" width="510" caption="IRC window showing #spacewalk"\]![spacewalk-chat-ircwindow2](/img/2009/08/spacewalk-chat-ircwindow21.png "spacewalk-chat-ircwindow2")\[/caption\]
 ---
 ### Comments:
-####
-[James Bowes](http://jbowes.wordpress.com "jbowes@repl.ca") - <time datetime="2009-08-20 07:47:17">Aug 4, 2009</time>
+#### [James Bowes](http://jbowes.wordpress.com "jbowes@repl.ca") - <time datetime="2009-08-20 07:47:17">Aug 4, 2009</time>
 
 Great idea, zeus! Nice and simple implementation, too.
 <hr />
-####
-[Devan](http://rm-rf.ca "dgoodwin@rm-rf.ca") - <time datetime="2009-08-20 07:55:04">Aug 4, 2009</time>
+#### [Devan](http://rm-rf.ca "dgoodwin@rm-rf.ca") - <time datetime="2009-08-20 07:55:04">Aug 4, 2009</time>
 
 All $$$. Good idea zeus!
 <hr />
-####
-[jesus m. rodriguez](http://zeusville.wordpress.com "jmrodri@gmail.com") - <time datetime="2009-08-20 09:26:28">Aug 4, 2009</time>
+#### [jesus m. rodriguez](http://zeusville.wordpress.com "jmrodri@gmail.com") - <time datetime="2009-08-20 09:26:28">Aug 4, 2009</time>
 
 No module needed. I simply added an href to http://webchat.freenode.net. Sometimes the best integration is a simple URL
 <hr />
-####
-[Vishal]( "vishalgaikwad@gmail.com") - <time datetime="2009-08-20 00:43:06">Aug 4, 2009</time>
+#### [Vishal]( "vishalgaikwad@gmail.com") - <time datetime="2009-08-20 00:43:06">Aug 4, 2009</time>
 
 Fantastic!! I like the idea !!
 <hr />
-####
-[mairin](http://mihmo.livejournal.com "mairin@linuxgrrl.com") - <time datetime="2009-08-20 00:41:05">Aug 4, 2009</time>
+#### [mairin](http://mihmo.livejournal.com "mairin@linuxgrrl.com") - <time datetime="2009-08-20 00:41:05">Aug 4, 2009</time>
 
 oh dude, we totally need tito wearing a little headset thing with a come-hither gaze instead of the stupid chat bubble lol how could i be so short-sighted
 <hr />
-####
-[mccun934]( "mmccune@gmail.com") - <time datetime="2009-08-19 22:33:06">Aug 3, 2009</time>
+#### [mccun934]( "mmccune@gmail.com") - <time datetime="2009-08-19 22:33:06">Aug 3, 2009</time>
 
 right on! what module did you use todo this?
 <hr />
-####
-[mpdehaan](http://michaeldehaan.net "michael.dehaan@gmail.com") - <time datetime="2009-08-19 22:12:36">Aug 3, 2009</time>
+#### [mpdehaan](http://michaeldehaan.net "michael.dehaan@gmail.com") - <time datetime="2009-08-19 22:12:36">Aug 3, 2009</time>
 
 Shiny! This goes to prove that, in Space, it's not true that no one can hear you scream out for technical support.
 <hr />

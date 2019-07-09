@@ -12,8 +12,7 @@ I had to relist the Trans Am after the [non-paying bidder fiasco](http://zeusvil
 [![Trans Am listing](/img/2008/05/transam_sold_2.png)](/img/2008/05/transam_sold_2.png)
 ---
 ### Comments:
-####
-[Iron Man weekend &laquo; zeusville](http://zeusville.wordpress.com/2008/05/03/iron-man-weekend/ "") - <time datetime="2008-05-03 21:56:20">May 6, 2008</time>
+#### [Iron Man weekend &laquo; zeusville](http://zeusville.wordpress.com/2008/05/03/iron-man-weekend/ "") - <time datetime="2008-05-03 21:56:20">May 6, 2008</time>
 
 \[...\] finally this evening, I drove the Trans Am to it’s new owner at \[...\]
 <hr />

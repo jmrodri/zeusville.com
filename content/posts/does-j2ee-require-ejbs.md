@@ -10,23 +10,19 @@ type: post
 I've stated before that our project needs to move towards J2EE technology. And sometimes I'm "corrected" that I mean J2SE since our project isn't going to use EJBs. Since when does a J2EE application _**require**_ EJBs? Can't a web application be a J2EE application by mearly having JSPs, Servlets, and following the MVC architecture?
 ---
 ### Comments:
-####
-[Matt Raible](http://raibledesigns.com "matt@raibledesigns.com") - <time datetime="2004-04-04 21:39:43">Apr 0, 2004</time>
+#### [Matt Raible](http://raibledesigns.com "matt@raibledesigns.com") - <time datetime="2004-04-04 21:39:43">Apr 0, 2004</time>
 
 There's really no reason to use EJBs if you use [Spring](http://www.springframework.org). Maybe if you really need distributed systems - but you could always use web services instead of RMI. To back that up, [this weekend](http://www.springframework.org/news.html#baseBeans), Rod showed us many benchmarks where Spring is faster than EJBs.
 <hr />
-####
-[Marco Campelo](http://www.jroller.com/page/mcampelo "") - <time datetime="2004-04-04 21:47:11">Apr 0, 2004</time>
+#### [Marco Campelo](http://www.jroller.com/page/mcampelo "") - <time datetime="2004-04-04 21:47:11">Apr 0, 2004</time>
 
 I'm still looking for a good reason to implements EJBs in my projects. The API is really complex, takes a lot of time to develop and I can achieve the same results using other solutions.
 <hr />
-####
-[Jesus M. Rodriguez](http://www.jroller/page/jmrodri "jmrodri@nc.rr.com") - <time datetime="2004-04-04 22:24:31">Apr 0, 2004</time>
+#### [Jesus M. Rodriguez](http://www.jroller/page/jmrodri "jmrodri@nc.rr.com") - <time datetime="2004-04-04 22:24:31">Apr 0, 2004</time>
 
 I agree, I see no point using EJBs. But when I say we're developing a J2EE application, would that imply that it uses EJBs? Would you consider Roller a J2EE application?
 <hr />
-####
-[Phillip Calçado](http://www.jroller.com/page/pcalcado "pcalcado@yahoo.com") - <time datetime="2004-04-04 22:33:06">Apr 0, 2004</time>
+#### [Phillip Calçado](http://www.jroller.com/page/pcalcado "pcalcado@yahoo.com") - <time datetime="2004-04-04 22:33:06">Apr 0, 2004</time>
 
 In fact, there is no reason for not calling this an J2EE project.
 
@@ -39,23 +35,19 @@ I see this many times...."Let's use J2EE" when people are trying to say the want
 
 I like EJB's idea, but I believe there's something wrong with the whole thing... by know, what I believe it'd worng is the use of RDBMS for everything...
 <hr />
-####
-[lowem](http://www.jroller.com/page/lowem "spam-me@mailinator.com") - <time datetime="2004-04-05 03:14:40">Apr 1, 2004</time>
+#### [lowem](http://www.jroller.com/page/lowem "spam-me@mailinator.com") - <time datetime="2004-04-05 03:14:40">Apr 1, 2004</time>
 
 The "J2EE=EJB" thing has been at best a misunderstanding, at worst? - deceptive marketing hype. Next time you unzip Tomcat from distribution and run its welcome page, you can tell yourself, "hey, this is a J2EE app" and dare anyone else to challenge you on it ... :)
 <hr />
-####
-[Jesus M. Rodriguez](http://www.jroller.com/page/jmrodri "jmrodri@nc.rr.com") - <time datetime="2004-04-05 11:40:52">Apr 1, 2004</time>
+#### [Jesus M. Rodriguez](http://www.jroller.com/page/jmrodri "jmrodri@nc.rr.com") - <time datetime="2004-04-05 11:40:52">Apr 1, 2004</time>
 
 Thanks folks. That's what I thought. A web application with Servlets & JSPs is still a J2EE application.
 <hr />
-####
-[Jason Carreira](http://jroller.net/page/jcarreira "jason@zenfrog.com") - <time datetime="2004-04-05 12:30:39">Apr 1, 2004</time>
+#### [Jason Carreira](http://jroller.net/page/jcarreira "jason@zenfrog.com") - <time datetime="2004-04-05 12:30:39">Apr 1, 2004</time>
 
 Unfortunately, there is something to the statement that it's not J2EE without EJB. An application from an ISV can't be certified as a J2EE application if it only uses Servlets and not EJB. Just ask the guys at Atlassian.
 <hr />
-####
-[Dan Hinojosa](http://www.evolutionnext.com "dhinojosa@evolutionnext.com") - <time datetime="2004-04-05 13:12:28">Apr 1, 2004</time>
+#### [Dan Hinojosa](http://www.evolutionnext.com "dhinojosa@evolutionnext.com") - <time datetime="2004-04-05 13:12:28">Apr 1, 2004</time>
 
 Well, hell, I am going to disagree with everyone here. :)
 
@@ -71,8 +63,7 @@ Oralé,
 
 [Dan Hinojosa](http://www.evolutionnext.com)
 <hr />
-####
-[Lee](http://www.lwalton.co.uk/ "") - <time datetime="2004-04-06 16:03:50">Apr 2, 2004</time>
+#### [Lee](http://www.lwalton.co.uk/ "") - <time datetime="2004-04-06 16:03:50">Apr 2, 2004</time>
 
 Taken this argument to it's logical conclusion would imply that unless you are using all of the features that are offered by J2EE, then you're not writing a J2EE application.
 

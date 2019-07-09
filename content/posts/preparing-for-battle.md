@@ -14,8 +14,7 @@ Originally uploaded by [jmrodri](http://www.flickr.com/people/jmrodri/).
 Marco takes on his defensive stance.
 ---
 ### Comments:
-####
-[Jason](http://glutt.com "jlc@glutt.com") - <time datetime="2007-05-18 02:36:20">May 5, 2007</time>
+#### [Jason](http://glutt.com "jlc@glutt.com") - <time datetime="2007-05-18 02:36:20">May 5, 2007</time>
 
 He looks serious ;-)
 <hr />
