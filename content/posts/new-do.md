@@ -16,7 +16,7 @@ Originally uploaded by [jmrodri](http://www.flickr.com/people/jmrodri/).
 We needed to make a beard for Adan to be Abraham Lincoln. Before I cut up this wig, I figured I'd put it on :) After much cutting though, we ended up going with a construction paper beard.
 ---
 ### Comments:
-#### 
+####
 [pontiac gto](http://www.1970pontiacgto.info "") - <time datetime="2007-06-29 08:29:43">Jun 5, 2007</time>
 
 **pontiac gto** Hi. Thanks for the good read.

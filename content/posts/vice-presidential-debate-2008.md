@@ -16,11 +16,11 @@ Now let's look at what she said, or didn't say:
 **Palin**:
 
 > You know, I think a good barometer here, as we try to figure out has this been a good time or a bad time in America's economy, is go to a kid's soccer game on Saturday, and turn to any parent there on the sideline and ask them, "How are you feeling about the economy?"
-> 
+>
 > And I'll bet you, you're going to hear some fear in that parent's voice, fear regarding the few investments that some of us have in the stock market. Did we just take a major hit with those investments?
-> 
+>
 > Fear about, how are we going to afford to send our kids to college? A fear, as small-business owners, perhaps, how we're going to borrow any money to increase inventory or hire more people.
-> 
+>
 > The barometer there, I think, is going to be resounding that our economy is hurting and the federal government has not provided the sound oversight that we need and that we deserve, and we need reform to that end.
 
 And precisely **HOW** do you plan on fixing that economy? And as Biden said:
@@ -36,9 +36,9 @@ But McCain has always said he knows a lot less about economics than military aff
 Palin again comments about lenders and corruption:
 
 > Darn right it was the predator lenders, who tried to talk Americans into thinking that it was smart to buy a $300,000 house if we could only afford a $100,000 house. There was deception there, and there was greed and there is corruption on Wall Street. And we need to stop that.
-> 
+>
 > Again, John McCain and I, that commitment that we have made, and we're going to follow through on that, getting rid of that corruption.
-> 
+>
 > One thing that Americans do at this time, also, though, is let's commit ourselves just every day American people, Joe Six Pack, hockey moms across the nation, I think we need to band together and say never again. Never will we be exploited and taken advantage of again by those who are managing our money and loaning us these dollars. We need to make sure that we demand from the federal government strict oversight of those entities in charge of our investments and our savings and we need also to not get ourselves in debt. Let's do what our parents told us before we probably even got that first credit card. Don't live outside of our means. We need to make sure that as individuals we're taking personal responsibility through all of this. It's not the American peoples fault that the economy is hurting like it is, but we have an opportunity to learn a heck of a lot of good lessons through this and say never again will we be taken advantage of.
 
 And HOW are you doing to do that? [Obama/Biden](http://www.barackobama.com/index.php) will do it with regulation.
@@ -70,7 +70,7 @@ See [factcheck.org](http://www.factcheck.org/mccains_5000_promise.html):
 When Palin was asked about taking anything off of the plate because of the economic issue, we see that she hasn't been doing this political stuff for very long:
 
 > There is not. And how long have I been at this, like five weeks? So there hasn't been a whole lot that I've promised, except to do what is right for the American people, put government back on the side of the American people, stop the greed and corruption on Wall Street.
-> 
+>
 > And the rescue plan has got to include that massive oversight that Americans are expecting and deserving. And I don't believe that John McCain has made any promise that he would not be able to keep, either.
 
 **FIVE** weeks? Great that's precisely who I want to be Vice-President. Oh wait, did you see what else she said? Look again:
@@ -82,9 +82,9 @@ Is that REGULATION? I thought she was against government sponsored regulation?
 When Biden charges the McCain camp about their bankruptcy policy:
 
 > Number two, with regard to bankruptcy now, Gwen, what we should be doing now -- and Barack Obama and I support it -- we should be allowing bankruptcy courts to be able to re-adjust not just the interest rate you're paying on your mortgage to be able to stay in your home, but be able to adjust the principal that you owe, the principal that you owe.
-> 
+>
 > That would keep people in their homes, actually help banks by keeping it from going under. But John McCain, as I understand it -- I'm not sure of this, but I believe John McCain and the governor don't support that.
-> 
+>
 > There are ways to help people now. And there -- ways that we're offering are not being supported by -- by the Bush administration nor do I believe by John McCain and Gov. Palin.
 
 Palin completely dodges the question:
@@ -100,12 +100,12 @@ I really could go on for quite some time doing this, but I'm outta time. I urge 
 [debate transcript](http://www.cnn.com/2008/POLITICS/10/02/debate.transcript/)
 ---
 ### Comments:
-#### 
+####
 [Cliff]( "cliff@aaa-.com") - <time datetime="2008-10-03 17:20:51">Oct 5, 2008</time>
 
 is Alaska anywhere near the 'heartland of America' ?
 <hr />
-#### 
+####
 [Jesus M. Rodriguez](http://zeusville.wordpress.com "jmrodri@nc.rr.com") - <time datetime="2008-10-03 19:27:28">Oct 5, 2008</time>
 
 No, but it's close to Russia.

@@ -35,7 +35,7 @@ COMMAND LINE OPTION CHANGES
 In the process of refactoring I deemed a few of the commands as redundant and merged them into other commands.
 
 ```
-\[jmrodri@firebird ~\]$ sm-photo-tool 
+\[jmrodri@firebird ~\]$ sm-photo-tool
 
 Usage: sm-photo-tool \[options\] MODULENAME --help
 
@@ -60,7 +60,7 @@ Supported modules:
 ```
 \[jmrodri@firebird ~\]$ sm-photo-tool list --help
 
-Usage: sm-photo-tool list 
+Usage: sm-photo-tool list
 
 Lists the files in an album, or lists available galleries
 

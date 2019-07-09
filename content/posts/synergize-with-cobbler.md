@@ -14,76 +14,76 @@ Before you can integrate with [Cobbler](https://fedorahosted.org/cobbler/), you 
 Cobbler has the following object types:
 
 *   distro
-    
+
     *   represents the distribution (at a minimum the kernel and initrd locations)
-    
+
 
 *   profile
-    
+
     *   represents the kickstart description of what you want a machine to look like
-    
+
 
 *   system
-    
+
     *   represents the actual system
-    
+
 
 *   repo
-    
+
     *   package repository for mirroring (optional)
-    
+
 
 *   image
-    
+
     *   virtual guest image
-    
+
 
 The [API](http://bit.ly/82ANpr) that [Cobbler](https://fedorahosted.org/cobbler/wiki/DeveloperDocs#API) exposes is actually very simple. Most of the objects have a set of operations find, get, remove, copy, etc. The convention used by Cobbler's api is OPERATION\_OBJECTTYPE. For example, to get a distro you would call get\_distro(). To find a profile simply call find\_profile(). Below is a list of the common api methods exposed by Cobbler. The {object\*} represents the object type single or plural.
 
 *   get\_{object\*(s)}
-    
+
     *   returns the object with the given type and id
-    
+
 
 *   find\_{object\*}
-    
+
     *   returns the object with the given criteria
-    
+
 
 *   get\_{object\*}\_handle
-    
+
     *   returns a reference to be used by modify\_\* and save\_\*
-    
+
 
 *   remove\_{object\*}
-    
+
     *   removes the object with the given id
-    
+
 
 *   copy\_{object\*}
-    
+
     *   copies the object with the given id to the new name
-    
+
 
 *   rename\_{object\*}
-    
+
     *   renames the object to the new name
-    
+
 
 *   new\_{object\*}
-    
+
     *   creates a new object
-    
+
 
 *   modify\_{object\*}
-    
+
     *   changes the value of one of the object's attributes
-    
+
 
 *   save\_{object\*}
-    
+
     *   commit all of the object's changes
-    
+
 
 As you can see the API is quite simple and pretty straight forward. I've seen many APIs, and Cobbler has one of the cleanest ones I've seen in quite a long time.
 
@@ -172,7 +172,7 @@ There are basically 3 ways of setting up Cobbler for your application.
 
 Standalone is just that, you simply run Cobbler as a Service (CaaS) and use it to manage your DHCP, PXE infrastructure and deploying your systems. No other integration besides maybe a few scripts to fit into your processes. This is one of the popular use cases.
 
-Next, we have the Master setup. This means you might have an in house integration GUI or other application but you let Cobbler be the canonical location for the provisioning data. Your application simply passes through to Cobbler's APIs. The [Genome](https://fedorahosted.org/genome/) project uses Cobbler in this way. 
+Next, we have the Master setup. This means you might have an in house integration GUI or other application but you let Cobbler be the canonical location for the provisioning data. Your application simply passes through to Cobbler's APIs. The [Genome](https://fedorahosted.org/genome/) project uses Cobbler in this way.
 
 Lastly, there's what I call the Slave mode. This setup is when you have an application that does a lot more than what Cobbler was meant to do and have more data than Cobbler is meant to handle. Your application will be the canonical source of the data, and will sync it to Cobbler on a periodic basis. [Spacewalk](https://fedorahosted.org/spacewalk/wiki/) is an example of using the Slave method of integration.
 

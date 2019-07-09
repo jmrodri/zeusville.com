@@ -116,7 +116,7 @@ Now "Go" and construct some objects.
 ```
 ---
 ### Comments:
-#### 
+####
 [Links 11/8/2016: Linux 4.6.6, KDE Kirigami UI Framework | Techrights](http://techrights.org/2016/08/11/kde-kirigami-ui-framework/ "") - <time datetime="2016-08-11 07:14:49">Aug 4, 2016</time>
 
 \[…\] Constructors? Not in Go \[…\]

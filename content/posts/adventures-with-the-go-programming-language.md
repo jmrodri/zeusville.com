@@ -16,7 +16,7 @@ In order to learn it, I needed a real life scenario, I needed a project. Why not
 In the next post I'll talk about structs in Go.
 ---
 ### Comments:
-#### 
+####
 [Links 5/6/2016: SouthEast LinuxFest, Debian 8.5 Released | Techrights](http://techrights.org/2016/06/05/debian-8-5-released/ "") - <time datetime="2016-06-05 11:12:17">Jun 0, 2016</time>
 
 \[…\] Adventures with the Go programming language \[…\]

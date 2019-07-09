@@ -12,7 +12,7 @@ I must be getting old, since I don't find today's cartoons very amusing or enter
 In the early 1990's, a refreshing cartoon was on the air called [Animaniacs](http://en.wikipedia.org/wiki/Animaniacs). That was hilarious. My favorite was Wakko. I wonder what happened to them.
 ---
 ### Comments:
-#### 
+####
 []( "") - <time datetime="2004-11-24 12:45:00">Nov 3, 2004</time>
 
 What happened to them? It stopped being silly, then became a cartoon musical, and then everybody stopped watching. I know I stopped watching when every episode was a musical. :(

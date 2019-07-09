@@ -280,7 +280,7 @@ ActiveRecord::IrreversibleMigration: ActiveRecord::IrreversibleMigration
 
 Tasks: TOP => db:migrate:down
 
-Doing some googling, I found you can run `rails console` and run the migrations by hand, see [Executing Migration Commands From Rails Console](http://pmatsinopoulos.github.io/blog/2012/09/25/executing-migration-commands-from-rails-console/). 
+Doing some googling, I found you can run `rails console` and run the migrations by hand, see [Executing Migration Commands From Rails Console](http://pmatsinopoulos.github.io/blog/2012/09/25/executing-migration-commands-from-rails-console/).
 
 I then ran these commands in my rails console:
 

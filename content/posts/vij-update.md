@@ -40,7 +40,7 @@ Multiple matches found...
 
 q: Quit
 
-? 
+?
 
 I just want to see the util.go files in my code tree and ignore all of the ones in vendor. I changed the dafiles variable to have two more options. One is always ignore vendor from the normal use case, but also allow the user to pass in a string to filter on.
 
@@ -49,7 +49,7 @@ I just want to see the util.go files in my code tree and ignore all of the ones 
 
         dafiles=$(find . -type f -name "$2" -not -path "\*/vendor/\*")
 
-    else 
+    else
 
         dafiles=$(find . -type f -name "$2" | grep -v $3)
 
@@ -68,7 +68,7 @@ Multiple matches found...
 
 q: Quit
 
-? 
+?
 
 Let's say I want to find all files named User\*.java but not the ones in the test directory. You can simply supply "test" as the second argument to vij.
 
@@ -105,7 +105,7 @@ Multiple matches found...
 
 q: Quit
 
-? 
+?
 
 **AFTER**
 
@@ -132,7 +132,7 @@ Multiple matches found...
 
 q: Quit
 
-? 
+?
 
 Here's the full implementation of the updated vij:
 
@@ -195,7 +195,7 @@ Here's the full implementation of the updated vij:
 
            echo "q: Quit"
 
-           echo 
+           echo
 
            read -p "? " ans
 

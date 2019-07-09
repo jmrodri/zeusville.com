@@ -14,7 +14,7 @@ type: post
 December 21, 1996 - October 31, 2011
 ---
 ### Comments:
-#### 
+####
 [Amin Maula]( "amaula@gmail.com") - <time datetime="2011-10-31 15:19:48">Oct 1, 2011</time>
 
 Sorry about your loss! :(

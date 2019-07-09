@@ -7,7 +7,7 @@ categories: [Linux]
 type: post
 ---
 
-As I stated earlier, I like to troll some of the gnome websites looking for new icons & themes.  
+As I stated earlier, I like to troll some of the gnome websites looking for new icons & themes.
 Here's a thumbnail of my current desktop (click to enlarge): [![](http://jroller.com/resources/jmrodri/20041106_desktop_preview.png)](http://zeusville.homeip.net/20041106_desktop.png)
 
 ![](http://jroller.com/resources/jmrodri/gimp_menu.png)

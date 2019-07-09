@@ -7,5 +7,5 @@ categories: [Personal]
 type: post
 ---
 
-I'm always one to learn more about new languages :)  
+I'm always one to learn more about new languages :)
 [vaffanculo](http://www.sonic.net/maledicta/vaffanculo.html)

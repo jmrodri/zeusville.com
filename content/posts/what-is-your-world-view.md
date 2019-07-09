@@ -7,7 +7,7 @@ categories: [Personal]
 type: post
 ---
 
-![](http://images.quizfarm.com/1113108756romanticism.JPG)  
+![](http://images.quizfarm.com/1113108756romanticism.JPG)
 **Romanticist**.
 
 You scored as Romanticism encourages society to look backwards to find our solutions. Your rationale is that things were much better a few hundred years ago so we should thus look back to those times and replace them in our modern society. You believe in a simple life and that the complexities of the modern world have turned it upside down.
@@ -44,6 +44,6 @@ Materialist
 
 25%
 
-  
-[What is Your World View? (updated)](http://quizfarm.com/test.php?q_id=23320)  
+
+[What is Your World View? (updated)](http://quizfarm.com/test.php?q_id=23320)
 created with [QuizFarm.com](http://quizfarm.com)

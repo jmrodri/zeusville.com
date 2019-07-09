@@ -16,7 +16,7 @@ Here's what I have so far using some of the icons I converted, and inheriting my
 Does anyone know where to find high quality Gnome icon themes?
 ---
 ### Comments:
-#### 
+####
 [jomustaj]( "") - <time datetime="2003-12-17 05:40:41">Dec 3, 2003</time>
 
 http://art.gnome.org/

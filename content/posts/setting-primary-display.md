@@ -83,7 +83,7 @@ When you run the script this is what you see:
 ```
 
 
-$ bin/prim 
+$ bin/prim
 
 Multiple matches found...
 
@@ -93,7 +93,7 @@ Multiple matches found...
 
 q: Quit
 
-? 
+?
 
 
 ```

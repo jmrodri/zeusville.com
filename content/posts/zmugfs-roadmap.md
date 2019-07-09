@@ -12,13 +12,13 @@ I released [zmugfs 0.1](http://zeusville.wordpress.com/2007/10/31/zmugfs-01-rele
 Next up is to add the write mode capability to the file system which will actually allow you to upload your photos to [smugmug.com](http://www.smugmug.com). Here's a quick list:
 
 *   ability to create:
-    
+
     *   albums
-    
+
     *   categories
-    
+
     *   subcategories
-    
+
 
 *   upload photos
 
@@ -27,7 +27,7 @@ Next up is to add the write mode capability to the file system which will actual
 Stay tuned for more.
 ---
 ### Comments:
-#### 
+####
 [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2008-01-09 11:35:32">Jan 3, 2008</time>
 
 Welcome to Fedora People!

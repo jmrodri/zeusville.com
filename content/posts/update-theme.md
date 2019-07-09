@@ -14,7 +14,7 @@ Change the font to be "Bitstream Vera Sans" or sans-serif for those Windows user
 using the Sotto theme by [Rowell Sotto](http://sotto.org/).
 ---
 ### Comments:
-#### 
+####
 [Andy](http://jroller.com/page/anandn "anandn@swissinfo.org") - <time datetime="2005-01-10 01:01:29">Jan 1, 2005</time>
 
 Nice :-)

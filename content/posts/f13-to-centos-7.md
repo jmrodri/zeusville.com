@@ -103,7 +103,7 @@ Next up was to revive the [NFS](http://www.unixmen.com/setting-nfs-server-client
 
 *   refresher blog: [http://www.unixmen.com/setting-nfs-server-client-centos-7](http://www.unixmen.com/setting-nfs-server-client-centos-7)
 
-The server also acts as a [TimeMachine](http://en.wikipedia.org/wiki/Time_Machine_%28OS_X%29) drive to backup our MacBook Pro. The old server used netatalk 2.x so the configuration files changed here too. 
+The server also acts as a [TimeMachine](http://en.wikipedia.org/wiki/Time_Machine_%28OS_X%29) drive to backup our MacBook Pro. The old server used netatalk 2.x so the configuration files changed here too.
 
 *   config files moved from `/etc/atalk` to `/etc/netatalk`
 
@@ -117,7 +117,7 @@ I basically followed the following sources:
 
 [http://netatalk.sourceforge.net/3.1/htmldocs/configuration.html#idp139639181431264](http://netatalk.sourceforge.net/3.1/htmldocs/configuration.html#idp139639181431264)
 
-The last service was to setup [VirtualBox](https://www.virtualbox.org/) to run headless for my [Windows 7](http://en.wikipedia.org/wiki/Windows_7) guest. See [VirtualBox installation](http://wiki.centos.org/HowTos/Virtualization/VirtualBox) it wasn't that difficult. 
+The last service was to setup [VirtualBox](https://www.virtualbox.org/) to run headless for my [Windows 7](http://en.wikipedia.org/wiki/Windows_7) guest. See [VirtualBox installation](http://wiki.centos.org/HowTos/Virtualization/VirtualBox) it wasn't that difficult.
 
 That's was pretty much the only things I hit during the "upgrade". It took a couple days to get everything up and running. I did it one service at a time.
 

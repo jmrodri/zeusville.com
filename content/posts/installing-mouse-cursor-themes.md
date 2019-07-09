@@ -31,5 +31,5 @@ You can find cursor themes at the following addresses:
 *   [http://themes.freshmeat.net/browse/982/?topic\_id=982](http://themes.freshmeat.net/browse/982/?topic_id=982)
 *   [http://www.gnome-look.org/index.php?xcontentmode=36&PHPSESSID=29781ed96d065b2ae16800b8682d82d6](http://www.gnome-look.org/index.php?xcontentmode=36&PHPSESSID=29781ed96d065b2ae16800b8682d82d6)
 
-...  
+...
 Read [more](http://gnome-hacks.jodrell.net/hacks.html?id=30).

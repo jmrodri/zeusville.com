@@ -20,13 +20,13 @@ Once the installation was done, I switched to runlevel 3 and logged in as root. 
 
 # cat /prod/mdstat
 
-Personalities : \[raid1\] 
+Personalities : \[raid1\]
 
 md0 : active raid1 sdc1\[1\] sdb1\[0\]
 
       244195904 blocks \[2/2\] \[UU\]
 
-unused devices: 
+unused devices:
 
 # mdadm --examine --scan >> /etc/mdadm.conf
 
@@ -47,7 +47,7 @@ So far so good. But `df -h` didn't show my LVM partition from the RAID device.
 
   inactive          '/dev/vg1/lvhome' \[232.88 GiB\] inherit
 
-Ok simple need to change that. 
+Ok simple need to change that.
 
 ```
 \# vgchange -ay
@@ -101,7 +101,7 @@ tmpfs                1005M     0 1005M   0% /dev/shm
 
 Sweet back in business. Let's reboot and make sure everything's good.
 
-Everything was good upon reboot except when logging in as jmrodri it couldn't find my homedir. I checked the permissions and they were fine. What could it be? ponder. run series of commands. google. ponder some more. google. SELinux! The new /home had the wrong SELinux context. 
+Everything was good upon reboot except when logging in as jmrodri it couldn't find my homedir. I checked the permissions and they were fine. What could it be? ponder. run series of commands. google. ponder some more. google. SELinux! The new /home had the wrong SELinux context.
 
 ```
 \# restorecon -R /home

@@ -22,7 +22,7 @@ I was hoping it would autodetect my firewire card now that the [fix](http://www.
 
 /sbin/modprobe raw1394
 
-This resulted in 
+This resulted in
 
 ```
 

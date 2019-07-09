@@ -52,12 +52,12 @@ Adapters:
 [![IBM PS/2 77 adapters](http://farm1.static.flickr.com/133/343529648_39c4d2bf17.jpg)](http://www.flickr.com/photos/jmrodri/343529648/ "Photo Sharing")
 ---
 ### Comments:
-#### 
+####
 [Todd](http://www.dma.org/cgi-bin/cgiwrap/tw/toddblog "taw@pobox.com") - <time datetime="2007-01-22 21:32:51">Jan 1, 2007</time>
 
 I have a TRS-80 and an Apple IIe I really need to get rid of. -todd
 <hr />
-#### 
+####
 [Máirín]( "mairin@gmail.com") - <time datetime="2007-02-01 12:14:14">Feb 4, 2007</time>
 
 How you gonna do it? PS/2 it! :)

@@ -13,11 +13,11 @@ On Friday, a hose burst on the way up the parking lot. I didn't think it would m
 
 Here are some pics:
 
- [](http://familiarodriguez.smugmug.com/gallery/1482367/1/70919945)   
+ [](http://familiarodriguez.smugmug.com/gallery/1482367/1/70919945)
 Repaired hose
 
- [](http://familiarodriguez.smugmug.com/gallery/1482367/1/70919810)   
+ [](http://familiarodriguez.smugmug.com/gallery/1482367/1/70919810)
 Humpty Dumpty
 
- [](http://familiarodriguez.smugmug.com/gallery/1482367/1/70920034)   
+ [](http://familiarodriguez.smugmug.com/gallery/1482367/1/70920034)
 Humpty is back.

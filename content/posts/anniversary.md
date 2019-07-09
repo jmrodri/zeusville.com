@@ -12,7 +12,7 @@ Happy Anniversary to Rick & Judy!
 ![](http://jroller.com/resources/jmrodri/shamrock.jpg)
 ---
 ### Comments:
-#### 
+####
 [Rick]( "") - <time datetime="2004-03-18 06:39:36">Mar 4, 2004</time>
 
 Can you believe it's been 4 years already?

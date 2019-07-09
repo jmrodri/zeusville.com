@@ -16,7 +16,7 @@ After about 3 hours of trial and error, and several forum searches, I was able t
 I'm sure many of you computer geeks out there can relate to being tech support, network admin, hardware specialists for your extended family :)
 ---
 ### Comments:
-#### 
+####
 [networking saga &laquo; zeusville](http://zeusville.wordpress.com/2006/11/12/networking-saga/ "") - <time datetime="2006-11-12 20:54:32">Nov 0, 2006</time>
 
 \[...\] zeusville Random thoughts about work and life. « Family computer specialist \[...\]

@@ -42,11 +42,11 @@ At this point the old shocks will have been removed, the new ones have the mount
 6.  Insert the top mount onto the 2 mounting bolts.
 
 9.  Align the bottom to the lower bracket. You have 2 options here.
-    
+
     3.  Let the bottom go through the bracket to be compressed by hand later
-    
+
     6.  Keep the shock compressed while you insert the 17mm bolt to hold the bottom of the shock in place.[![IMG_0702](https://zeusville.files.wordpress.com/2015/11/img_0702.jpg?w=660)](https://zeusville.files.wordpress.com/2015/11/img_0702.jpg)
-    
+
 
 12.  Install the 12mm nuts on the top mounting bolts. Torque them down to 18 lb-ft.
 
@@ -63,7 +63,7 @@ Now I need to replace the front struts. Those are not as trivial since they invo
 {{< youtube AKtc-IEGS8Q >}}
 ---
 ### Comments:
-#### 
+####
 [onesheisty]( "changethings@gmail.com") - <time datetime="2019-05-07 14:24:51">May 2, 2019</time>
 
 Sorry to necro this old post. It came up in my search for details about the MS3 suspension. Nice write up by the way. So looks like the rears were not too had for you. I'm still on the fence with trying this myself. Which way did you end up going on the fronts?

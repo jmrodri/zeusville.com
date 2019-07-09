@@ -22,25 +22,25 @@ Sincerely,
 jesus rodriguez
 
 > January 19, 2012
-> 
+>
 > Dear Friend,
-> 
+>
 > Thank you for contacting me to express your concerns regarding the Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act of 2011, more commonly referred to as the PROTECT IP Act of 2011. I appreciate hearing your thoughts on this important issue.
-> 
+>
 > On May 12, 2011, the Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act of 2011 (S. 968) was introduced in the Senate and referred to the Committee on the Judiciary. This bill would allow the Attorney General, or an intellectual property rights owner who has been harmed by an Internet site dedicated to infringing activities (ISDIA), also known as a rogue website, to take action against that site. A site would be designated as an ISDIA if their sole purpose is to facilitate copyright infringement, or promote or sale of counterfeited American works.
-> 
+>
 > A recent study suggests that copyright piracy alone costs the American economy as much as $58 billion a year and countless jobs. I strongly support the goal of reducing the theft of intellectual property that is so important to North Carolina's economy, including our budding film industry, which is why I and 40 of my bipartisan cosponsors originally cosponsored this legislation last July.
-> 
+>
 > As with all proposed legislation, legitimate concerns have been raised about some of the specific provisions in this bill. I believe that supporters and opponents of the bill, all of whom agree, after all, on the need to combat the theft of American intellectual property, should work together to address those concerns. As you may know, the Senate is scheduled to begin consideration of this legislation later this month, and I intend to approach the debate and amendment process with an open mind. Through a full and robust debate, I believe we can improve the legislation, ultimately reaching an agreement that will protect intellectual property without limiting innovation and creativity or creating unintended consequences.
-> 
+>
 > Again, thank you for contacting my office. It is truly an honor to represent North Carolina in the United States Senate, and I hope you will not hesitate to contact me in the future should you have any further questions or concerns.
-> 
+>
 > Sincerely,
-> 
+>
 > Kay R. Hagan
 ---
 ### Comments:
-#### 
+####
 [Juan Rodriguez](http://k3rnel.net "nushio@k3rnel.net") - <time datetime="2012-01-19 12:34:24">Jan 4, 2012</time>
 
 I think there's a typo on the first line. You spelt "Horrible" wrong, other than that, that's a nice letter which I hope the Senator will read (After having hopefully thousands more from yesterdays's protest)

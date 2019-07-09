@@ -16,23 +16,23 @@ policy (source: [Bush' Energy Plan](http://www.georgewbush.com/Record/Energy.asp
 Increase Domestic Energy Supplies and Protect the Environment
 
 > Encourage safe and clean exploration at home. America must
-> 
+>
 > reduce its dependence on foreign sources of oil and natural
-> 
+>
 > gas by encouraging safe and clean exploration at home. Modern
-> 
+>
 > technology allows us to bring oil and gas to the surface cleanly
-> 
+>
 > and safely while protecting our environment and wildlife. Using
-> 
+>
 > the most advanced technologies, the environmentally responsible
-> 
+>
 > exploration and development of the Arctic National Wildlife
-> 
+>
 > Refuge (ANWR) could provide up to 1 million barrels per day of
-> 
+>
 > oil for the Nation?s energy security with less than 2,000 acres
-> 
+>
 > of impact.
 
 Instead of looking for alternatives, they want to keep
@@ -56,7 +56,7 @@ out of the ground in the Middle East as opposed to the
 layers of rock we must drill with here.
 
 > Increase the use of domestically produced ethanol and biodiesel
-> 
+>
 > as transportation fuel through a flexible credit trading system.
 
 Ethanol & biodiesel are corn based which he uses to get
@@ -68,17 +68,17 @@ though I would put more emphasis on this than trying to
 drill for more oil.
 
 > Increase domestic oil and gas production using royalty relief and
-> 
+>
 > innovative research and development.
 
 Again, still harping on "domestic oil".
 
 > Simplify the permit process and help ensure the construction of
-> 
+>
 > a natural gas pipeline from Alaska. When complete, the pipeline
-> 
+>
 > will provide 6 to 8 percent of the Nation?s daily consumption of
-> 
+>
 > natural gas for the growing U.S. economy.
 
 Natural Gas is good. But "simplify the permit process"?
@@ -90,9 +90,9 @@ to build a pipeline? I want cheap gas and clean natural
 gas as well, but not at the expense of the environment.
 
 > Increase production of fossil and renewable energy resources on
-> 
+>
 > Federal and Tribal lands, including measures to expedite
-> 
+>
 > permitting for new energy supply and siting of infrastructure.
 
 Again with the fossil fuels. The Federal lands being
@@ -106,7 +106,7 @@ more do we have to do to the Native Americans of this
 country?
 
 > Permanently authorize the Strategic Petroleum Reserve to protect
-> 
+>
 > American consumers from potentially severe oil supply disruptions.
 
 Now this is probably the ONLY thing that makes sense.
@@ -124,7 +124,7 @@ now, I could go on for days about the moronic messages coming from the
 current administration.
 ---
 ### Comments:
-#### 
+####
 [Rick Hightower]( "") - <time datetime="2004-11-02 18:06:08">Nov 2, 2004</time>
 
 Biodiesel is soy based not corn, and is almost the same price as diesel to produce (20 to 30% more). ANWR is a remote piece of ICE probably the least amount of flora and fauna on earth if you can't drill there, where can you drill?

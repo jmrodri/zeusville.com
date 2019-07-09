@@ -7,9 +7,9 @@ categories: [Linux]
 type: post
 ---
 
-[readyadmin](http://readyadmin.com/)  
-[Fedora NEWS](http://www.fedoranews.org)  
-[Fedorazine](http://www.fedorazine.com)  
-[The Unofficial Fedora FAQ](http://www.fedorafaq.org)  
-[Wide Open Magazine](http://www.redhatmagazine.com)  
+[readyadmin](http://readyadmin.com/)
+[Fedora NEWS](http://www.fedoranews.org)
+[Fedorazine](http://www.fedorazine.com)
+[The Unofficial Fedora FAQ](http://www.fedorafaq.org)
+[Wide Open Magazine](http://www.redhatmagazine.com)
 [Fedora Legacy](http://fedoralegacy.org)

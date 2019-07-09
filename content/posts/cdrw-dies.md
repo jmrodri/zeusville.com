@@ -17,11 +17,11 @@ May 30 15:54:00 firebird kernel: sym0:3:0: ABORT operation failed.
 May 30 15:54:00 firebird kernel: sym0:3:0: DEVICE RESET operation started.
 May 30 15:54:00 firebird kernel: sym0:3:0: DEVICE RESET operation complete.
 May 30 15:54:00 firebird kernel: sym0:3:control msgout: c.
-May 30 15:54:00 firebird kernel: sym0: TARGET 3 has been reset. 
+May 30 15:54:00 firebird kernel: sym0: TARGET 3 has been reset.
 
 ```Needless to say I was disappointed. Several [Google](http://www.google.com) searches for the above error pointed to two things:
 
-1) SCSI bus termination problems  
+1) SCSI bus termination problems
 2) Drive going bad
 
 Having figured out the termination many months ago, I ruled that out. But just to make 100% sure, I opened up the case and checked to ensure nothing came loose. Every thing checked out ok. The external zip drive was terminated as was the internal 50-pin cable (with active terminator). The 68 pin side was terminated at the card and the active terminator at the end of the cable. The termination was ok.
@@ -34,8 +34,8 @@ I'll continue my quest for a SCSI CDRW or just bite the bullet and get a kick @$
 
 Here are a few I'd consider buying:
 
-[Sony DRU-700A](http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start;sid=1pzi9sEOkurirIG0R2vo_Y4fIJXeyk1SvpI=?CategoryName=cpu_Sony_PCAccessories_CD%2fDVDBurn_DVDBurners&ProductSKU=DRU700A&Dept=cpu)  
-[Plextor PX-708A](http://www.plextor.com/english/products/708a.html)  
+[Sony DRU-700A](http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start;sid=1pzi9sEOkurirIG0R2vo_Y4fIJXeyk1SvpI=?CategoryName=cpu_Sony_PCAccessories_CD%2fDVDBurn_DVDBurners&ProductSKU=DRU700A&Dept=cpu)
+[Plextor PX-708A](http://www.plextor.com/english/products/708a.html)
 [Plextor PX-712A](http://www.plextor.com/english/products/712a.htm)
 
 If I had my P4 machine with SATA, I'd just ditch the SCSI drives and get all new SATA drives.

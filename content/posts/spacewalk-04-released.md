@@ -18,13 +18,13 @@ Today we released [Spacewalk](https://fedorahosted.org/spacewalk/wiki/WikiStart)
 *   [multi-arch enhancement](https://fedorahosted.org/spacewalk/wiki/MultiArchEnhancements) to better work with multi-arch packages on 64-bit systems.
 
 *   a new set of [APIs](https://fedorahosted.org/spacewalk/wiki/ApiAdditions), including the following namespaces:
-    
+
     *   channel.access.\*
-    
+
     *   channel.org.\*
-    
+
     *   package.\*
-    
+
 
 *   [SELinux](https://fedorahosted.org/spacewalk/wiki/Features/SELinux) support added
 
@@ -45,11 +45,11 @@ An outstanding **118**! total bugs fixed since 0.3 - [http://tinyurl.com/7oytud]
 **Known issues**
 
 *   in order to take full advantage of the multi-arch feature, you'll need:
-    
+
     *   updated client packages
-    
+
     *   recreate the stored profiles
-    
+
 
 *   bad news is that Spacewalk running on Fedora is not yet available. The good news is that we have started building packages to work with Fedora 10. :)
 
@@ -66,17 +66,17 @@ A special thanks goes out to Colin Coe for his continued contributions to the ap
 [https://hosted.fedoraproject.org/spacewalk/wiki/HowToInstall#Installation](https://hosted.fedoraproject.org/spacewalk/wiki/HowToInstall#Installation)
 ---
 ### Comments:
-#### 
+####
 [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2009-01-16 15:07:26">Jan 5, 2009</time>
 
 Woooooooo!
 <hr />
-#### 
+####
 [Pieter]( "pvanveen84@hotmail.com") - <time datetime="2009-01-17 09:51:57">Jan 6, 2009</time>
 
 Congratulations with the new release. It's great to see you guys are making solid progress. I hope PostgreSQL support is on track as that is probably the single most important feature for me. (basically not having to buy/run Oracle that is). Thanks and keep up the great work!
 <hr />
-#### 
+####
 [Michael DeHaan](http://michaeldehaan.net/ "michael.dehaan@gmail.com") - <time datetime="2009-01-18 21:03:06">Jan 0, 2009</time>
 
 I have this problem in my head that whenever I hear "spacewalk" I pronounce it like "sppppppaaaaaace ghoooooooost". Anyone else do this? (And not thinking of the new Cartoon Network stuff, I'm talking about old school USA Cartoon Express. Speaking of which, can we make a 'snorks' project? I can probably find an acronym)

@@ -12,11 +12,11 @@ type: post
 Apparently, FC2 was shipped with firewire turned off:
 
 > Fedora Core 2 ships with a kernel that's quite close to 2.6.6 and
-> 
+>
 > that, as such, has seriously broken Firewire modules, so they were
-> 
+>
 > disabled to avoid the problems described in section 0.1.
-> 
+>
 > [link](http://www.ic.unicamp.br/%7Eoliva/snapshots/FC2-firewire/0README)
 
 Here's what I did to get the iPod to work with FC2.
@@ -63,9 +63,9 @@ ieee1394.agent\[3185\]: ... no drivers for IEEE1394 product 0x/0x/0x
 Googling for the above error yielded an article stating the following (see resources below):
 
 >  I haven't really sorted out the problem but I have noticed that is the
-> 
+>
 > ipod is picked up and mounted if the ipod is plugged in when the machine
-> 
+>
 > is booted.
 
 Connect your iPod, reboot into Linux and kudzu should kick in asking if you want to configure new device called "iPo".  Click on configure.  Then in your /var/log/messages file should be the following (sdc might be sda if you don't have any other SCSI devices):
@@ -106,7 +106,7 @@ Most of the above was trial and error with many reboots in between.  [FC3](http:
 ```
 ---
 ### Comments:
-#### 
+####
 []( "earobinson111@hotmail.com") - <time datetime="2004-07-28 20:49:05">Jul 3, 2004</time>
 
 so ya i followed your info but the ipod folder is empty weird no but i did get the ipod to do the dont connect thing thanks ne more posts would be great

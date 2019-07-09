@@ -14,7 +14,7 @@ Flipping channels, I stopped by FOX News to see what trash they were talking abo
 Really Bill? So if the United States gets free health care and other safety nets we're doomed to burn? Ugh is this the trash you spread on your show? Seriously?
 ---
 ### Comments:
-#### 
+####
 [robinnorwood](http://gravatar.com/robinnorwood "robin.norwood@gmail.com") - <time datetime="2011-08-11 12:28:18">Aug 4, 2011</time>
 
 Yeah, I've heard the same narrative other places...the riots in London are because of liberal policies. Why? Just because.

@@ -17,7 +17,7 @@ Policy snippet
 
 When you purchase a song from the iTunes Music Store, you're allowed to download it once. To play purchased music on a different computer, just copy the song files and authorize that computer. You can authorize up to three computers to play your purchased music.
 
-Once you've found your purchased music files, use any of these methods to copy them to another computer.  
+Once you've found your purchased music files, use any of these methods to copy them to another computer.
 ...
 
 I'm waiting to hear back from Apple regarding this issue. I'm kinda hoping they'll let me get my last purchase back. I doubt it, but it's worth a try.
@@ -31,11 +31,11 @@ MAKE SURE YOU BACKUP YOUR iTunes MUSIC
 
 ### UPDATE
 
-  
+
 I was able to get Apple to make an exception to the rule. I was able to download my most recent purchase which was the one I lost anyway. I've now learned my lesson, burn the songs to music CDs and data CDs for backup.
 ---
 ### Comments:
-#### 
+####
 [Kevin]( "") - <time datetime="2004-04-07 21:11:10">Apr 3, 2004</time>
 
 You might also want to check out PlayFair (if you can find a copy from a mirror somewhere) which was mentioned on slashdot a couple days back. PlayFair can help you unlock your song files so you can avoid losing them.

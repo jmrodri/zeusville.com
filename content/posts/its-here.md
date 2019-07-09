@@ -18,7 +18,7 @@ eaker quit working which meant no speakerphone and no ringing. The charger conne
 *   _The Printer_ — In the movie, this appliance's unreliability finally prompts Peter, Samir and Michael to take a baseball bat to the device in an open field as "Still" by the [Geto Boys](http://en.wikipedia.org/wiki/Geto_Boys "Geto Boys") plays, in a scene visually referencing a violent episode in _[Casino](http://en.wikipedia.org/wiki/Casino_%28film%29 "Casino (film)")_. The term **_Office Space_\-style**, or "Going _Office Space_ on" is used to refer to this type of destruction.[\[2\]](http://en.wikipedia.org/wiki/Office_space#_note-1)
 ---
 ### Comments:
-#### 
+####
 [Eric Wittle]( "ericwjunk@Wittle.net") - <time datetime="2007-08-11 13:00:46">Aug 6, 2007</time>
 
 Should have bought an iphone, dude!

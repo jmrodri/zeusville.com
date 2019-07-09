@@ -18,7 +18,7 @@ type: post
 Click here for the full [gallery](http://www.autoblog.com/photos/camaro-convertible-concept/).
 ---
 ### Comments:
-#### 
+####
 [susan]( "susanqq@msn.com") - <time datetime="2008-08-30 00:42:10">Aug 6, 2008</time>
 
 hi gil !! I going to buy this car you waite and see !!

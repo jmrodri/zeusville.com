@@ -14,7 +14,7 @@ Thanks to all those that have served.
 ![](http://mypetjawa.mu.nu/archives/salute1.jpg)
 ---
 ### Comments:
-#### 
+####
 [dgoodwin]( "dgoodwin@rm-rf.ca") - <time datetime="2010-11-11 12:53:58">Nov 4, 2010</time>
 
 Respect.

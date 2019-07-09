@@ -84,7 +84,7 @@ Now I go downstairs to test again, noticeable difference:
 Now I'll play around with some settings to see if it makes any difference.
 ---
 ### Comments:
-#### 
+####
 [Mike McCune](http://suds.org "mmccune@gmail.com") - <time datetime="2011-12-11 14:35:06">Dec 0, 2011</time>
 
 found it handy to run it in an endless loop so you can repeat tests and not have to muck with the server: #!/bin/bash while : do nc -v -l 2222 > /dev/null done

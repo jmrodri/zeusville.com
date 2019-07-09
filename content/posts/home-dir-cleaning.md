@@ -16,7 +16,7 @@ Here are the oldest files from day one:
 ```
 
 
-\[jesusr@transam ~\]$ grep "Apr 19  2004" /tmp/2004files.tzt 
+\[jesusr@transam ~\]$ grep "Apr 19  2004" /tmp/2004files.tzt
 
 -rw-r-----. 1 jesusr jesusr 153 Apr 19  2004 ./.config/nautilus/first-time-flag
 

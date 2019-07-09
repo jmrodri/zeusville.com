@@ -7,7 +7,7 @@ categories: [Cars]
 type: post
 ---
 
-Here is the VIN breakdown for the 4th generation [F-body](http://en.wikipedia.org/wiki/GM_F_platform) cars.  
+Here is the VIN breakdown for the 4th generation [F-body](http://en.wikipedia.org/wiki/GM_F_platform) cars.
 1993 - PRESENT
 
 ```

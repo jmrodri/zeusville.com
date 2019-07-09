@@ -26,7 +26,7 @@ md1 : active raid1 sda1\[0\] sdb1\[1\]
 
       24418688 blocks \[2/1\] \[U\_\]
 
-      \[=>...................\]  recovery =  6.4% 
+      \[=>...................\]  recovery =  6.4%
 
 I let that rebuild overnight. The next morning I move the drive back to the new server for yet another attempt at copying over the data. This time I am armed with [more information](http://www.linuxjournal.com/article/8874?page=0,1).
 
@@ -68,14 +68,14 @@ I added the above to the bottom of /etc/mdadm.conf.
 ARRAY /dev/md2 UUID=061bae16:75f0a757:29aadef0:45edc6c0 devices=/dev/sde1,missing
 ```
 
-Then I restarted the array: 
+Then I restarted the array:
 
 ```
 \# mdadm -A -s
 
-# cat /proc/mdstat 
+# cat /proc/mdstat
 
-Personalities : \[raid6\] \[raid5\] \[raid4\] \[raid1\] 
+Personalities : \[raid6\] \[raid5\] \[raid4\] \[raid1\]
 
 md2 : active raid1 sde1\[1\]
 
@@ -87,7 +87,7 @@ md0 : active raid5 sdd1\[3\] sdb1\[0\] sdc1\[1\]
 
       bitmap: 2/8 pages \[8KB\], 65536KB chunk
 
-unused devices: 
+unused devices:
 
 Whew done. Wait no I'm not. I still need to mount the LVM volumes. Thankfully I didn't
 
@@ -142,7 +142,7 @@ Remember kids, if you don't know how to use mdadm **TREAD CAREFULLY!**
 ```
 ---
 ### Comments:
-#### 
+####
 [Gigi]( "sgireeshmail@gmail.com") - <time datetime="2010-06-09 22:10:40">Jun 3, 2010</time>
 
 Even if you had used the default VolGroup00, atleast on the latest fedora, vgdisplay will throw an error that "multiple vgs have the same name, so varying the one the one that was created on this machine". As long as the VGids are different, you can rename the one on the moved disk and import it. After my old laptop borked, I did this to copy the files from the old laptop's disk to the new one with similar VG names (I had used homevg as the name).

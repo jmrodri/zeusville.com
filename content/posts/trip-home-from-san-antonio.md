@@ -16,7 +16,7 @@ On a good note, I met a lot of interesting people in the airport this trip. Like
 I finally got home in bed at 5:10am Saturday morning which was also my 36th birthday.
 ---
 ### Comments:
-#### 
+####
 [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2007-06-11 07:38:41">Jun 1, 2007</time>
 
 Dear Jesus, Happy Birthday. Love Delta Airlines

@@ -13,14 +13,14 @@ Enough rambling, [Eclipse](http://www.eclipse.org/) is really a great IDE. The S
 
 Here are a few of my favorites:
 
-[Lomboz J2EE](http://eclipse-plugins.2y.net/eclipse/plugin_details.jsp?id=38)  
-[Omondo UML](http://eclipse-plugins.2y.net/eclipse/plugin_details.jsp?id=151)  
-[VI plugin](http://www.mjwall.com/node/view/29)  
+[Lomboz J2EE](http://eclipse-plugins.2y.net/eclipse/plugin_details.jsp?id=38)
+[Omondo UML](http://eclipse-plugins.2y.net/eclipse/plugin_details.jsp?id=151)
+[VI plugin](http://www.mjwall.com/node/view/29)
 
 There's also an effort to port the SWT to work with [OS/2](http://www-3.ibm.com/software/os/warp/) and get Eclipse running, check out [http://eclipseos2.netlabs.org/](http://eclipseos2.netlabs.org/).
 ---
 ### Comments:
-#### 
+####
 [Mike Wall](http://www.mjwall.com "mike@NOSPAMmjwall.com") - <time datetime="2003-10-07 11:54:44">Oct 2, 2003</time>
 
 Thanks for the link. However, I didn't make the vi plugin. Michael Bartl did. His project page is [http://satokar.com/viplugin/](http://satokar.com/viplugin/) and the sourceforge page is [http://sourceforge.net/projects/viplugin]( http://sourceforge.net/projects/viplugin).

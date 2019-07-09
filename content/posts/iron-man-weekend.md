@@ -14,7 +14,7 @@ This afternoon, Grandpop Frank & I took the boys to see [Iron Man](http://www.go
 Then finally this evening, I drove the Trans Am to it's [new owner](http://zeusville.wordpress.com/2008/05/03/trans-am-sold-officially-this-time/) at RDU.
 ---
 ### Comments:
-#### 
+####
 [Máirín]( "duffy@redhat.com") - <time datetime="2008-05-12 10:36:47">May 1, 2008</time>
 
 im so jealous i love strawberries!!!!!

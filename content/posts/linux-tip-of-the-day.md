@@ -29,5 +29,5 @@ Filesystem    Type    Size  Used Avail Use% Mounted on
 /dev/hdb1     ext3     37G  4.3G   31G  13% /home
 none         tmpfs    502M     0  502M   0% /dev/shm
 
-```  
+```
 I aliased df to df -Th in my .bashrc (alias df='df -Th'). Now when I type df, I get the nice output.

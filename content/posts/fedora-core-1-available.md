@@ -7,7 +7,7 @@ categories: [Linux]
 type: post
 ---
 
-A day after Red Hat announced that it was dropping support for Red Hat Linux, the latest version of Fedora is announced.  
+A day after Red Hat announced that it was dropping support for Red Hat Linux, the latest version of Fedora is announced.
 I've been trying for some time to get the ISOs but the mirrors are extremely bogged down.
 
 [Download](http://fedora.redhat.com/download/)

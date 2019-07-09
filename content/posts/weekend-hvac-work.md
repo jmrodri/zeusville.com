@@ -13,9 +13,9 @@ The conventional heat was easy all wires matched up. But the heat pump had a tan
 
 Here are some helpful links for folks if you have similar problems:
 
-[Trane wire](http://toad.net/~jsmeenen/tranewire.html)  
-[Wiring](http://toad.net/~jsmeenen/wiring.html)  
-[](http://www.handymanwire.com/ubbthreads/showflat.php?Cat=&Board=UBB7&Number=424052&page=68&view=collapsed&sb=9&o=&fpart=1)  
-[RTH400 wiring 1](http://www.hvacmechanic.com/forums/resservice/messages/19820.htm#0)  
-[RTH400 wiring 2](http://www.hvacmechanic.com/forums/hvacr/messages/13960.htm#0)  
+[Trane wire](http://toad.net/~jsmeenen/tranewire.html)
+[Wiring](http://toad.net/~jsmeenen/wiring.html)
+[](http://www.handymanwire.com/ubbthreads/showflat.php?Cat=&Board=UBB7&Number=424052&page=68&view=collapsed&sb=9&o=&fpart=1)
+[RTH400 wiring 1](http://www.hvacmechanic.com/forums/resservice/messages/19820.htm#0)
+[RTH400 wiring 2](http://www.hvacmechanic.com/forums/hvacr/messages/13960.htm#0)
 [RTH400 wiring 3](http://www.hvacmechanic.com/forums/hvacr/messages/13813.htm#0)

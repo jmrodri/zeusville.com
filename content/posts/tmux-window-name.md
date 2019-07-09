@@ -54,7 +54,7 @@ Here is my current prompt:
 ```
 
 
-PS1="\[\\u@\\h \\W\\$(git branch 2> /dev/null | grep -e '\\\* ' | sed 's/^..\\(.\*\\)/{\\1}/')\]\\$(settitle)\\$ " 
+PS1="\[\\u@\\h \\W\\$(git branch 2> /dev/null | grep -e '\\\* ' | sed 's/^..\\(.\*\\)/{\\1}/')\]\\$(settitle)\\$ "
 
 
 ```

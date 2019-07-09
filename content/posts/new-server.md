@@ -36,7 +36,7 @@ I figured it was time for an upgrade. I replaced motherboard, cpu, memory, and o
 
 *   [megabit](http://en.wikipedia.org/wiki/Megabit) NIC
 
-The new machine has [TERABYTE](http://en.wikipedia.org/wiki/Terabyte) drives :) 
+The new machine has [TERABYTE](http://en.wikipedia.org/wiki/Terabyte) drives :)
 
 *   [AMD Sempron 140 2.7GHz](http://www.newegg.com/Product/Product.aspx?Item=N82E16819103698)
 
@@ -69,7 +69,7 @@ tmpfs                 878M  128K  878M   1% /dev/shm
 
 Finally, the OS install experience. I wanted to use [CentOS](http://centos.org/) 5.5 for my new server. I start with the CD netinstall disk of CentOS, got to the point of writing to the partitions and the installer just died. I then went with the CentOS LiveCD and that didn't even boot for me.  Stumped, and not wanting to wait for CentOS to download stage2.img again (took 15 minutes), I decided to try the Fedora 13 netinstall CD. WIN!
 
-The Fedora 13 installation went flawlessly and extremely quick boot, and a very nice experience. Kudos to the Fedora team for an excellent installation experience. 
+The Fedora 13 installation went flawlessly and extremely quick boot, and a very nice experience. Kudos to the Fedora team for an excellent installation experience.
 
 ![new server](http://farm2.static.flickr.com/1269/4662655035_8d3f990186.jpg)
 
@@ -82,7 +82,7 @@ The Fedora 13 installation went flawlessly and extremely quick boot, and a very 
 ```
 ---
 ### Comments:
-#### 
+####
 [Philip Trickett](http://www.trickett.eu "phil@trickett.eu") - <time datetime="2010-06-03 11:04:03">Jun 4, 2010</time>
 
 Have you thought about using Amahi http://www.amahi.org/ I have been using it for a while, and it makes things like the DLNA serving and backup very easy, it even allows an easy install of Gallery for photos. HTH Phil

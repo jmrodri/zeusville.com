@@ -16,7 +16,7 @@ and
 > **Asshole Driven development** (ADD) - Any team where the biggest jerk makes all the big decisions is asshole driven development. All wisdom, logic or process goes out the window when Mr. Asshole is in the room, doing whatever idiotic, selfish thing he thinks is best. There may rules and processes, but Mr. A breaks them and people follow anyway.
 ---
 ### Comments:
-#### 
+####
 [Máirín](http://mihmo.livejournal.com/ "mairin@gmail.com") - <time datetime="2007-06-22 00:32:51">Jun 5, 2007</time>
 
 Scott Berkun is great :)

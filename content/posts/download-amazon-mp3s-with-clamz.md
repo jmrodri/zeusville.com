@@ -16,43 +16,43 @@ For a while there I kept an old Fedora release running in a guest just to downlo
 
 \[jmrodr@firebird Iron Maiden\]$ cd Piece\\ of\\ Mind/
 
-\[jmrodri@firebird Piece of Mind\]$ clamz ~/Download/AmazonMP3-12345...amz 
+\[jmrodri@firebird Piece of Mind\]$ clamz ~/Download/AmazonMP3-12345...amz
 
 Downloading "01 - Where Eagles Dare.mp3"
 
-Where Eagles Dare                 \[#################################\]  100% 
+Where Eagles Dare                 \[#################################\]  100%
 
 Downloading "02 - Revelations (Album Version).mp3"
 
-Revelations (Album Version)       \[#################################\]  100% 
+Revelations (Album Version)       \[#################################\]  100%
 
 Downloading "03 - Flight Of Icarus (Album Version).mp3"
 
-Flight Of Icarus (Album Version)  \[#################################\]  100% 
+Flight Of Icarus (Album Version)  \[#################################\]  100%
 
 Downloading "04 - Die With Your Boots On.mp3"
 
-Die With Your Boots On            \[#################################\]  100% 
+Die With Your Boots On            \[#################################\]  100%
 
 Downloading "05 - The Trooper (Album Version).mp3"
 
-The Trooper (Album Version)       \[#################################\]  100% 
+The Trooper (Album Version)       \[#################################\]  100%
 
 Downloading "06 - Still Life.mp3"
 
-Still Life                        \[#################################\]  100% 
+Still Life                        \[#################################\]  100%
 
 Downloading "07 - Quest For Fire.mp3"
 
-Quest For Fire                    \[#################################\]  100% 
+Quest For Fire                    \[#################################\]  100%
 
 Downloading "08 - Sun And Steel.mp3"
 
-Sun And Steel                     \[#################################\]  100% 
+Sun And Steel                     \[#################################\]  100%
 
 Downloading "09 - To Tame A Land.mp3"
 
-To Tame A Land                    \[#################################\]  100% 
+To Tame A Land                    \[#################################\]  100%
 
 1 of 1 AMZ files downloaded successfully.
 
@@ -62,7 +62,7 @@ It's awesome! Checkout [clamz](http://code.google.com/p/clamz/) if you're a Amaz
 ```
 ---
 ### Comments:
-#### 
+####
 [Keiran "Affix" Smith](http://affix.me "keiran@keiran-smith.net") - <time datetime="2011-01-13 15:24:00">Jan 4, 2011</time>
 
 I think it is worth noting that clamz is available in the fedora repos

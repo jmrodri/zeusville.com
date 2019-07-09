@@ -10,11 +10,11 @@ type: post
 I installed [VMware Workstation](http://www.vmware.com/products/ws/) 5.5.1 on [Fedora Core 5](http://fedora.redhat.com/) x86\_64 so that I could run [Windows XP](http://www.microsoft.com/windowsxp/default.mspx) inside Fedora. I have a few items that motivated me to do this:
 
 *   My kids like to play on noggin.com
-    
+
 *   I love [iTunes](http://www.apple.com/itunes/)
-    
+
 *   Quicken works better
-    
+
 
 My boys have started using the computer to play on noggin.com and playhouse disney.
 
@@ -39,7 +39,7 @@ Here's a screenshot:
 [![](http://familiarodriguez.smugmug.com/photos/90861584-S.jpg)](http://familiarodriguez.smugmug.com/photos/90861584-O.jpg)
 ---
 ### Comments:
-#### 
+####
 [Erik Weibust](http://erik.weibust.net "erik@weibust.net") - <time datetime="2006-08-28 09:19:40">Aug 1, 2006</time>
 
 I also use vmware for some windows stuff I gotta have while running Ubuntu. I tried and tried and was never able to get iTunes and my iPod working via vmware, though. As soon as I plug my iPod in Ubuntu notices it and "blocks" vmware from seeing it. Did you do anything specific to allow windows to see your ipod? Or, are you just using iTunes without ann ipod? Thanks... Erik

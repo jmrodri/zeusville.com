@@ -14,7 +14,7 @@ My latest TV addiction is [Heroes](http://www.nbc.com/Heroes/) . I'm hoping it d
 If I had special powers I would want those of [Claire](http://www.nbc.com/Heroes/bios/claire.shtml), indestructible. Then I'd pick the ability to bend time and space like [Hiro](http://www.nbc.com/Heroes/cast/hiro.shtml).
 ---
 ### Comments:
-#### 
+####
 [Bret]( "bret.mcmillan@gmail.com") - <time datetime="2006-11-27 22:42:37">Nov 1, 2006</time>
 
 Hm. Yeah, 1st I'd go w/ the healing, but the clear 2nd is Skylar. So far, damage resistant, and telekinesis. My morning commute would become far easier. Hiro's a distant 3rd.

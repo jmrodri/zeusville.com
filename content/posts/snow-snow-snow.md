@@ -10,7 +10,7 @@ type: post
 It's snowing here in Raleigh, NC. It's the first snow of 2004!
 ---
 ### Comments:
-#### 
+####
 [Rick Ross](http://www.javalobby.org "rick@javalobby.org") - <time datetime="2004-01-09 10:50:25">Jan 5, 2004</time>
 
 Yeah, we're getting a lot more than they said we would, aren't we! I'm amazed that Wake County didn't close the schools. -- Rick

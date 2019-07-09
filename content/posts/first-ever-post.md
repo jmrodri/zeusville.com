@@ -14,7 +14,7 @@ On Monday, Sept 29th, my son, Adan, celebrated his second birthday. It is truly 
 That's it for my first post. Stay tuned for more later.
 ---
 ### Comments:
-#### 
+####
 [portfolio](http://www.hanahvickers.ie "clifford_fehon@inbox.com") - <time datetime="2014-02-05 16:21:01">Feb 3, 2014</time>
 
 Hello mates, fastidious paragraph and fastidious urging commented here, I am actually enjoying by these.

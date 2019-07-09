@@ -34,7 +34,7 @@ If you are planning on getting a [TiVo](http://www.tivo.com) which despite my ex
 Check back next week to see if I start the process again.
 ---
 ### Comments:
-#### 
+####
 [dgoodwin]( "herkel@fnordia.org") - <time datetime="2010-07-16 18:33:00">Jul 5, 2010</time>
 
 That was absurd. Nice to hear it's sorted anyhow.

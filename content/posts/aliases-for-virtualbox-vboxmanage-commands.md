@@ -81,7 +81,7 @@ showvms ()
 
 }
 
-All of the bash functions use a common helper function `__davms`. I'm sure there are much nicer ways to alter the list but I stuck with sed and gawk. 
+All of the bash functions use a common helper function `__davms`. I'm sure there are much nicer ways to alter the list but I stuck with sed and gawk.
 
 ```
 
@@ -146,7 +146,7 @@ All of the bash functions use a common helper function `__davms`. I'm sure there
 
            echo "q: Quit"
 
-           echo 
+           echo
 
            read -p "? " ans
 
@@ -212,7 +212,7 @@ Multiple matches found...
 
 q: Quit
 
-? 
+?
 
 ```
 
@@ -225,7 +225,7 @@ Multiple matches found...
 
 q: Quit
 
-? 
+?
 
 
 ```

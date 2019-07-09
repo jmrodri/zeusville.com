@@ -12,12 +12,12 @@ This [Porsche Cayman](http://www.autoblog.com/2007/08/14/blackout-porsche-unveil
 [![](http://www.blogsmithmedia.com/www.autoblog.com/media/2007/08/caymanspde1_hi006450.jpg)](http://www.autoblog.com/photos/porsche-cayman-s-porsche-design-edition-1/)
 ---
 ### Comments:
-#### 
+####
 [Devan](http://dgoodwin.dangerouslyinc.com "dgoodwin@dangerouslyinc.com") - <time datetime="2007-08-15 07:34:32">Aug 3, 2007</time>
 
 Damn sexy. Is zeus an autoblog reader too?
 <hr />
-#### 
+####
 [Eric Norton](http://softwarebattle.wordpress.com "rotorblade777@gmail.com") - <time datetime="2007-08-15 13:38:09">Aug 3, 2007</time>
 
 Yeah, I really love the Cayman. Undoubtedly the sexiest Porsche of all time. Great picture too.

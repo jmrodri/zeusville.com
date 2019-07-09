@@ -32,7 +32,7 @@ error: Failed dependencies:
 ```
 ---
 ### Comments:
-#### 
+####
 [James Bowes](http://jbowes.dangerouslyinc.com "jbowes@gmail.com") - <time datetime="2007-07-19 19:52:54">Jul 4, 2007</time>
 
 Also try 'yum install foo-1.2.i386.rpm'. That way you can pull in any needed deps if possible.

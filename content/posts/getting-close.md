@@ -114,11 +114,11 @@ setattr not implemented
 From a readonly perspective, it is looking great. What's left before a release you ask? Just a few things.
 
 *   packaging
-    
+
     *   write spec file
-    
+
     *   figure out setup.py
-    
+
 
 *   design a logo
 
