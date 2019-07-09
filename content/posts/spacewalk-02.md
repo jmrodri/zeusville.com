@@ -9,7 +9,7 @@ type: post
 
 The [Spacewalk](http://spacewalk.redhat.com) team is proud to announce the release of Spacewalk 0.2. In a few hours, the repos will be accessible and you can install 0.2 and try it out.
 
-[![](http://zeusville.files.wordpress.com/2008/09/spacewalk-release.png "Spacewalk 0.2 Release")](http://spacewalk.redhat.com)
+[![](/img/2008/09/spacewalk-release.png "Spacewalk 0.2 Release")](http://spacewalk.redhat.com)
 
 **Features & Enhancements**
 

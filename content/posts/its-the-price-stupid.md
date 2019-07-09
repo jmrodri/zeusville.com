@@ -11,19 +11,19 @@ type: post
 
 Comcast has 105Mb for $90/month,
 
-[![comcast](http://zeusville.files.wordpress.com/2013/06/comcast.png?w=549)](http://zeusville.files.wordpress.com/2013/06/comcast.png)
+[![comcast](/img/2013/06/comcast.png?w=549)](/img/2013/06/comcast.png)
 
 Verizon has FiOS rated at 150Mb even 300Mb. They're 75Mb/35Mb option is $70/month.
 
-[![fios](http://zeusville.files.wordpress.com/2013/06/fios.png?w=549)](http://zeusville.files.wordpress.com/2013/06/fios.png)
+[![fios](/img/2013/06/fios.png?w=549)](/img/2013/06/fios.png)
 
 Cox Communications even has 100Mb for $100.
 
-[![coxcable](http://zeusville.files.wordpress.com/2013/06/coxcable.png?w=549)](http://zeusville.files.wordpress.com/2013/06/coxcable.png)
+[![coxcable](/img/2013/06/coxcable.png?w=549)](/img/2013/06/coxcable.png)
 
 Time Warner Cable is always the hold out. They offer 50Mb / 5Mb for $75. While the other companies are offering something about $1/Mb Time Warner Cable is at $1.50 / Mb. And the upload speed of 5Mb is abysmal especially compared with Verizon's FiOS.
 
-[![twcable](http://zeusville.files.wordpress.com/2013/06/twcable.png?w=549)](http://zeusville.files.wordpress.com/2013/06/twcable.png)
+[![twcable](/img/2013/06/twcable.png?w=549)](/img/2013/06/twcable.png)
 
 And Time Warner's CTO clearly doesn't think we want fast internet.
 

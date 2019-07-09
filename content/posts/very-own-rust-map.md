@@ -13,4 +13,4 @@ I've been playing a lot of [Call of Duty: Modern Warfare 2](http://modernwarefar
 
 I found it funny that a few miles north of my house we have our very own Rust map :)
 
-[![](http://zeusville.files.wordpress.com/2010/04/rust.png "rust")](http://zeusville.files.wordpress.com/2010/04/rust.png)
+[![](/img/2010/04/rust.png "rust")](/img/2010/04/rust.png)

@@ -11,6 +11,6 @@ We bought Iliana an [iPod Shuffle](http://www.apple.com/ipodshuffle/), like her 
 
 Today, Iliana said "it comes from Lowes Foods". Confused I said, "huh?" Iliana points at the apple logo on the back. Laughter ensues. So where do iPod's come from? [Lowes Foods](http://www.lowesfoods.com/).
 
-[![](http://zeusville.files.wordpress.com/2011/06/apple.png "apple")](http://zeusville.files.wordpress.com/2011/06/apple.png)
+[![](/img/2011/06/apple.png "apple")](/img/2011/06/apple.png)
 
-[![](http://zeusville.files.wordpress.com/2011/06/lowesfoods1.png "lowesfoods")](http://zeusville.files.wordpress.com/2011/06/lowesfoods1.png)
+[![](/img/2011/06/lowesfoods1.png "lowesfoods")](/img/2011/06/lowesfoods1.png)

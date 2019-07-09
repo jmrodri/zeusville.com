@@ -7,4 +7,4 @@ categories: [Technology]
 type: post
 ---
 
-I've joined the [twitter](http://twitter.com/jmrodri) crowd. Here's my [RSS](http://twitter.com/statuses/user_timeline/14351129.rss) feed.[![](http://zeusville.files.wordpress.com/2008/04/feeds_orange_48x48.png)](http://twitter.com/statuses/user_timeline/14351129.rss)
+I've joined the [twitter](http://twitter.com/jmrodri) crowd. Here's my [RSS](http://twitter.com/statuses/user_timeline/14351129.rss) feed.[![](/img/2008/04/feeds_orange_48x48.png)](http://twitter.com/statuses/user_timeline/14351129.rss)

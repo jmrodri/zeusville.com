@@ -19,11 +19,11 @@ Success. I got zmugfs to show image data in nautilus. It is a horribly inefficie
 
 I know EWW! :) But it worked!
 
-![img data](http://zeusville.files.wordpress.com/2007/10/zmugfs_imgdata.png)
+![img data](/img/2007/10/zmugfs_imgdata.png)
 
 That's cool and all, but I bet what would be really cool is to open the file up in [GIMP](http://www.gimp.org).
 
-![gimp](http://zeusville.files.wordpress.com/2007/10/zmugfs_gimp.png)
+![gimp](/img/2007/10/zmugfs_gimp.png)
 
 How's that for coolness! It's 12:18am EDT, I need to get to bed because I have to get up at 6:30am to get the kiddies ready for school. If all goes well, I should be able to get zmugfs 0.1 released by next week.
 ---

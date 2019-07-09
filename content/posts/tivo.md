@@ -7,7 +7,7 @@ categories: [Linux, Technology]
 type: post
 ---
 
-[![](http://zeusville.files.wordpress.com/2010/07/dvr_premiere_wremote_605x200.png "dvr_premiere_wremote_605x200")](http://zeusville.files.wordpress.com/2010/07/dvr_premiere_wremote_605x200.png)
+[![](/img/2010/07/dvr_premiere_wremote_605x200.png "dvr_premiere_wremote_605x200")](/img/2010/07/dvr_premiere_wremote_605x200.png)
 
 After almost two years since I first [complained](http://zeusville.wordpress.com/2008/09/21/time-warner-can-kiss-my/) about the Time Warner Cable DVR, I made the switch to a [TiVo Premiere](http://www.tivo.com/products/tivo-premiere/index.html) on my birthday on June 9th. The [TiVo](http://www.tivo.com) gives me 45 hours of HD content, access to [Netflix](http://www.netflix.com/HowItWorks) streaming without to use the Blu-ray disc in my [PS3](http://us.playstation.com/ps3/index.htm). TiVo has a much better search feature as well and access to [Amazon Video on Demand](http://www.amazon.com/video/).
 
@@ -29,7 +29,7 @@ It is now July 2nd, the tech shows up between 2 and 4 pm. He comes in tells me h
 
 After the 4th tech left, I called their 800 number and was put on hold. So I got fed up and went to the interwebs. I [tweeted](http://twitter.com/jmrodri/statuses/17595924030) to [@TWCableHelp](http://twitter.com/twcablehelp) that the 4th installer showed up without a CableCARD.
 
-[![](http://zeusville.files.wordpress.com/2010/07/tweet.png "tweet")](http://zeusville.files.wordpress.com/2010/07/tweet.png)
+[![](/img/2010/07/tweet.png "tweet")](/img/2010/07/tweet.png)
 
 Within about 20 minutes I got a reply from [@TWCableHelp](http://twitter.com/twcablehelp) that they have contacted the local NC office and getting someone on it. Saturday morning at 8:30am (July 3rd), I got a call from Time Warner tech asking if someone would be home in the afternoon. Then he called back at 11am to see if he could come over now since he was ahead of schedule. Josh, the fifth tech, showed up **WITH** a CableCARD! WOO HOO! Finally. Ten minutes later I had channels on my TiVo including my HD channels using the tuning adapter. Everything was working! Clearly Josh knew what he was doing.
 

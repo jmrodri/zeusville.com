@@ -9,7 +9,7 @@ type: post
 
 I've been running Fedora 13 beta on my laptop for quite a while. But I haven't been able to figure out what causes this scenario. It happens after a suspend/resume cycle. The battery popup clearly shows 7 hours + remaining, but the percentage and the icon are completely wrong.
 
-[![](http://zeusville.files.wordpress.com/2010/05/battery.png "battery")](http://zeusville.files.wordpress.com/2010/05/battery.png)
+[![](/img/2010/05/battery.png "battery")](/img/2010/05/battery.png)
 
 Running acpi yields more accurate information:
 

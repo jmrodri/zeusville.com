@@ -13,11 +13,11 @@ You can get access to the feature in the [git repository (master)](http://git.fe
 
 Now here are the obligatory screenshots:
 
-\[caption id="attachment\_1144" align="aligncenter" width="484" caption="chat menu and chat banner"\]![spacewalk-chat-about](http://zeusville.files.wordpress.com/2009/08/spacewalk-chat-about.png "spacewalk-chat-about")\[/caption\]
+\[caption id="attachment\_1144" align="aligncenter" width="484" caption="chat menu and chat banner"\]![spacewalk-chat-about](/img/2009/08/spacewalk-chat-about.png "spacewalk-chat-about")\[/caption\]
 
-\[caption id="attachment\_1145" align="alignleft" width="510" caption="Connect screen"\]![spacewalk-chat-ircwindow](http://zeusville.files.wordpress.com/2009/08/spacewalk-chat-ircwindow.png "spacewalk-chat-ircwindow")\[/caption\]
+\[caption id="attachment\_1145" align="alignleft" width="510" caption="Connect screen"\]![spacewalk-chat-ircwindow](/img/2009/08/spacewalk-chat-ircwindow.png "spacewalk-chat-ircwindow")\[/caption\]
 
-\[caption id="attachment\_1148" align="alignleft" width="510" caption="IRC window showing #spacewalk"\]![spacewalk-chat-ircwindow2](http://zeusville.files.wordpress.com/2009/08/spacewalk-chat-ircwindow21.png "spacewalk-chat-ircwindow2")\[/caption\]
+\[caption id="attachment\_1148" align="alignleft" width="510" caption="IRC window showing #spacewalk"\]![spacewalk-chat-ircwindow2](/img/2009/08/spacewalk-chat-ircwindow21.png "spacewalk-chat-ircwindow2")\[/caption\]
 ---
 ### Comments:
 ####

@@ -9,4 +9,4 @@ type: post
 
 I found this funny. The complaint is about Time Warner failing to install a TiVo with an ad for TiVo at the bottom.
 
-[![](http://zeusville.files.wordpress.com/2010/07/tivoad.png "tivoad")](http://zeusville.files.wordpress.com/2010/07/tivoad.png)
+[![](/img/2010/07/tivoad.png "tivoad")](/img/2010/07/tivoad.png)

@@ -13,7 +13,7 @@ Our [Canon S750](http://www.tomshardware.com/reviews/alternatives-hp,521.html) i
 
 We are replacing it with a [Xerox 6130/N](http://www.newegg.com/Product/Product.aspx?Item=N82E16828118493) color laser which I got from [newegg.com](http://promotions.newegg.com/Xerox/091508/index.html?cm_sp=HomepageLB-_-Xerox091508-_-http%3a%2f%2fpromotions.newegg.com%2fXerox%2f091508%2f620x130.jpg) plus a _**free**_ [Canon PowerShot SD1100](http://www.newegg.com/Product/Product.aspx?Item=N82E16830120251) IS Blue 8.0MP digital camera. The Xerox 6130/N while it doesn't explicitly list Linux support, supplies PPD files on the CDROM and works great with Fedora!
 
-\[caption id="attachment\_863" align="aligncenter" width="400" caption="Xerox 6130/N color laser"\][![Xerox 6130/N color laser](http://zeusville.files.wordpress.com/2008/09/xerox6130n.jpg "xerox6130n")](http://zeusville.files.wordpress.com/2008/09/xerox6130n.jpg)\[/caption\]
+\[caption id="attachment\_863" align="aligncenter" width="400" caption="Xerox 6130/N color laser"\][![Xerox 6130/N color laser](/img/2008/09/xerox6130n.jpg "xerox6130n")](/img/2008/09/xerox6130n.jpg)\[/caption\]
 
 \[caption id="" align="aligncenter" width="530" caption="Canon PowerShot SD1100 IS Blue"\]![Canon PowerShot SD1100 IS Blue](http://www.letsgodigital.org/images/artikelen/6/canon-powershot-sd1100is.jpg "Canon PowerShot SD1100 IS Blue")\[/caption\]
 

@@ -9,9 +9,9 @@ type: post
 
 Some how I got my CloudForms SystemEngine into a weird state. I unregistered a consumer while simultaneously removing it from the Katello UI. This caused a race condition because the UI got a 410 GONE error from Candlepin and it didn't remove it from its database. Clearly a bug but still that left me in a state where the Systems page would show the 410 ERROR and leave me with a spinning cursor.
 
-[![](http://zeusville.files.wordpress.com/2012/07/410error.png "410error")](http://zeusville.files.wordpress.com/2012/07/410error.png)
+[![](/img/2012/07/410error.png "410error")](/img/2012/07/410error.png)
 
-[![](http://zeusville.files.wordpress.com/2012/07/spinningcursor.png "spinningcursor")](http://zeusville.files.wordpress.com/2012/07/spinningcursor.png)
+[![](/img/2012/07/spinningcursor.png "spinningcursor")](/img/2012/07/spinningcursor.png)
 
 As this was simply a test setup I could've just reinstalled. But I wanted to know how this works. As you know Katello is made of many parts: [Pulp](http://pulpproject.org/), [Candlepin](http://candlepinproject.org/), and [Foreman](http://theforeman.org/).
 
@@ -126,7 +126,7 @@ Re-indexing Repositories
 
 Ok let's try one more time. Visit your systems page in Katello and now you should see that there is no longer a spinning cursor, but a blank list of systems. This is what I expected. **YAY!**
 
-[![](http://zeusville.files.wordpress.com/2012/07/cleared.png "cleared")](http://zeusville.files.wordpress.com/2012/07/cleared.png)
+[![](/img/2012/07/cleared.png "cleared")](/img/2012/07/cleared.png)
 
 
 ```

@@ -9,7 +9,7 @@ type: post
 
 Looks like we've been slashdotted:
 
-[![](http://zeusville.files.wordpress.com/2008/06/slashdot.png)](http://linux.slashdot.org/linux/08/06/20/1436215.shtml)
+[![](/img/2008/06/slashdot.png)](http://linux.slashdot.org/linux/08/06/20/1436215.shtml)
 ---
 ### Comments:
 ####

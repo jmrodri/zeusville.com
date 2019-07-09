@@ -33,7 +33,7 @@ Bugs fixed:
 
 Thanks got Lloyd Cha for contributing the fixes for this release.
 
-[![prompting for password](http://zeusville.files.wordpress.com/2009/12/sm-photo-tool-1-20.png "sm-photo-tool-1.20")](http://zeusville.files.wordpress.com/2009/12/sm-photo-tool-1-20.png)
+[![prompting for password](/img/2009/12/sm-photo-tool-1-20.png "sm-photo-tool-1.20")](/img/2009/12/sm-photo-tool-1-20.png)
 ---
 ### Comments:
 ####

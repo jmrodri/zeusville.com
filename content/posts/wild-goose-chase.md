@@ -11,11 +11,11 @@ I was looking up creating a new [subversion](http://subversion.tigris.org/) repo
 
 The FAQ states:
 
-[![faq](http://zeusville.files.wordpress.com/2007/03/fqa.png)](http://subversion.tigris.org/faq.html#repository)
+[![faq](/img/2007/03/fqa.png)](http://subversion.tigris.org/faq.html#repository)
 
 I go to the [README](http://svn.collab.net/repos/svn/trunk/README), and it sends me to the [SVN book](http://svnbook.red-bean.com/nightly/en/svn-book.html):
 
-![readme.png](http://zeusville.files.wordpress.com/2007/03/readme.png)
+![readme.png](/img/2007/03/readme.png)
 ---
 ### Comments:
 ####

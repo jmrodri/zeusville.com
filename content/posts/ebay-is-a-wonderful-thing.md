@@ -7,7 +7,7 @@ categories: [Cars]
 type: post
 ---
 
-[![trans am sells on ebay for $3,050](http://zeusville.files.wordpress.com/2008/04/ebaymotors.png?w=510)](http://zeusville.files.wordpress.com/2008/04/ebaymotors.png)
+[![trans am sells on ebay for $3,050](/img/2008/04/ebaymotors.png?w=510)](/img/2008/04/ebaymotors.png)
 ---
 ### Comments:
 ####

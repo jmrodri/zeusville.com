@@ -11,7 +11,7 @@ I was looking to see if my latest [cruisecontrol](http://cruisecontrol.sourcefor
 
 [http://jira.public.thoughtworks.org/browse/CC-515](http://jira.public.thoughtworks.org/browse/CC-515)
 
-[![spam](http://zeusville.files.wordpress.com/2007/04/spam1.png)](http://zeusville.files.wordpress.com/2007/04/spam1.png "spam")
+[![spam](/img/2007/04/spam1.png)](/img/2007/04/spam1.png "spam")
 ---
 ### Comments:
 ####

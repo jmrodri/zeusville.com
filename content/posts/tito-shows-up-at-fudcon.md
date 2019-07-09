@@ -7,4 +7,4 @@ categories: [Linux, Personal, python]
 type: post
 ---
 
-Had a good presentation on tito this morning at FUDCon:Blacksburg. Pretty good turnout. You can get the slides here: [tito slides](http://zeusville.files.wordpress.com/2012/01/tito.pdf)
+Had a good presentation on tito this morning at FUDCon:Blacksburg. Pretty good turnout. You can get the slides here: [tito slides](/img/2012/01/tito.pdf)

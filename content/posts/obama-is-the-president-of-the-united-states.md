@@ -11,4 +11,4 @@ This is amazing. I'm so happy that he won and I pray that he can move the countr
 
 I'm hoping he can pull out North Carolina which is extremely close race.
 
-[![Obama/Biden](http://zeusville.files.wordpress.com/2008/11/obama.png "Obama/Biden")](http://zeusville.files.wordpress.com/2008/11/obama.png)
+[![Obama/Biden](/img/2008/11/obama.png "Obama/Biden")](/img/2008/11/obama.png)

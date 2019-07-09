@@ -11,4 +11,4 @@ Finally DRM-free songs are available on [iTunes](http://www.apple.com/itunes/). 
 
 Yes I realize I could just buy the CD and avoid the whole issue, but I really like the instant gratification of clicking the BUY button and having the music NOW!
 
-[![iTunes Plus](http://zeusville.files.wordpress.com/2007/05/itunesplus_blog.png)](http://zeusville.files.wordpress.com/2007/05/itunesplus_blog.png "iTunes Plus")
+[![iTunes Plus](/img/2007/05/itunesplus_blog.png)](/img/2007/05/itunesplus_blog.png "iTunes Plus")

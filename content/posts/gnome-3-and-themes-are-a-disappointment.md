@@ -13,23 +13,23 @@ I recently upgraded from Fedora 16 to Fedora 18. Well not really an upgrade, mor
 
 Here's the [Gnome Tweak Tool](https://live.gnome.org/GnomeTweakTool). It looks pretty nice in a dark theme.
 
-[![theme-tweaktool](http://zeusville.files.wordpress.com/2013/02/theme-tweaktool.png?w=549)](http://zeusville.files.wordpress.com/2013/02/theme-tweaktool.png)
+[![theme-tweaktool](/img/2013/02/theme-tweaktool.png?w=549)](/img/2013/02/theme-tweaktool.png)
 
 As does the [Gnome Terminal](http://help.gnome.org/users/gnome-terminal/stable/), especially with the transparency on the window.
 
-[![dark-terminal](http://zeusville.files.wordpress.com/2013/02/dark-terminal.png?w=549)](http://zeusville.files.wordpress.com/2013/02/dark-terminal.png)
+[![dark-terminal](/img/2013/02/dark-terminal.png?w=549)](/img/2013/02/dark-terminal.png)
 
 But any other application is horrendous. Checkout [Google Chrome](https://www.google.com/intl/en/chrome/browser/) on the same machine.
 
-[![theme-chrome](http://zeusville.files.wordpress.com/2013/02/theme-chrome.png?w=549)](http://zeusville.files.wordpress.com/2013/02/theme-chrome.png)
+[![theme-chrome](/img/2013/02/theme-chrome.png?w=549)](/img/2013/02/theme-chrome.png)
 
 And [Thunderbird](http://www.mozilla.org/en-US/thunderbird/) is also a mess, I was able to get the message window be white on black, but there is no easy way to change the look and feel of [Thunderbird](http://www.mozilla.org/en-US/thunderbird/). All of the themes are 'cutesy' trying to add splash graphics and what not. See [Thunderbird themes](https://addons.mozilla.org/en-US/thunderbird/themes/) for examples.
 
-[![theme-thunderbird](http://zeusville.files.wordpress.com/2013/02/theme-thunderbird.png?w=549)](http://zeusville.files.wordpress.com/2013/02/theme-thunderbird.png)
+[![theme-thunderbird](/img/2013/02/theme-thunderbird.png?w=549)](/img/2013/02/theme-thunderbird.png)
 
 And [XChat](http://xchat.org/) is unusable at the moment with the white text on white background in the text entry box.
 
-[![xchat-white](http://zeusville.files.wordpress.com/2013/02/xchat-white.png?w=549)](http://zeusville.files.wordpress.com/2013/02/xchat-white.png)
+[![xchat-white](/img/2013/02/xchat-white.png?w=549)](/img/2013/02/xchat-white.png)
 
 I've gotten to the point where I gave up on Thunderbird and [XChat](http://xchat.org/) and started using [mutt](http://www.mutt.org/) and [irssi](http://www.irssi.org/) since the terminal theme works. But I have to say mutt is ok but I prefer Thunderbird's folders and notifications. [irssi](http://www.irssi.org/) is actually quite workable so if I can't get the themes fixed in [XChat](http://xchat.org/) I can live with [irssi](http://www.irssi.org/).
 

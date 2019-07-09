@@ -17,4 +17,4 @@ Today, we played hooky from [church,](http://www.stcathsiena.org/) I made the bo
 
 That's it, maybe I'll grill some burgers tonight for dinner as the weather is gorgeous.
 
-![weather](http://zeusville.files.wordpress.com/2007/04/weather.png)
+![weather](/img/2007/04/weather.png)

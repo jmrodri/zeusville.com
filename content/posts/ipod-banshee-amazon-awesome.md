@@ -11,7 +11,7 @@ I think I've found my iTunes replacement: [Amazon's MP3 store](http://www.amazon
 
 Hrm I smell a project :) Just another example of how [Fedora](http://fedoraproject.org/en/get-fedora) can make a great desktop.
 
-[![iPod + Banshee + Amazon](http://zeusville.files.wordpress.com/2008/04/screenshot.png?w=300)](http://zeusville.files.wordpress.com/2008/04/screenshot.png)
+[![iPod + Banshee + Amazon](/img/2008/04/screenshot.png?w=300)](/img/2008/04/screenshot.png)
 ---
 ### Comments:
 ####

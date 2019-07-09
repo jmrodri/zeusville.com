@@ -27,39 +27,39 @@ sudo mv .VirtualBox/HardDisks/fedora13.img /var/lib/libvirt/images/
 
 Once I had the images copied, I started `virt-manager` to create my guests. Click the _New_ button and follow along in the wizard.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr1.png "Virt-manager")](http://zeusville.files.wordpress.com/2010/10/virtmgr1.png)
+[![](/img/2010/10/virtmgr1.png "Virt-manager")](/img/2010/10/virtmgr1.png)
 
 First give your VM a name, and select _Import existing disk image_, press _Forward_.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr2.png "New VM step 1")](http://zeusville.files.wordpress.com/2010/10/virtmgr2.png)
+[![](/img/2010/10/virtmgr2.png "New VM step 1")](/img/2010/10/virtmgr2.png)
 
 Next, set the _OS type_ and _Version_ (not sure if this is required). Enter the path to the image or use the _Browse_ button.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr3.png "New VM step 2")](http://zeusville.files.wordpress.com/2010/10/virtmgr3.png)
+[![](/img/2010/10/virtmgr3.png "New VM step 2")](/img/2010/10/virtmgr3.png)
 
 Find the image in the list, select it, press _Choose Volume_.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr4.png "Locate storage")](http://zeusville.files.wordpress.com/2010/10/virtmgr4.png)
+[![](/img/2010/10/virtmgr4.png "Locate storage")](/img/2010/10/virtmgr4.png)
 
 Now you have a storage configured, click _Forward_ to finish creating your guest.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr5.png "New VM (selected image)")](http://zeusville.files.wordpress.com/2010/10/virtmgr5.png)
+[![](/img/2010/10/virtmgr5.png "New VM (selected image)")](/img/2010/10/virtmgr5.png)
 
 Set the desired _Memory (RAM)_ and _CPUs_, followed by clicking _Forward_ button.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr6.png "New VM (step 3)")](http://zeusville.files.wordpress.com/2010/10/virtmgr6.png)
+[![](/img/2010/10/virtmgr6.png "New VM (step 3)")](/img/2010/10/virtmgr6.png)
 
 Click _Finish_ to add it to the list of guests.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr7.png "New VM step 4")](http://zeusville.files.wordpress.com/2010/10/virtmgr7.png)
+[![](/img/2010/10/virtmgr7.png "New VM step 4")](/img/2010/10/virtmgr7.png)
 
 Select the guest from the list, press _Run_ button, and watch it start.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr8.png "VM created")](http://zeusville.files.wordpress.com/2010/10/virtmgr8.png)
+[![](/img/2010/10/virtmgr8.png "VM created")](/img/2010/10/virtmgr8.png)
 
 There you go a running KVM guest that started life as a VirtualBox guest.
 
-[![](http://zeusville.files.wordpress.com/2010/10/virtmgr9.png "Fedora 13 up and running in KVM")](http://zeusville.files.wordpress.com/2010/10/virtmgr9.png)
+[![](/img/2010/10/virtmgr9.png "Fedora 13 up and running in KVM")](/img/2010/10/virtmgr9.png)
 ---
 ### Comments:
 ####

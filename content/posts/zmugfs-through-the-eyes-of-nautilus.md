@@ -11,7 +11,7 @@ type: post
 
 Tonight I asked myself "I wonder what it looks like through nautilus?" So here is what it looks like. I've got a few inode issues (as you can tell by the ...) but still it's cool that I can actually see things :)
 
-![zmugfs via nautilus](http://zeusville.files.wordpress.com/2007/09/zmugfs_via_nautilus.png)
+![zmugfs via nautilus](/img/2007/09/zmugfs_via_nautilus.png)
 ---
 ### Comments:
 ####

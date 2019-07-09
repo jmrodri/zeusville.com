@@ -13,4 +13,4 @@ Tonights zmugfs update is permissions and time are now shown correctly. I defaul
 
 By the way, disregard the drew and foo entries. Those are debug strings which will be removed.
 
-![perms and time](http://zeusville.files.wordpress.com/2007/10/zmugfs_perm_time.png)
+![perms and time](/img/2007/10/zmugfs_perm_time.png)

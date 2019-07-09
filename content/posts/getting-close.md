@@ -7,9 +7,9 @@ categories: [zmugfs]
 type: post
 ---
 
-We're getting very close to releasing zmugfs 0.1, the read-only release. As you may recall on Monday I got zmugfs to [show imgdata](http://zeusville.wordpress.com/2007/10/08/zmugfs-shows-image-data/) in nautilus.[](http://zeusville.files.wordpress.com/2007/10/zmugfs_imgdata.png "img data")
+We're getting very close to releasing zmugfs 0.1, the read-only release. As you may recall on Monday I got zmugfs to [show imgdata](http://zeusville.wordpress.com/2007/10/08/zmugfs-shows-image-data/) in nautilus.[](/img/2007/10/zmugfs_imgdata.png "img data")
 
-[![img data](http://zeusville.files.wordpress.com/2007/10/zmugfs_imgdata.thumbnail.png)](http://zeusville.files.wordpress.com/2007/10/zmugfs_imgdata.png "img data")
+[![img data](/img/2007/10/zmugfs_imgdata.thumbnail.png)](/img/2007/10/zmugfs_imgdata.png "img data")
 
 But I could only get it to work if I used the thumbnail sized imgdata. In the read() method I was logging into smugmug, reading the thumbnail imgdata, logging out of smugmug, getting the imgdata via http GET, and returning. Well, this is crazy because read gets called multiple times with different offsets. So I ended up implementing the open() and release() methods. In the open, I get the imgdata (original size) via the smugmug api and store the imgdata in an image cache (an in memory dictionary). In the read method, it now respects the offset and size attributes by reading from the image cache. Then in the release method, I delete the entry from the image cache. I know not much of a cache. :) But it solved my problem. I'm putting the cache work off a bit, not sure how to approach that yet.
 

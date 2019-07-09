@@ -19,11 +19,11 @@ In the past, I could access the NetworkManager connection editor from the nm-app
 
 Fedora 15 I couldn't figure it out. I tried using the 'Network Settings' from the menu.
 
-[![](http://zeusville.files.wordpress.com/2011/08/menu.png "menu")](http://zeusville.files.wordpress.com/2011/08/menu.png)
+[![](/img/2011/08/menu.png "menu")](/img/2011/08/menu.png)
 
 But that would bring up the pretty useless network settings screen.
 
-[![](http://zeusville.files.wordpress.com/2011/08/network-settings.png "network-settings")](http://zeusville.files.wordpress.com/2011/08/network-settings.png)
+[![](/img/2011/08/network-settings.png "network-settings")](/img/2011/08/network-settings.png)
 
 There's no way to edit the connection information there. I wanted to remove some of the networks NetworkManager remembered. Thanks to Google, I was able to find a [post that mentioned to use](http://mail.gnome.org/archives/networkmanager-list/2009-January/msg00265.html) `nm-connection-editor`.
 
@@ -33,7 +33,7 @@ run `nm-connection-editor`. You'll have to run it from the terminal since there'
 
 no way to get at it from the GUI, not even from the Applications menu.
 
-[![](http://zeusville.files.wordpress.com/2011/08/nm-connection-editor.png "nm-connection-editor")](http://zeusville.files.wordpress.com/2011/08/nm-connection-editor.png)
+[![](/img/2011/08/nm-connection-editor.png "nm-connection-editor")](/img/2011/08/nm-connection-editor.png)
 
 Once there I was able to go to the Wireless tab, remove the stupid networks. Change the
 

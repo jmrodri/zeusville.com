@@ -21,4 +21,4 @@ I downloaded the F9 src.rpm from [koji](http://koji.fedoraproject.org/koji/build
 
 Thanks to Nicolas Cortot for submitting the patch, and to [Gabriel Burt](http://gburt.blogspot.com/) for applying the patch.
 
-[![banshee-ipod](http://zeusville.files.wordpress.com/2009/07/banshee-ipod.png "banshee-ipod")](http://zeusville.files.wordpress.com/2009/07/banshee-ipod.png)
+[![banshee-ipod](/img/2009/07/banshee-ipod.png "banshee-ipod")](/img/2009/07/banshee-ipod.png)

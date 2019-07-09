@@ -27,6 +27,6 @@ I thought the fact that it was a USB printer would be a problem. But Linux recog
 
 `Apr 2 19:58:09 luisa kernel: [128083.648000] sd 5:0:0:0: Attached scsi generic sg1 type 0`
 
-[![print dialog](http://zeusville.files.wordpress.com/2007/04/ubuntu_canonprinter.png)](http://zeusville.files.wordpress.com/2007/04/ubuntu_canonprinter.png "print dialog")
+[![print dialog](/img/2007/04/ubuntu_canonprinter.png)](/img/2007/04/ubuntu_canonprinter.png "print dialog")
 
 But when I went to select a driver, there wasn't one. I tried a few of the ones from the list but none would print anything out :( I then tried [TurboPrint](http://www.turboprint.info/) drivers but couldn't find one for the [ip6310D](http://www.turboprint.info/printers.html). I tried the 6210 driver, and it actually printed the test page ok. Though there's no way to see if it will use all of the capabilities of the printer without buying it. If I can get a decent photo print from the TurboPrint drivers, I might be able to stick with Linux and avoid the whole virus infestation that is Windoze. I'll keep everyone posted on my progress.

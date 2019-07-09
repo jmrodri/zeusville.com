@@ -43,6 +43,6 @@ For more information on Func setup see the wiki:
 
 Here's a screenshot of my overlord (top window) run /sbin/service status httpd and /sbin/service restart httpd on the minion (bottom two windows). The bottom most window shows the funcd log in DEBUG mode and the middle window is the httpd error\_log.
 
-[![Func test](http://zeusville.files.wordpress.com/2007/10/func_demo.png)](http://zeusville.files.wordpress.com/2007/10/func_demo.png "Func test")
+[![Func test](/img/2007/10/func_demo.png)](/img/2007/10/func_demo.png "Func test")
 
 That was great. Now I can setup my kickstart files to install func on all my machines so I can control them with func. The Func wiki covers how to [provision](https://hosted.fedoraproject.org/projects/func/wiki/IntegratingWithProvisioning) with [Cobbler](http://cobbler.et.redhat.com/).

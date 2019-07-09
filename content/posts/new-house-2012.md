@@ -15,29 +15,29 @@ We spent the next few weeks pouring over plan after plan. Ultimately we decided 
 
 \[caption id="" align="alignnone" width="500"\]![plan56fe-modified2](http://farm9.staticflickr.com/8013/7626857404_65084c5d1d.jpg) BEFORE\[/caption\]
 
-\[caption id="attachment\_1876" align="alignnone" width="549"\][![frontelevation](http://zeusville.files.wordpress.com/2012/12/frontelevation.png?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/frontelevation/) AFTER\[/caption\]
+\[caption id="attachment\_1876" align="alignnone" width="549"\][![frontelevation](/img/2012/12/frontelevation.png?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/frontelevation/) AFTER\[/caption\]
 
 Mid April we walked the lot to select which trees we wanted to keep, I wanted to keep them all but that wasn't realistic and ultimately we did need a yard for the family. One of my favorite are the 2 oak trees that ultimately flanked the front of house. In the next two pictures I'm standing in the middle of the lot. The first picture is looking from the back to the front of the house at the 2 oak trees. The second picture are the trees we left (seen with orange tape) plus the wooded lot that behind us.
 
 \[caption id="" align="alignnone" width="500"\]![IMG_2034](http://farm8.staticflickr.com/7134/7626944112_7e523170a5.jpg) Looking from the back yard to the front 2 oaks\[/caption\]
 
-\[caption id="attachment\_1897" align="alignnone" width="411"\][![7626949762_b7322711a3_k](http://zeusville.files.wordpress.com/2012/12/7626949762_b7322711a3_k.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7626949762_b7322711a3_k/) View of backyard from the front.\[/caption\]
+\[caption id="attachment\_1897" align="alignnone" width="411"\][![7626949762_b7322711a3_k](/img/2012/12/7626949762_b7322711a3_k.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7626949762_b7322711a3_k/) View of backyard from the front.\[/caption\]
 
 After they cleared the lot, next steps were to dig the foundation footers. They dug and poured the footers, then the truck that delivered the foundation materials had "JESUS CHRIST is LORD" on the side which was somewhat apropos. It was exciting to see the process progress.
 
-\[caption id="attachment\_1901" align="alignnone" width="549"\][![7137412999_bee7a7daf1_c](http://zeusville.files.wordpress.com/2012/12/7137412999_bee7a7daf1_c.jpg?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7137412999_bee7a7daf1_c/) Jesus Christ delivers our foundation materials\[/caption\]
+\[caption id="attachment\_1901" align="alignnone" width="549"\][![7137412999_bee7a7daf1_c](/img/2012/12/7137412999_bee7a7daf1_c.jpg?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7137412999_bee7a7daf1_c/) Jesus Christ delivers our foundation materials\[/caption\]
 
-\[caption id="attachment\_1906" align="alignnone" width="411"\][![Footers](http://zeusville.files.wordpress.com/2012/12/7161874576_62faf07fa0_c.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7161874576_62faf07fa0_c/) Footers\[/caption\]
+\[caption id="attachment\_1906" align="alignnone" width="411"\][![Footers](/img/2012/12/7161874576_62faf07fa0_c.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7161874576_62faf07fa0_c/) Footers\[/caption\]
 
-\[caption id="attachment\_1905" align="alignnone" width="411"\][![Triangle Brick: Oxford line](http://zeusville.files.wordpress.com/2012/12/7154045061_dc17ed6dfe_c.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7154045061_dc17ed6dfe_c/) Triangle Brick: Oxford line\[/caption\]
+\[caption id="attachment\_1905" align="alignnone" width="411"\][![Triangle Brick: Oxford line](/img/2012/12/7154045061_dc17ed6dfe_c.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7154045061_dc17ed6dfe_c/) Triangle Brick: Oxford line\[/caption\]
 
-\[caption id="attachment\_1909" align="alignnone" width="549"\][![7238235938_4fccbf3d8e_c](http://zeusville.files.wordpress.com/2012/12/7238235938_4fccbf3d8e_c.jpg?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7238235938_4fccbf3d8e_c/) Brick foundation\[/caption\]
+\[caption id="attachment\_1909" align="alignnone" width="549"\][![7238235938_4fccbf3d8e_c](/img/2012/12/7238235938_4fccbf3d8e_c.jpg?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7238235938_4fccbf3d8e_c/) Brick foundation\[/caption\]
 
 The framing began in late May, and they had it pretty much done by the first week of June. The goal was to get the roof on and the house dried in. It's amazing how fast framing crews can frame a house.I think this was one of the fun stages as you see the house start to come together.
 
 [![Front porch](http://farm8.staticflickr.com/7092/7279832842_3f4b8863df.jpg)](http://www.flickr.com/photos/jmrodri/7279832842/ "Front porch by jmrodri, on Flickr")
 
-\[caption id="attachment\_1910" align="alignnone" width="549"\][![7336184788_480060456f_c](http://zeusville.files.wordpress.com/2012/12/7336184788_480060456f_c.jpg?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7336184788_480060456f_c/) Last time we will see the sky from inside the house.\[/caption\]
+\[caption id="attachment\_1910" align="alignnone" width="549"\][![7336184788_480060456f_c](/img/2012/12/7336184788_480060456f_c.jpg?w=549)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/7336184788_480060456f_c/) Last time we will see the sky from inside the house.\[/caption\]
 
 [![IMAG0911](http://farm8.staticflickr.com/7236/7165882553_90705a7b23.jpg)](http://www.flickr.com/photos/jmrodri/7165882553/ "IMAG0911 by jmrodri, on Flickr")
 
@@ -49,7 +49,7 @@ Then one warm Tuesday night in July, I played contractor myself and installed th
 
 \[caption id="" align="alignnone" width="500"\][![Surround done (next stop porch)](http://farm9.staticflickr.com/8022/7547666118_f02e18cca7.jpg)](http://www.flickr.com/photos/jmrodri/7547666118/ "Surround done (next stop porch) by jmrodri, on Flickr") Running speaker wires\[/caption\]
 
-\[caption id="attachment\_1913" align="alignnone" width="247"\][![8187622811_bc1d8c8fd6_z](http://zeusville.files.wordpress.com/2012/12/8187622811_bc1d8c8fd6_z.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/8187622811_bc1d8c8fd6_z/) Finished speaker installation\[/caption\]
+\[caption id="attachment\_1913" align="alignnone" width="247"\][![8187622811_bc1d8c8fd6_z](/img/2012/12/8187622811_bc1d8c8fd6_z.jpg?w=411)](http://zeusville.wordpress.com/2013/01/05/new-house-2012/8187622811_bc1d8c8fd6_z/) Finished speaker installation\[/caption\]
 
 As work continues inside, the outside gets stone. But it is no less fun to walk through the house checking the progress.
 

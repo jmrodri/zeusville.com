@@ -31,7 +31,7 @@ yield fuse.Direntry(n.path.string('/').encode('ascii'))
 
 Not sure if that will be the final code, IMO fuse.Direntry should work with unicode strings. But none the less, the result is a magnificent readonly view using ls and ls -l.
 
-[![zmugfs shows ls](http://zeusville.files.wordpress.com/2007/09/zmugfs_ls.png)](http://zeusville.files.wordpress.com/2007/09/zmugfs_ls.png "zmugfs shows ls")
+[![zmugfs shows ls](/img/2007/09/zmugfs_ls.png)](/img/2007/09/zmugfs_ls.png "zmugfs shows ls")
 
 
 ```

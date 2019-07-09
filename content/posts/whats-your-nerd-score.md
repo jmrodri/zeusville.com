@@ -11,7 +11,7 @@ I wasn't as nerdy as I wanted to be. Oh well. Checkout the ["nerd test"](http://
 
 Here's my score:
 
-[![nerd_score.png](http://zeusville.files.wordpress.com/2007/03/nerd_score.png)](http://zeusville.files.wordpress.com/2007/03/nerd_score.png "nerd_score.png")
+[![nerd_score.png](/img/2007/03/nerd_score.png)](/img/2007/03/nerd_score.png "nerd_score.png")
 
 * * *
 

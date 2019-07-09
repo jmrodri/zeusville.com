@@ -11,7 +11,7 @@ I ordered Liz a new phone today. Her old Virgin Mobile phone was out dated and w
 
 What did she get? an LG env3 in Slate Blue, and it should be here tomorrow.
 
-[![lg-env3](http://zeusville.files.wordpress.com/2009/06/lg-env3.png "lg-env3")](http://estore.vzwshop.com/env3/)
+[![lg-env3](/img/2009/06/lg-env3.png "lg-env3")](http://estore.vzwshop.com/env3/)
 
 For comparison, here's the old phone:
 

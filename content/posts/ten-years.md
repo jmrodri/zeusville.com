@@ -13,7 +13,7 @@ Ten years ago today I joined Red Hat's Satellite team. It's been amazing to see 
 
 ![](http://candlepinproject.org/images/logo-frontpage.png)
 
-![](http://zeusville.files.wordpress.com/2012/04/linkedin.png?w=290)
+![](/img/2012/04/linkedin.png?w=290)
 ---
 ### Comments:
 ####

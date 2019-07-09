@@ -13,11 +13,11 @@ which prompted me to upgrade my [flickr](http://www.flickr.com/photos/jmrodri/) 
 
 [Wordpress.com](http://www.wordpress.com) offers the flickr widget but nothing for [smugmug](http://www.smugmug.com). I tried the plain RSS sidebar widget but I only get a list of links which isn't quite as cool.
 
-[![smugmug rss feed](http://zeusville.files.wordpress.com/2007/03/smugmugrss.png)](http://zeusville.files.wordpress.com/2007/03/smugmugrss.png "smugmug rss feed")
+[![smugmug rss feed](/img/2007/03/smugmugrss.png)](/img/2007/03/smugmugrss.png "smugmug rss feed")
 
 I created a perl script that would transform my [smugmug RSS feed](http://familiarodriguez.smugmug.com/hack/feed.mg?Type=nicknameRecentPhotos&Data=familiarodriguez&format=rss200) into a Flickr RSS feed. Smugmug uses a standard RSS 2.0 feed, while flickr uses [Yahoo's media rss](http://search.yahoo.com/mrss). I couldn't find an easy way to do the transformation, so I took the long way of parsing the incoming RSS feed, then creating a new one. I'm running the script on my home server, which runs quite slow at the moment, but it works. :)
 
-![smugmug feed in flickr widget](http://zeusville.files.wordpress.com/2007/03/smugmug_in_flickr1.png)
+![smugmug feed in flickr widget](/img/2007/03/smugmug_in_flickr1.png)
 
 That's pretty cool IMO :) Here is the script, or you can download it from [here](http://sm-photo-tool.svn.sourceforge.net/viewvc/*checkout*/sm-photo-tool/scripts/smugmug_to_flickr_rss.pl):
 

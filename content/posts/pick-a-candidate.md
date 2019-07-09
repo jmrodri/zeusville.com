@@ -15,11 +15,11 @@ It's funny as I am planning on giving [Joe Biden](http://www.joebiden.com/home) 
 
 Top three matching my views:
 
-![top three](http://zeusville.files.wordpress.com/2007/12/topthree.png)
+![top three](/img/2007/12/topthree.png)
 
 Biden falls #9 in the list:
 
-![biden](http://zeusville.files.wordpress.com/2007/12/biden.png)
+![biden](/img/2007/12/biden.png)
 ---
 ### Comments:
 ####

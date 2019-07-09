@@ -11,7 +11,7 @@ I was constantly missing [IRC](http://en.wikipedia.org/wiki/IRC) pings with [XCh
 
 Here's a screenshot.
 
-[![xchat dialog (uses zenity)](http://zeusville.files.wordpress.com/2007/01/xchat.png)](http://zeusville.files.wordpress.com/2007/01/xchat.png "xchat dialog (uses zenity)")
+[![xchat dialog (uses zenity)](/img/2007/01/xchat.png)](/img/2007/01/xchat.png "xchat dialog (uses zenity)")
 ---
 ### Comments:
 ####

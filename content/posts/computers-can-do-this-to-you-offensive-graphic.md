@@ -7,4 +7,4 @@ categories: [Personal]
 type: post
 ---
 
-Sometimes working with computers can make me feel like this guy: [bloody pulp](http://zeusville.files.wordpress.com/2007/03/96549_bloodypulp5jj.gif "bloody pulp")
+Sometimes working with computers can make me feel like this guy: [bloody pulp](/img/2007/03/96549_bloodypulp5jj.gif "bloody pulp")
