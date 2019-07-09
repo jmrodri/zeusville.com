@@ -15,4 +15,6 @@ So if you get a Washington, DC or any call asking for information, don't give it
 
 The FTC already has this scam in various forms:
 
-\[embed\]http://www.consumer.ftc.gov/articles/0113-government-grant-scams\[/embed\]\[embed\]http://www.consumer.ftc.gov/blog/another-chapter-free-grant-fiction\[/embed\]\[embed\]http://www.consumer.ftc.gov/search/site/grant\[/embed\]
+* [Government Grant Scams](http://www.consumer.ftc.gov/articles/0113-government-grant-scams)
+* [Another chapter in free grant fiction](http://www.consumer.ftc.gov/blog/another-chapter-free-grant-fiction)
+* [Search "grant" on FTC.GOV](http://www.consumer.ftc.gov/search/site/grant)
