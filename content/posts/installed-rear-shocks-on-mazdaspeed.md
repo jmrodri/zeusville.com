@@ -60,7 +60,7 @@ At this point the old shocks will have been removed, the new ones have the mount
 
 Now I need to replace the front struts. Those are not as trivial since they involve compressing the springs on the strut, and lot's of penetrating oil. We'll see if $250+ is worth it for the front or if I feel inspired to do this myself.
 
-\[embed\]https://www.youtube.com/watch?v=AKtc-IEGS8Q\[/embed\]
+{{< youtube AKtc-IEGS8Q >}}
 ---
 ### Comments:
 #### 
