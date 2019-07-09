@@ -7,4 +7,8 @@ categories: [Technology]
 type: post
 ---
 
-Saw this from a [friend's blog](http://www.michaeldehaan.net/main/): [](http://dicepool.com/catalog/quiz.php)[![](http://dicepool.com/catalog/images/splats/boring.jpg)](http://dicepool.com/catalog/quiz.php) [Take the quiz at dicepool.com](http://dicepool.com/catalog/quiz.php)
+Saw this from a [friend's blog](http://www.michaeldehaan.net/main/):
+
+[![](http://dicepool.com/catalog/images/splats/boring.jpg)](http://dicepool.com/catalog/quiz.php)
+
+[Take the quiz at dicepool.com](http://dicepool.com/catalog/quiz.php)

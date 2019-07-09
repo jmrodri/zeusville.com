@@ -7,4 +7,6 @@ categories: [Linux, Technology]
 type: post
 ---
 
-![Candlepin](http://candlepinproject.org/images/logo-frontpage.png "Candlepin") Yesterday, the [Candlepin](http://candlepinproject.org) team released version 0.4.5. Checkout the [setup](https://fedorahosted.org/candlepin/wiki/Setup) guide on our wiki.
+![Candlepin](http://candlepinproject.org/images/logo-frontpage.png "Candlepin")
+
+Yesterday, the [Candlepin](http://candlepinproject.org) team released version 0.4.5. Checkout the [setup](https://fedorahosted.org/candlepin/wiki/Setup) guide on our wiki.

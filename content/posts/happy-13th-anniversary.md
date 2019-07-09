@@ -7,4 +7,6 @@ categories: [Personal]
 type: post
 ---
 
-Another year has gone by and it's better than ever (at least in my opinion)  :) Happy 13th Anniversary to my wife,  **Elizabeth**
+Another year has gone by and it's better than ever (at least in my opinion)  :)
+
+Happy 13th Anniversary to my wife,  **Elizabeth**

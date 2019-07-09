@@ -7,4 +7,6 @@ categories: [Personal]
 type: post
 ---
 
-They grow up so fast. ![](http://jroller.com/resources/jmrodri/Together.jpg)
+They grow up so fast.
+
+![](http://jroller.com/resources/jmrodri/Together.jpg)

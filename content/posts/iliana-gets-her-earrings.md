@@ -7,4 +7,6 @@ categories: [Family]
 type: post
 ---
 
-![](http://familiarodriguez.smugmug.com/photos/186341458-M.jpg) ![](http://familiarodriguez.smugmug.com/photos/186341488-M.jpg)
+![](http://familiarodriguez.smugmug.com/photos/186341458-M.jpg)
+
+![](http://familiarodriguez.smugmug.com/photos/186341488-M.jpg)

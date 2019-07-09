@@ -9,10 +9,14 @@ type: post
 
 Something I found on [digg](http://digg.com)
 
-1.  Attitude is everything
-2.  Boss is the barrier
-3.  Productivity: in sickness and in health
-4.  It's the tech tools, stupid
-5.  Downsizing and outsourcing morale
+3.  Attitude is everything
+
+6.  Boss is the barrier
+
+9.  Productivity: in sickness and in health
+
+12.  It's the tech tools, stupid
+
+15.  Downsizing and outsourcing morale
 
 [Read More](http://www.nbrii.com/blog/5FactorsThatAffectYourEmployeesProductivity.aspx)

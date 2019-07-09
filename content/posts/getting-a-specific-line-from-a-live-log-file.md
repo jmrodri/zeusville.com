@@ -7,6 +7,12 @@ categories: [Linux, Technology]
 type: post
 ---
 
-Here's how you can find all lines with call\_function in a log file that you are tailing.```
+Here's how you can find all lines with call\_function in a log file that you are tailing.
+
+```
+
+
 tail -f catalina.out | grep --line-buffered call\_function
+
+
 ```

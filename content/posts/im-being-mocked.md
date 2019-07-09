@@ -7,6 +7,8 @@ categories: [Linux]
 type: post
 ---
 
-I feel like [OSNews.com](http://www.osnews.com) is mocking me with their recent article called, [Back Up Linux](http://www.osnews.com/story.php?news_id=7632).
+I feel like [OSNews.com](http://www.osnews.com) is mocking me with their recent article called,
+
+[Back Up Linux](http://www.osnews.com/story.php?news_id=7632).
 
 See [why](/page/jmrodri/20040703).

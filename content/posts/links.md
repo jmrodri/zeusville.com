@@ -7,4 +7,6 @@ categories: [Java, Personal]
 type: post
 ---
 
-I found this funny little nugget while blog reading: [Funniest Java Posts In a Long Time](http://www.stevemilner.org/blog/2007/08/16/funniest-java-posts-long-time/)
+I found this funny little nugget while blog reading:
+
+[Funniest Java Posts In a Long Time](http://www.stevemilner.org/blog/2007/08/16/funniest-java-posts-long-time/)

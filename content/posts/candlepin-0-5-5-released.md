@@ -7,26 +7,43 @@ categories: [Java, Linux, python, Technology]
 type: post
 ---
 
-![Candlepin](http://candlepinproject.org/images/logo-frontpage.png "Candlepin") It's that time again, another release of Candlepin and associated projects available for your enjoyment. With this release we have [subscription-manager](https://fedorahosted.org/subscription-manager/) in Fedora as well as a debut build of [Thumbslug](https://fedorahosted.org/candlepin/wiki/thumbslug/Index). For more information on Candlepin, please visit: [http://candlepinproject.org/](http://candlepinproject.org/) **Features & Enhancements** **_subscription-manager_**
+![Candlepin](http://candlepinproject.org/images/logo-frontpage.png "Candlepin")
+
+It's that time again, another release of Candlepin and associated projects available for your enjoyment. With this release we have [subscription-manager](https://fedorahosted.org/subscription-manager/) in Fedora as well as a debut build of [Thumbslug](https://fedorahosted.org/candlepin/wiki/thumbslug/Index).
+
+For more information on Candlepin, please visit: [http://candlepinproject.org/](http://candlepinproject.org/)
+
+**Features & Enhancements**
+
+**_subscription-manager_**
 
 *   added support for host registration and guest association when host can not register itself
+
 *   virt-who work to handle ESX guests
+
 *   subscription-manager available in fedora
 
 **_candlepin_**
 
 *   build modified to use the tito hotness instead of bunch of disjoint bash scripts
+
 *   disable manifest rules import
+
 *   added support for host registration and guest association when host can not register itself
 
 **_thumbslug_**
 
 *   added appropriate init scripts to run as a service
+
 *   uses Candlepin CRL
+
 *   thumbslug talks to akamai
+
 *   created puppet module for katello
 
-**Bugs fixed** **_subscription-manager_**
+**Bugs fixed**
+
+**_subscription-manager_**
 
 [705883](https://bugzilla.redhat.com/show_bug.cgi?id=705883)
 
@@ -132,4 +149,26 @@ ensure job detail isn't null, skip it.
 
 update url for subscriptions handler
 
-**Download & Setup** Make sure you read over the [Candlepin Setup Guide](https://fedorahosted.org/candlepin/wiki/Setup), which is located at [https://fedorahosted.org/candlepin/wiki/Setup](https://fedorahosted.org/candlepin/wiki/Setup). As well as the [Headpin Install Guide](https://fedorahosted.org/candlepin/wiki/headpin/Install) which can be found at [https://fedorahosted.org/candlepin/wiki/headpin/Install](https://fedorahosted.org/candlepin/wiki/headpin/Install) Just give me the bits already! You can get the various bits at the urls below. Candlepin: [http://repos.fedorapeople.org/repos/candlepin/candlepin/](http://repos.fedorapeople.org/repos/candlepin/candlepin/) Thumbslug: [http://repos.fedorapeople.org/repos/candlepin/thumbslug/](http://repos.fedorapeople.org/repos/candlepin/thumbslug/) Headpin: [http://repos.fedorapeople.org/repos/katello](http://repos.fedorapeople.org/repos/katello) Subscription Manager: [http://repos.fedorapeople.org/repos/candlepin/subscription-manager/](http://repos.fedorapeople.org/repos/candlepin/subscription-manager/)
+**Download & Setup**
+
+Make sure you read over the [Candlepin Setup Guide](https://fedorahosted.org/candlepin/wiki/Setup), which is located at [https://fedorahosted.org/candlepin/wiki/Setup](https://fedorahosted.org/candlepin/wiki/Setup).
+
+As well as the [Headpin Install Guide](https://fedorahosted.org/candlepin/wiki/headpin/Install) which can be found at [https://fedorahosted.org/candlepin/wiki/headpin/Install](https://fedorahosted.org/candlepin/wiki/headpin/Install)
+
+Just give me the bits already! You can get the various bits at the urls below.
+
+Candlepin:
+
+[http://repos.fedorapeople.org/repos/candlepin/candlepin/](http://repos.fedorapeople.org/repos/candlepin/candlepin/)
+
+Thumbslug:
+
+[http://repos.fedorapeople.org/repos/candlepin/thumbslug/](http://repos.fedorapeople.org/repos/candlepin/thumbslug/)
+
+Headpin:
+
+[http://repos.fedorapeople.org/repos/katello](http://repos.fedorapeople.org/repos/katello)
+
+Subscription Manager:
+
+[http://repos.fedorapeople.org/repos/candlepin/subscription-manager/](http://repos.fedorapeople.org/repos/candlepin/subscription-manager/)

@@ -7,4 +7,6 @@ categories: [python, sm-photo-tool]
 type: post
 ---
 
-Tonight I released version 1.13 of [sm-photo-tool](http://sm-photo-tool.sourceforge.net/). Download it here: [http://sourceforge.net/project/showfiles.php?group\_id=179298](http://sourceforge.net/project/showfiles.php?group_id=179298)
+Tonight I released version 1.13 of [sm-photo-tool](http://sm-photo-tool.sourceforge.net/). Download it here:
+
+[http://sourceforge.net/project/showfiles.php?group\_id=179298](http://sourceforge.net/project/showfiles.php?group_id=179298)

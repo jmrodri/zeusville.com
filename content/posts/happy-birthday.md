@@ -7,4 +7,6 @@ categories: [Family]
 type: post
 ---
 
-Today is my mother's birthday. Happy Birthday, Ma! I hope you enjoy your special day. ![](http://familiarodriguez.smugmug.com/photos/174430501-M.jpg)
+Today is my mother's birthday. Happy Birthday, Ma! I hope you enjoy your special day.
+
+![](http://familiarodriguez.smugmug.com/photos/174430501-M.jpg)

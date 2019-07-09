@@ -11,7 +11,11 @@ This weekend I changed the oil in both the [Grand Caravan](http://familiarodrigu
 
 [![](http://farm3.static.flickr.com/2421/3850944476_cba53bb9aa.jpg)](http://www.flickr.com/photos/jmrodri/3850944476/)
 
-I ended up zip tying the hose to the frame to keep it out of danger, the thought of ripping out the power steering hose seemed like a bad idea ;) The other project I did this weekend was to replace the Kenmore 1/3 hp disposal with a new [Kenmore 3/4hp](http://www.sears.com/shc/s/p_10153_12605_02260572000P?vName=Appliances&keyword=kenmore+disposal) disposal. The installation was pretty easy, I only ran into one issue, the drain hose for the dishwasher was cracked, so I had to run to Lowe's to get a replacement. I was almost done putting it back too. The disposal wasn't 'disposing' very well, and the rubber seal at the top was completely malformed and didn't cover up the drain very well. Plus it was just time for a new one. Here is the old one before I ripped it out:
+I ended up zip tying the hose to the frame to keep it out of danger, the thought of ripping out the power steering hose seemed like a bad idea ;)
+
+The other project I did this weekend was to replace the Kenmore 1/3 hp disposal with a new [Kenmore 3/4hp](http://www.sears.com/shc/s/p_10153_12605_02260572000P?vName=Appliances&keyword=kenmore+disposal) disposal. The installation was pretty easy, I only ran into one issue, the drain hose for the dishwasher was cracked, so I had to run to Lowe's to get a replacement. I was almost done putting it back too.
+
+The disposal wasn't 'disposing' very well, and the rubber seal at the top was completely malformed and didn't cover up the drain very well. Plus it was just time for a new one. Here is the old one before I ripped it out:
 
 ![](http://farm3.static.flickr.com/2601/3850944546_29aae39a4f.jpg)
 

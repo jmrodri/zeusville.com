@@ -7,6 +7,12 @@ categories: [Linux]
 type: post
 ---
 
-I was looking for the quick way of burning an audio cd from mp3 on RHEL. I haven't found a GUI burner I like or works every time. So I did a Google search and found this. It worked PERFECTLY!:
+I was looking for the quick way of burning an audio cd from mp3 on RHEL. I haven't
 
-[HOWTO Create an Audio CD](http://gentoo-wiki.com/HOWTO_Create_an_Audio_CD#Getting_organized)
+found a GUI burner I like or works every time. So I did a Google search and found this.
+
+It worked PERFECTLY!:
+
+[HOWTO Create](http://gentoo-wiki.com/HOWTO_Create_an_Audio_CD#Getting_organized)
+
+[an Audio CD](http://gentoo-wiki.com/HOWTO_Create_an_Audio_CD#Getting_organized)

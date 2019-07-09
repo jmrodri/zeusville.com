@@ -7,4 +7,6 @@ categories: [Politics]
 type: post
 ---
 
-Click around the Oval Office to see and hear what it would be like with Palin as president. [http://www.palinaspresident.com/](http://www.palinaspresident.com/)
+Click around the Oval Office to see and hear what it would be like with Palin as president.
+
+[http://www.palinaspresident.com/](http://www.palinaspresident.com/)

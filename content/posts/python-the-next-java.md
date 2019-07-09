@@ -9,4 +9,8 @@ type: post
 
 While doing my daily blog reading, this post by [Kushal Das](http://kushaldas.in/?p=231) made me laugh:
 
-> How to write better Java code ? /Me and kart\_ was discussing on this and the answer came out: Don’t write Java, write Python :)
+> How to write better Java code ?
+> 
+> /Me and kart\_ was discussing on this and the answer came out:
+> 
+> Don’t write Java, write Python :)

@@ -7,4 +7,6 @@ categories: [Family]
 type: post
 ---
 
-Happy 1st Birthday, Iliana! ![](http://familiarodriguez.smugmug.com/photos/242631339_a4RiC-L.jpg)
+Happy 1st Birthday, Iliana!
+
+![](http://familiarodriguez.smugmug.com/photos/242631339_a4RiC-L.jpg)

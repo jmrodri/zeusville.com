@@ -7,4 +7,8 @@ categories: [Personal]
 type: post
 ---
 
-Thanks to all those that have served. ![](http://www.groceryshopforfree.com/wp-content/uploads/2009/11/Veterans-day.jpg) ![](http://mypetjawa.mu.nu/archives/salute1.jpg)
+Thanks to all those that have served.
+
+![](http://www.groceryshopforfree.com/wp-content/uploads/2009/11/Veterans-day.jpg)
+
+![](http://mypetjawa.mu.nu/archives/salute1.jpg)

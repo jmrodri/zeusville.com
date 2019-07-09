@@ -7,4 +7,6 @@ categories: [Family, Personal]
 type: post
 ---
 
-Today Adan turned 7 years old. I'm so proud of you.  **HAPPY BIRTHDAY!** [![](http://familiarodriguez.smugmug.com/photos/383391903_7yoGh-L.jpg "Adan eats a cupcake")](http://familiarodriguez.smugmug.com/gallery/6102582_pFtdJ//383391903_7yoGh)
+Today Adan turned 7 years old. I'm so proud of you.  **HAPPY BIRTHDAY!**
+
+[![](http://familiarodriguez.smugmug.com/photos/383391903_7yoGh-L.jpg "Adan eats a cupcake")](http://familiarodriguez.smugmug.com/gallery/6102582_pFtdJ//383391903_7yoGh)

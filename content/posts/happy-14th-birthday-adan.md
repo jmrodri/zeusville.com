@@ -7,4 +7,12 @@ categories: [Family, Personal]
 type: post
 ---
 
-Today we celebrate Adan's 14th birthday. He's grown a lot both physically and mentally :) He's becoming quite a wonderful young man. Here he is having fun with some sunglasses I got from work. [![21292971852_ab3a3e0e9a_k](https://zeusville.files.wordpress.com/2015/09/21292971852_ab3a3e0e9a_k.jpg?w=549)](https://zeusville.files.wordpress.com/2015/09/21292971852_ab3a3e0e9a_k.jpg) His baseball jersey. [![21803625642_430849b916_k](https://zeusville.files.wordpress.com/2015/09/21803625642_430849b916_k.jpg?w=549)](https://zeusville.files.wordpress.com/2015/09/21803625642_430849b916_k.jpg)
+Today we celebrate Adan's 14th birthday. He's grown a lot both physically and mentally :) He's becoming quite a wonderful young man.
+
+Here he is having fun with some sunglasses I got from work.
+
+[![21292971852_ab3a3e0e9a_k](https://zeusville.files.wordpress.com/2015/09/21292971852_ab3a3e0e9a_k.jpg?w=549)](https://zeusville.files.wordpress.com/2015/09/21292971852_ab3a3e0e9a_k.jpg)
+
+His baseball jersey.
+
+[![21803625642_430849b916_k](https://zeusville.files.wordpress.com/2015/09/21803625642_430849b916_k.jpg?w=549)](https://zeusville.files.wordpress.com/2015/09/21803625642_430849b916_k.jpg)

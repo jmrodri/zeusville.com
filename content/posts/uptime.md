@@ -7,4 +7,8 @@ categories: [Linux, Technology]
 type: post
 ---
 
-I upgraded my kernel, time to reboot. `[xxxxxxxxxxxjxxxxx]$ uptime 11:34:15 up 55 days, 23:28, 3 users, load average: 0.32, 0.90, 0.87`
+I upgraded my kernel, time to reboot.
+
+`[xxxxxxxxxxxjxxxxx]$ uptime`
+
+`11:34:15 up 55 days, 23:28, 3 users, load average: 0.32, 0.90, 0.87`

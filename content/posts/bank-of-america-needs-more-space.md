@@ -7,4 +7,6 @@ categories: [Technology]
 type: post
 ---
 
-Apparently, Bank of America needs to raise their fees in order to afford more space. That's the only thing I can gather from this error. Maybe they should include a paypal link on the error page: ![boa_error](http://zeusville.files.wordpress.com/2008/02/error.png)
+Apparently, Bank of America needs to raise their fees in order to afford more space. That's the only thing I can gather from this error. Maybe they should include a paypal link on the error page:
+
+![boa_error](http://zeusville.files.wordpress.com/2008/02/error.png)

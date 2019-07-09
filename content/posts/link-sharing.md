@@ -7,4 +7,6 @@ categories: [Java, Technology]
 type: post
 ---
 
-You can keep your static typing: [http://www.cforcoding.com/2009/10/lost-in-translation-or-why-gwt-isnt.html](http://www.cforcoding.com/2009/10/lost-in-translation-or-why-gwt-isnt.html)
+You can keep your static typing:
+
+[http://www.cforcoding.com/2009/10/lost-in-translation-or-why-gwt-isnt.html](http://www.cforcoding.com/2009/10/lost-in-translation-or-why-gwt-isnt.html)

@@ -10,7 +10,17 @@ This is a recreation of an ebay listing I saw. **I AM NOT SELLING ANY CARDS**. I
 
 * * *
 
-[Original eBay auction with text](http://cgi.ebay.com/LOT-OF-POKEMON-CARDS-THAT-MY-KIDS-TRIED-TO-SNEAK-BY-ME_W0QQitemZ130144061675QQihZ003QQcategoryZ60238QQssPageNameZWDVWQQrdZ1QQcmdZViewItem) I'm selling a bunch of Pokemon cards. Why? Because my kids sneaked them into my shopping cart while at the grocery store and I ended up buying them because I didn't notice they were there until we got home. How could I have possibly not noticed they were in my cart, you ask? Let me explain. You haven’t lived until you’ve gone grocery shopping with six kids in tow. I would rather swim, covered in bait, through the English Channel, be a contestant on Fear Factor when they’re having pig brains for lunch, or do fourth grade math than to take my six kids to the grocery store. Because I absolutely detest grocery shopping, I tend to put it off as long as possible. There comes a time, however, when you’re peering into your fridge and thinking, ‘Hmmm, what can I make with ketchup, Italian dressing, and half an onion,’ that you decide you cannot avoid going to the grocery store any longer. Before beginning this most treacherous mission, I gather all the kids together and give them “The Lecture“. “The Lecture“ goes like this… MOM: “We have to go to the grocery store.” KIDS: “Whine whine whine whine whine.“
+[Original eBay auction with text](http://cgi.ebay.com/LOT-OF-POKEMON-CARDS-THAT-MY-KIDS-TRIED-TO-SNEAK-BY-ME_W0QQitemZ130144061675QQihZ003QQcategoryZ60238QQssPageNameZWDVWQQrdZ1QQcmdZViewItem)
+
+I'm selling a bunch of Pokemon cards. Why? Because my kids sneaked them into my shopping cart while at the grocery store and I ended up buying them because I didn't notice they were there until we got home. How could I have possibly not noticed they were in my cart, you ask? Let me explain.
+
+You haven’t lived until you’ve gone grocery shopping with six kids in tow. I would rather swim, covered in bait, through the English Channel, be a contestant on Fear Factor when they’re having pig brains for lunch, or do fourth grade math than to take my six kids to the grocery store. Because I absolutely detest grocery shopping, I tend to put it off as long as possible. There comes a time, however, when you’re peering into your fridge and thinking, ‘Hmmm, what can I make with ketchup, Italian dressing, and half an onion,’ that you decide you cannot avoid going to the grocery store any longer. Before beginning this most treacherous mission, I gather all the kids together and give them “The Lecture“.
+
+“The Lecture“ goes like this…
+
+MOM: “We have to go to the grocery store.”
+
+KIDS: “Whine whine whine whine whine.“
 
 MOM: “Hey, I don’t want to go either, but it’s either that or we’re eating cream of onion-ketchup soup and drinking Italian dressing for dinner tonight.”
 
@@ -94,7 +104,13 @@ Check out my [other items](http://search.ebay.com/_W0QQsassZdawnm5723)!
 
 * * *
 
-On Aug-21-07 at 13:37:48 PDT, seller added the following information:14,000 hits!!! Who would've thought? I just wanted to take a minute and say "thank you" to all the people who have taken the time to write me a comment! I certainly appreciate it! It sure is a nice treat waking up to a full box of compliments! I'm trying to answer each comment, but they're honestly coming in faster than I can type!Many of you have asked if I have a blog. I do. It's mom2my6pack.blogspot.com Many of you have suggested I write a book. I think I may just have to give that a try. If it ever comes to fruition, I'll post about it on my blog. And $40.00??? What are you guys nuts? There's nothing special about these cards. Are you bidding on them thinking I'll be a famous author someday? :::laughing like a crazy lady over that one::: I'll give writing a shot, but from what I hear it isn't easy to get a book published. I probably have a better chance of losing ten pounds (and that ain't likely to happen!) Anyway, again I want to say thank you for reading and passing this on. You've all just made my week! :)
+On Aug-21-07 at 13:37:48 PDT, seller added the following information:14,000 hits!!! Who would've thought? I just wanted to take a minute and say "thank you" to all the people who have taken the time to write me a comment! I certainly appreciate it! It sure is a nice treat waking up to a full box of compliments! I'm trying to answer each comment, but they're honestly coming in faster than I can type!Many of you have asked if I have a blog. I do. It's mom2my6pack.blogspot.com
+
+Many of you have suggested I write a book. I think I may just have to give that a try. If it ever comes to fruition, I'll post about it on my blog.
+
+And $40.00??? What are you guys nuts? There's nothing special about these cards. Are you bidding on them thinking I'll be a famous author someday? :::laughing like a crazy lady over that one::: I'll give writing a shot, but from what I hear it isn't easy to get a book published. I probably have a better chance of losing ten pounds (and that ain't likely to happen!)
+
+Anyway, again I want to say thank you for reading and passing this on. You've all just made my week! :)
 
 * * *
 

@@ -7,27 +7,50 @@ categories: [Java, Linux, python, Technology]
 type: post
 ---
 
-Candlepin 0.4.11 has been released. You can get the bits at: [http://repos.fedorapeople.org/repos/candlepin/candlepin/](http://repos.fedorapeople.org/repos/candlepin/candlepin/) Make sure you read over the [Setup Guide](https://fedorahosted.org/candlepin/wiki/Setup), which is located at [https://fedorahosted.org/candlepin/wiki/Setup](https://fedorahosted.org/candlepin/wiki/Setup) For more information on Candlepin, please visit [our project page](http://candlepinproject.org/). **Features & Enhancements** **_client_**
+Candlepin 0.4.11 has been released. You can get the bits at:
+
+[http://repos.fedorapeople.org/repos/candlepin/candlepin/](http://repos.fedorapeople.org/repos/candlepin/candlepin/)
+
+Make sure you read over the [Setup Guide](https://fedorahosted.org/candlepin/wiki/Setup), which is located at
+
+[https://fedorahosted.org/candlepin/wiki/Setup](https://fedorahosted.org/candlepin/wiki/Setup)
+
+For more information on Candlepin, please visit [our project page](http://candlepinproject.org/).
+
+**Features & Enhancements**
+
+**_client_**
 
 *   group subscriptions based on stacking attribute in the following screens:
 
 *   subscriptions page
+
 *   compliance assistant
+
 *   view available subscription page
 
 *   the cli and gui now denote the state of the subscription: Subscribed, Partially Subscribed, Expired or Not Subscribed.
+
 *   Nag messages now denote the 'Partially Subscribed' state.
+
 *   registration with multiple activation keys now supported
+
 *   `list --available` now shows if a subscription is multi-entitle capable
+
 *   GUI shows an asterisk to denote a subscription is multi-entitle capable
+
 *   config command added to cli enabling editing of the configuration values
+
 *   client tries to optionally heal the system to keep it properly subscribed.
 
 **_server_**
 
 *   the list of consumer's installed product IDs are now stored
+
 *   the candlepin job status stable now stores the consumer uuid for async bind.
+
 *   configuration added to disable batch jobs on a particular node
+
 *   Moved the translations to fedora.zanata.org
 
 **Bugs fixed**

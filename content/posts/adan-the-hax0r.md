@@ -7,4 +7,6 @@ categories: [Linux]
 type: post
 ---
 
-Adan the hax0r: [![](http://familiarodriguez.smugmug.com/photos/70916673_LECds-M.jpg)](http://familiarodriguez.smugmug.com/gallery/1482308/1/70916673)
+Adan the hax0r:
+
+[![](http://familiarodriguez.smugmug.com/photos/70916673_LECds-M.jpg)](http://familiarodriguez.smugmug.com/gallery/1482308/1/70916673)

@@ -7,4 +7,6 @@ categories: [Technology]
 type: post
 ---
 
-I was reloading my Google Reader page, and I got this error: [![Google Oops](http://zeusville.files.wordpress.com/2007/01/oops.png)](http://zeusville.files.wordpress.com/2007/01/oops.png "Google Oops")
+I was reloading my Google Reader page, and I got this error:
+
+[![Google Oops](http://zeusville.files.wordpress.com/2007/01/oops.png)](http://zeusville.files.wordpress.com/2007/01/oops.png "Google Oops")

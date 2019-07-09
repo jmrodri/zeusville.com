@@ -7,4 +7,6 @@ categories: [Politics]
 type: post
 ---
 
-Ok here's a different graph: National debt as a percentage of gdp: ![national debt as percent of gdp](http://zfacts.com/metaPage/lib/National-Debt-GDP-L.gif)
+Ok here's a different graph: National debt as a percentage of gdp:
+
+![national debt as percent of gdp](http://zfacts.com/metaPage/lib/National-Debt-GDP-L.gif)

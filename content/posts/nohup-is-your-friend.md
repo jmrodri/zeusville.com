@@ -7,4 +7,8 @@ categories: [Linux]
 type: post
 ---
 
-For those long running processes, nohup is your friend. `nohup long_running_cmd &` The output will go to nohup.out.
+For those long running processes, nohup is your friend.
+
+`nohup long_running_cmd &`
+
+The output will go to nohup.out.

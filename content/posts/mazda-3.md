@@ -13,7 +13,9 @@ I drove the Mazda 3 rental car to work today. I've never been a fan of small, fo
 
 The car handles great, due to its [suspension](http://www.mazdausa.com/MusaWeb/displayPage.action?pageParameter=modelsPerformanceHandling&vehicleCode=MZ3) . As far as rounding corners, the Mazda 3 does better than my Trans Am, which suffers from the live rear axle hop around corners.
 
-The car is surprisingly powerful for a four-banger, quick too. The manumatic transmission is fun, giving me control of the shifts. The tranny is nice, but it doesn't replace the feel of a real manual transmission.
+The car is surprisingly powerful for a four-banger, quick too. The manumatic transmission is fun, giving me
+
+control of the shifts. The tranny is nice, but it doesn't replace the feel of a real manual transmission.
 
 The interior is well laid out, the seats are supportive and comfortable. And they go low enough to give me adequate head room. The steering wheel is one of the best I've seen. It has a great 10-2 and 9-3 positions, unlike my Ford Taurus wheel, which sucks at 9-3.
 

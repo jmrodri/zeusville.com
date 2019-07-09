@@ -7,9 +7,17 @@ categories: [Linux, Technology]
 type: post
 ---
 
-I bought the [Netgear N600 WNDR3700](http://www.netgear.com/home/products/wirelessrouters/high-performance/WNDR3700.aspx) router to replace my aging Linksys WRT54g. I used jbowes [method of performance](http://jbowes.wordpress.com/2010/10/13/measuring-network-speeds-with-netcat-and-dd/) testing. I ran nc on the server:```
+I bought the [Netgear N600 WNDR3700](http://www.netgear.com/home/products/wirelessrouters/high-performance/WNDR3700.aspx) router to replace my aging Linksys WRT54g.
+
+I used jbowes [method of performance](http://jbowes.wordpress.com/2010/10/13/measuring-network-speeds-with-netcat-and-dd/) testing. I ran nc on the server:
+
+```
 nc -v -l 2222 > /dev/null
-```. Then on the laptop I connected to the server via Netgear 2.4GHz, 5GHz, Linksys G, and wired running```
+```.
+
+Then on the laptop I connected to the server via Netgear 2.4GHz, 5GHz, Linksys G, and wired running
+
+```
 dd if=/dev/zero bs=1024K count=512 | nc -v $SERVER\_IP 2222
 ```. For a baseline here is the gigabit wired connection.
 

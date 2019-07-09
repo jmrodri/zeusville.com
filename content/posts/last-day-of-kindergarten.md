@@ -7,4 +7,6 @@ categories: [Family]
 type: post
 ---
 
-Today is Adan's last day of kindergarten. It's hard to believe he will be going to FIRST GRADE next year. Congratulations Adan, I am proud of you.
+Today is Adan's last day of kindergarten. It's hard to believe he will be going to FIRST GRADE next year.
+
+Congratulations Adan, I am proud of you.

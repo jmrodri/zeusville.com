@@ -7,7 +7,11 @@ categories: [python]
 type: post
 ---
 
-Found this nugget while reading blogs this morning: [Python Experts - Why They Do Python](http://www.odinjobs.com/blogs/careers/entry/python_experts_why_they_do) In the article they ask "What do you think is the most important feature of the Python language?" I'm surprised that the fact that white space is part of the language leading to more readable code was one of the strengths. When I first learned Python I hated the white space being part of the syntax. Coming from Java it seemed unnatural. But after a while it's a wonderful thing. It makes the code easier to read, I've become very fond of it. My favorite response to the question was by Tim:
+Found this nugget while reading blogs this morning: [Python Experts - Why They Do Python](http://www.odinjobs.com/blogs/careers/entry/python_experts_why_they_do)
+
+In the article they ask "What do you think is the most important feature of the Python language?" I'm surprised that the fact that white space is part of the language leading to more readable code was one of the strengths. When I first learned Python I hated the white space being part of the syntax. Coming from Java it seemed unnatural. But after a while it's a wonderful thing. It makes the code easier to read, I've become very fond of it.
+
+My favorite response to the question was by Tim:
 
 > It's pragmatic nature.. It doesn't try to be the coolest or most flexible or most 'enterprisey'. It gives the programmer a very predictable framework in which to ply their skills. In short it doesn't dictate or get in the way but does gently suggest that you could do better...
 

@@ -7,6 +7,6 @@ categories: [Personal]
 type: post
 ---
 
-[![Get Firefox](http://www.
-mozilla.org/products/firefox/buttons/getfirefox_large2.png)](http://www.mozilla.org/products/firefox/ "Get
+[![Get Firefox](http://www.<p />
+mozilla.org/products/firefox/buttons/getfirefox_large2.png)](http://www.mozilla.org/products/firefox/ "Get<p />
 Firefox - The Browser, Reloaded")

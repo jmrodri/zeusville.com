@@ -11,4 +11,6 @@ Last night we saw "[The Devil Wears Prada](http://www.imdb.com/title/tt0458352/p
 
 > "the smaller they are the bigger their ego".
 
-Boy how true that is. **Update:** [Napoleon complex](http://en.wikipedia.org/wiki/Napoleon_complex)
+Boy how true that is.
+
+**Update:** [Napoleon complex](http://en.wikipedia.org/wiki/Napoleon_complex)

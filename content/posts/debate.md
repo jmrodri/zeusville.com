@@ -7,4 +7,6 @@ categories: [Politics]
 type: post
 ---
 
-Watching the debate is painful. The baseball game is more interesting, even if the Dodgers who I want to win, are losing 5-0 to the Phillies. :) McCain's facial expressions are very awkward.
+Watching the debate is painful. The baseball game is more interesting, even if the Dodgers who I want to win, are losing 5-0 to the Phillies. :)
+
+McCain's facial expressions are very awkward.

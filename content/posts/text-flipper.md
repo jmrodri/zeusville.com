@@ -7,4 +7,6 @@ categories: [Technology]
 type: post
 ---
 
-This is a sweet little link: [text flip](http://www.revfad.com/flip.html). ǝ11ıʌsnǝz oʇ ǝɯoɔ1ǝʍ
+This is a sweet little link: [text flip](http://www.revfad.com/flip.html).
+
+ǝ11ıʌsnǝz oʇ ǝɯoɔ1ǝʍ

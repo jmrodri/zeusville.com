@@ -7,4 +7,6 @@ categories: [Java]
 type: post
 ---
 
-It's been almost a year and we're finally getting ready to make our first release of the Java migration. I'm excited and scared since this will be the first release with our Java code in it. Stay tuned for the url of our latest release ...
+It's been almost a year and we're finally getting ready to make our first release of the Java migration. I'm excited and scared since this will be the first release with our Java code in it.
+
+Stay tuned for the url of our latest release ...

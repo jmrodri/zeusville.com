@@ -11,12 +11,20 @@ This is a poem I wrote when Adán our first son was born.
 
 **¿Por qué me llamo así?**
 
-_**Adán**_ _Porque eres el primero_
+_**Adán**_
 
-_**Miguel**_ _Para que tengas algo de tu padre_
+_Porque eres el primero_
 
-_**Rodríguez**_ _Para que te recuerda de tu familia_
+_**Miguel**_
 
-_**AMoR**_ _Lo que tiene mucho la familia para ti_
+_Para que tengas algo de tu padre_
+
+_**Rodríguez**_
+
+_Para que te recuerda de tu familia_
+
+_**AMoR**_
+
+_Lo que tiene mucho la familia para ti_
 
 _\-Jesús Miguel Rodríguez_

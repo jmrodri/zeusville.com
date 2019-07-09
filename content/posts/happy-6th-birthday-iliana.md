@@ -7,4 +7,6 @@ categories: [Personal]
 type: post
 ---
 
-Today is Valentine's Day and Iliana's birthday! ![IMAG1744](http://farm9.staticflickr.com/8249/8472626815_355aff4fbc.jpg)
+Today is Valentine's Day and Iliana's birthday!
+
+![IMAG1744](http://farm9.staticflickr.com/8249/8472626815_355aff4fbc.jpg)

@@ -7,4 +7,6 @@ categories: [Cars]
 type: post
 ---
 
-Here's what I ran over with my Trans Am on December 23rd. ![](http://jroller.com/resources/jmrodri/dsc00059.png)
+Here's what I ran over with my Trans Am on December 23rd.
+
+![](http://jroller.com/resources/jmrodri/dsc00059.png)

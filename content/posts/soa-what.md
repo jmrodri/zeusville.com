@@ -11,4 +11,6 @@ It seems that this is the year of SOA. Maybe I'm just not a visionary any more, 
 
 While I believe that SOA does have a purpose, I think we're looking to find a problem to solve using SOA. I like to think that we as engineers have problems that need solving and not just using the technology du jour.
 
-I guess the thing that bothers me most about SOA is just the buzzword not the actual architecture.
+I guess the thing that bothers me most about SOA is just the buzzword not the actual
+
+architecture.

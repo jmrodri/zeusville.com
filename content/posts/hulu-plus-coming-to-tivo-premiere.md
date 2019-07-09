@@ -7,4 +7,6 @@ categories: [Technology]
 type: post
 ---
 
-Looks like [Hulu](http://www.hulu.com/plus#devices) is coming to [TiVo Premiere](https://www3.tivo.com/store/premiere.do). [![](http://zeusville.files.wordpress.com/2010/10/hulu-ps3-tivo.png "hulu-ps3-tivo")](http://zeusville.files.wordpress.com/2010/10/hulu-ps3-tivo.png)
+Looks like [Hulu](http://www.hulu.com/plus#devices) is coming to [TiVo Premiere](https://www3.tivo.com/store/premiere.do).
+
+[![](http://zeusville.files.wordpress.com/2010/10/hulu-ps3-tivo.png "hulu-ps3-tivo")](http://zeusville.files.wordpress.com/2010/10/hulu-ps3-tivo.png)

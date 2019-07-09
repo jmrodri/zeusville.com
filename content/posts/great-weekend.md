@@ -7,9 +7,13 @@ categories: [Personal]
 type: post
 ---
 
-We had a pretty good weekend. It was chock full of activity (at least more than we usually have). On Saturday, we gave the boys breakfast then we packed them in the car to visit the North Carolina Zoo in Asheboro. It's roughly a 2 hour drive from our home in Wake Forest.
+We had a pretty good weekend. It was chock full of activity (at least more than we usually have). On Saturday, we gave the boys breakfast then we packed them in
 
-Liz packed sandwiches and other snacks to eat on the drive there. We arrived at the zoo around 1:30pm, the boys were ready after taking a much needed nap in the car. We chose to visit the African side of the zoo first. We were hoping to rent a double stroller while at the zoo, but they were all gone. So Adan walked and Liz & I took turns carrying Marco. They did reasonbly well most, though Adan still has some "listening" issues. But all in all they did well. The zoo closes at 5pm, and it was now 4:30pm, we were all extremely tired expecially after having to carry Marco around for most of the tour (though we did finally find a double stroller but that was for about the last hour of the trip).
+the car to visit the North Carolina Zoo in Asheboro. It's roughly a 2 hour drive from our home in Wake Forest.
+
+Liz packed sandwiches and other snacks to eat on the drive there. We arrived at
+
+the zoo around 1:30pm, the boys were ready after taking a much needed nap in the car. We chose to visit the African side of the zoo first. We were hoping to rent a double stroller while at the zoo, but they were all gone. So Adan walked and Liz & I took turns carrying Marco. They did reasonbly well most, though Adan still has some "listening" issues. But all in all they did well. The zoo closes at 5pm, and it was now 4:30pm, we were all extremely tired expecially after having to carry Marco around for most of the tour (though we did finally find a double stroller but that was for about the last hour of the trip).
 
 On the way back we planned to stop and get some food at a restaurant. We planned to eat in Asheboro, but no one was really hungry. We ended up stopping at a Perkin's family restaurant in Cary off if Hwy 64. While I loved my dinner, everyone else was a lot less impressed. Would I go back there? Yep I sure would. The portions were decent and the price was great. You have to try their French Chocolate Silk cake/pie. It's great.
 

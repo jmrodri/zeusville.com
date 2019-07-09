@@ -7,37 +7,78 @@ categories: [Linux, Personal, Technology]
 type: post
 ---
 
-The [list of packages](http://zeusville.wordpress.com/packages-20070306/) installed on my machine valid as of March 06, 2007 at 11:18pm. The .xsession-errors file shows some interesting bits:```
+The [list of packages](http://zeusville.wordpress.com/packages-20070306/) installed on my machine valid as of March 06, 2007 at 11:18pm.
+
+The .xsession-errors file shows some interesting bits:
+
+```
+
+
 (process:2789): GLib-WARNING \*\*: GError set over the top of a previous GError or uninitialized memory.
+
 This indicates a bug in someone's code. You must ensure an error is NULL before it's set.
+
 The overwriting error message was: File not found
+
 compiz: Failed to load slide: fedora-logo
 
 (process:2789): GLib-WARNING \*\*: GError set over the top of a previous GError or uninitialized memory.
+
 This indicates a bug in someone's code. You must ensure an error is NULL before it's set.
+
 The overwriting error message was: File not found
+
 compiz: Failed to load slide: /usr/share/pixmaps/fedora-logo
+
 compiz: water: GL\_ARB\_fragment\_program is missing
-```At the time of the hang I was running (from the UI perspective):
+
+At the time of the hang I was running (from the UI perspective):
 
 *   firefox
+
 *   bouncingcows
+
 *   eclipse
+
 *   gnome-terminal
 
-I was able to ssh into the box after the hang. `top` showed the following bit of info:```
+I was able to ssh into the box after the hang.  `top` showed the following bit of info:
+
+```
+
+
 VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND
+
 469m  111m 17m R 99.4 11.1   6:25.66 Xorg
-```while `strace` dumped out the following message 1021 times before I killed it:```
-\--- SIGALRM (Alarm clock) @ 0 (0) ---
-rt\_sigreturn(0xe)                       = -1 EBUSY (Device or resource busy)
-ioctl(7, 0x6444, 0)                     = -1 EBUSY (Device or resource busy)
+
+while `strace` dumped out the following message 1021 times before I killed it:
+
+```
+
+
 --- SIGALRM (Alarm clock) @ 0 (0) ---
+
 rt\_sigreturn(0xe)                       = -1 EBUSY (Device or resource busy)
+
 ioctl(7, 0x6444, 0)                     = -1 EBUSY (Device or resource busy)
-ioctl(7, 0x6444, 0)                     = -1 EBUSY (Device or resource busy)
+
 --- SIGALRM (Alarm clock) @ 0 (0) ---
+
 rt\_sigreturn(0xe)                       = -1 EBUSY (Device or resource busy)
+
 ioctl(7, 0x6444, 0)                     = -1 EBUSY (Device or resource busy)
+
 ioctl(7, 0x6444, 0)                     = -1 EBUSY (Device or resource busy)
+
+--- SIGALRM (Alarm clock) @ 0 (0) ---
+
+rt\_sigreturn(0xe)                       = -1 EBUSY (Device or resource busy)
+
+ioctl(7, 0x6444, 0)                     = -1 EBUSY (Device or resource busy)
+
+ioctl(7, 0x6444, 0)                     = -1 EBUSY (Device or resource busy)
+
+
+```
+```
 ```

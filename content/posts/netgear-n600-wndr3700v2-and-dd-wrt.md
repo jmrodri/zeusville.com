@@ -7,7 +7,9 @@ categories: [Linux, Technology]
 type: post
 ---
 
-Since the default Netgear firmware doesn't have DNS built in, I flashed the [WNDR3700](http://www.dd-wrt.com/wiki/index.php/Netgear_WNDR3700) with dd-wrt. But I was thoroughly disappointed with the performance even after following the settings from the wiki for the [Atheros](http://www.dd-wrt.com/wiki/index.php/Atheros/ath_wireless_settings) wireless settings.
+Since the default Netgear firmware doesn't have DNS built in, I flashed the [WNDR3700](http://www.dd-wrt.com/wiki/index.php/Netgear_WNDR3700)
+
+with dd-wrt. But I was thoroughly disappointed with the performance even after following the settings from the wiki for the [Atheros](http://www.dd-wrt.com/wiki/index.php/Atheros/ath_wireless_settings) wireless settings.
 
 **netgear wireless n (5Ghz) 2ft ddwrt**
 
@@ -57,4 +59,6 @@ Since the default Netgear firmware doesn't have DNS built in, I flashed the [WND
 
 **19.2Mbps**
 
-Clearly the **tuning** didn't actually help, and the fastest I could get was 83.2Mbps but I got 123.2Mbps with the stock firmware. I reset the router back to factory defaults and was able to get 104.8Mbps which is still slower than it was before but it's way better than dd-wrt. This is definitely disappointing since I had such great success with [Tomato](http://www.polarcloud.com/tomato) firmware on my WRT54G.
+Clearly the **tuning** didn't actually help, and the fastest I could get was 83.2Mbps but I got 123.2Mbps with the stock firmware. I reset the router back to factory defaults and was able to get 104.8Mbps which is still slower than it was before but it's way better than dd-wrt.
+
+This is definitely disappointing since I had such great success with [Tomato](http://www.polarcloud.com/tomato) firmware on my WRT54G.

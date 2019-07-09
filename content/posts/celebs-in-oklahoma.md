@@ -7,4 +7,6 @@ categories: [Personal]
 type: post
 ---
 
-I got this link this morning from a friend: [If Celebs Moved to Oklahoma](http://www.wintrest.com/if-celebs-moved-to-oklahoma/). This one is my favorite: [![](http://www.wintrest.com/wp-content/uploads/2008/03/tomcruise.jpg)](http://www.wintrest.com/if-celebs-moved-to-oklahoma/)
+I got this link this morning from a friend: [If Celebs Moved to Oklahoma](http://www.wintrest.com/if-celebs-moved-to-oklahoma/). This one is my favorite:
+
+[![](http://www.wintrest.com/wp-content/uploads/2008/03/tomcruise.jpg)](http://www.wintrest.com/if-celebs-moved-to-oklahoma/)

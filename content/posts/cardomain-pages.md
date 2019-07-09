@@ -7,4 +7,8 @@ categories: [Cars]
 type: post
 ---
 
-I created pages on cardomain.com for my cars. [Mazdaspeed3](http://www.cardomain.com/ride/3053310) [Trans Am](http://www.cardomain.com/ride/3053313)
+I created pages on cardomain.com for my cars.
+
+[Mazdaspeed3](http://www.cardomain.com/ride/3053310)
+
+[Trans Am](http://www.cardomain.com/ride/3053313)

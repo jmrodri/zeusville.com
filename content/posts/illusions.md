@@ -7,4 +7,6 @@ categories: [Personal, Technology]
 type: post
 ---
 
-This guy has some cool pics. [Illusions](http://damncoolpics.blogspot.com/2007/02/photo-illusions.html)
+This guy has some cool pics.
+
+[Illusions](http://damncoolpics.blogspot.com/2007/02/photo-illusions.html)

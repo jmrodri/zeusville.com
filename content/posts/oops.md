@@ -7,4 +7,6 @@ categories: [Technology]
 type: post
 ---
 
-I love using Google Chrome, but I find it funny how it's not always the best browser when viewing Google sites. :) [![](http://zeusville.files.wordpress.com/2010/10/googletvoops.png "googletvoops")](http://zeusville.files.wordpress.com/2010/10/googletvoops.png)
+I love using Google Chrome, but I find it funny how it's not always the best browser when viewing Google sites. :)
+
+[![](http://zeusville.files.wordpress.com/2010/10/googletvoops.png "googletvoops")](http://zeusville.files.wordpress.com/2010/10/googletvoops.png)

@@ -7,4 +7,8 @@ categories: [Linux]
 type: post
 ---
 
-Making the following changes to /etc/pulse/default.pa seems to fix the hanging audio of the flash-plugin and banshee: `load-module module-hal-detect **tsched=0**` For more information click here: [https://fedoraproject.org/wiki/Features/GlitchFreeAudio](https://fedoraproject.org/wiki/Features/GlitchFreeAudio)
+Making the following changes to /etc/pulse/default.pa seems to fix the hanging audio of the flash-plugin and banshee:
+
+`load-module module-hal-detect **tsched=0**`
+
+For more information click here: [https://fedoraproject.org/wiki/Features/GlitchFreeAudio](https://fedoraproject.org/wiki/Features/GlitchFreeAudio)
