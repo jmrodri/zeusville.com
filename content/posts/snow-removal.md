@@ -23,4 +23,4 @@ By 12:30pm, it was pretty much all gone.
 
 I think we're ready for the snow now :) Bring it!
 
-[![14471503-1424897959-400x300](https://zeusville.files.wordpress.com/2015/02/14471503-1424897959-400x300.jpg)](http://www.wral.com/stock-up-stay-home-significant-snow-on-the-way/14469964/)
+[![14471503-1424897959-400x300](/img/2015/02/14471503-1424897959-400x300.jpg)](http://www.wral.com/stock-up-stay-home-significant-snow-on-the-way/14469964/)

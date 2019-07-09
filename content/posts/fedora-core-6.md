@@ -21,7 +21,7 @@ The printing dialog actually found the all the printers on my network both the o
 
 Then there's the [bling bling](http://en.wikipedia.org/wiki/Bling_bling). I turned on the desktop background.
 
-[![desktop background](https://zeusville.files.wordpress.com/2006/10/desktop_bg.thumbnail.png)](https://zeusville.files.wordpress.com/2006/10/desktop_bg.png "desktop background")
+[![desktop background](/img/2006/10/desktop_bg.thumbnail.png)](/img/2006/10/desktop_bg.png "desktop background")
 
 You can use CTRL+ALT+ (left and right arrow) to scroll through the workspaces in a great 3D manner. It is surprisingly fast.
 

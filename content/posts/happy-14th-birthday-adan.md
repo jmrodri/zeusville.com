@@ -11,8 +11,8 @@ Today we celebrate Adan's 14th birthday. He's grown a lot both physically and me
 
 Here he is having fun with some sunglasses I got from work.
 
-[![21292971852_ab3a3e0e9a_k](https://zeusville.files.wordpress.com/2015/09/21292971852_ab3a3e0e9a_k.jpg?w=549)](https://zeusville.files.wordpress.com/2015/09/21292971852_ab3a3e0e9a_k.jpg)
+[![21292971852_ab3a3e0e9a_k](/img/2015/09/21292971852_ab3a3e0e9a_k.jpg?w=549)](/img/2015/09/21292971852_ab3a3e0e9a_k.jpg)
 
 His baseball jersey.
 
-[![21803625642_430849b916_k](https://zeusville.files.wordpress.com/2015/09/21803625642_430849b916_k.jpg?w=549)](https://zeusville.files.wordpress.com/2015/09/21803625642_430849b916_k.jpg)
+[![21803625642_430849b916_k](/img/2015/09/21803625642_430849b916_k.jpg?w=549)](/img/2015/09/21803625642_430849b916_k.jpg)

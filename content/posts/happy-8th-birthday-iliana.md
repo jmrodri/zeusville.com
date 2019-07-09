@@ -9,4 +9,4 @@ type: post
 
 I can't believe she's eight, but isn't it great! She is a wonderful Valentine's Day present to our family. Happy Birthday Sweetie!
 
-[![image](https://zeusville.files.wordpress.com/2015/02/image.jpg?w=660)](https://zeusville.files.wordpress.com/2015/02/image.jpg)
+[![image](/img/2015/02/image.jpg?w=660)](/img/2015/02/image.jpg)

@@ -9,4 +9,4 @@ type: post
 
 Happy Birthday to our little "Torito", Marco! He's one tough and talented kid.
 
-[![8517](https://zeusville.files.wordpress.com/2015/10/8517.jpg)](https://zeusville.files.wordpress.com/2015/10/8517.jpg)
+[![8517](/img/2015/10/8517.jpg)](/img/2015/10/8517.jpg)
